@@ -38,10 +38,10 @@ Anlık bir görüntü 24 küçük kareden oluşur. 25. kare fark edemediğimiz a
 
 ![Matrix'te subliminal mesaj](images/vq50ceb5a7s-e1430160325661.jpg)
 
-**Örneğin 1999 yılında  vizyona giren Matrix adlı filmde 11 eylül saldırılarının tarihinin yazılması gibi.** 
+**Örneğin 1999 yılında  vizyona giren Matrix adlı filmde 11 eylül saldırılarının tarihinin yazılması gibi.** 
 
 ![jonny bravo'da subliminal mesaj](images/jonny-e1430160527251.jpg)
 
-**Nisan 2001 tarihinde yayınlanan Johnny Bravo adlı çizgi filmin bu bölümünde ikiz kulelerin vurulduğunun resmedilmiş olması**
+**Nisan 2001 tarihinde yayınlanan Johnny Bravo adlı çizgi filmin bu bölümünde ikiz kulelerin vurulduğunun resmedilmiş olması**
 
 Bunlara benzer pek çok film, çizgi film, reklam, dergi ve ya afiş bulunmaktadır. Subliminal mesaj günümüzün en iyi sinema tekniği konumundadır.

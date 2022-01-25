@@ -22,4 +22,4 @@ chrome://flags/#enable-tab-audio-muting
 
 Bunu yazarak hoparlör simgesini bir butona dönüştürmeyi sağlayan ayar seçeneğine direkt olarak ulaşırsınız. Akılda kalıcı olması için, direkt olarak chrome://flags yazarak girecek olursanız bu sayfanın en başına ulaşırsınız. Bundan sonra yapmanız gereken tek işlem ilgili ayarı "Etkinleştir" linkine tıklayarak etkin hale getirmek olacak.
 
-Bunun dışında son güncellemelerle birlikte artık sekme başlıklarına sağ tıklanarak "Sekmenin sesini kapat" seçeneğiyle sekme sesi kapatılabiliyor.
+Bunun dışında son güncellemelerle birlikte artık sekme başlıklarına sağ tıklanarak "Sekmenin sesini kapat" seçeneğiyle sekme sesi kapatılabiliyor.

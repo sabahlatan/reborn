@@ -17,6 +17,6 @@ Hong Kong'ta sokakları temiz tutmak adına başlatılan çalışma bir hayli il
 
 ![Çöpteki DNA'dan kimlik tespiti](images/2015-04-27-1430122947-1375472161.jpg)
 
-Öncelikle sokaklarda yere atılan çöpler toplanıyor. Çöplerdeki DNA'lar analiz ediliyor ve çöplerin atıldığı mahalledeki insanlar inceleniyor. Bu bilgiler dijital ortamda şekillendiriliyor. DNA ile kişilerin tam olarak resimleri çıkarılamaz ancak saç ve ten rengi, cinsiyetleri öğrenilmesi mümkün. Bundan yararlanarak suçluların gerçeğe yakın yüz profilleri oluşturuluyor. Bununla da kalmıyor bütün billboardlara afiş olarak asılıyor ve sosyal medyada paylaşılıyor. Çevreci olan bu çalışma Hong Kong ve dünyada yankı uyandırdı. 
+Öncelikle sokaklarda yere atılan çöpler toplanıyor. Çöplerdeki DNA'lar analiz ediliyor ve çöplerin atıldığı mahalledeki insanlar inceleniyor. Bu bilgiler dijital ortamda şekillendiriliyor. DNA ile kişilerin tam olarak resimleri çıkarılamaz ancak saç ve ten rengi, cinsiyetleri öğrenilmesi mümkün. Bundan yararlanarak suçluların gerçeğe yakın yüz profilleri oluşturuluyor. Bununla da kalmıyor bütün billboardlara afiş olarak asılıyor ve sosyal medyada paylaşılıyor. Çevreci olan bu çalışma Hong Kong ve dünyada yankı uyandırdı. 
 
 ![Hong Kong'da çöpteki DNA'dan kimlik tespiti](images/hong.png)

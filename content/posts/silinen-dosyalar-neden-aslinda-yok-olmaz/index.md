@@ -43,11 +43,11 @@ Buraya kadar bir çıkarımda bulunmuşsunuzdur, fakat yine de üzerinden geçel
 
 #### İlgili Draje
 
->  
+>  
 > 
 > View this post on Instagram
 > 
->  
+>  
 > 
 > [Silinmeyen dosyalar . . #sabahlatan #sabahlatandraje #bilim #bilgisayar #bilişim #bilgi #bilişim #donanım #yazılım #tuhaf #enteresan #turkish #türkçe #ilginç #ilginçbilgiler](https://www.instagram.com/p/B-hZFqrh4sN/?utm_source=ig_embed&utm_campaign=loading)
 > 

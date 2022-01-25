@@ -25,7 +25,7 @@ Gelelim çözüme. Chrome'un otomatik sekme kaldırma (automatic tab discarding)
 
 ![Chrome otomatik sayfa yenilemesini engellemek](images/chrome-automatic-tab-discarding-cozumu.png)
 
-Aynı sayfada belirttiği gibi, çıkartılan sekmeleri incelemek, bilgi almak için `chrome://discards/` sayfasını kullanabilirsiniz. Bu özelliği nasıl daha ayrıntılı kullanacağınızdan vesaire bahsetmeyi düşünmüyorum, çünkü bu gibi firmaların bu tür değişiklikleri dayatması sonucu eninde sonunda öğreniyorsunuz.
+Aynı sayfada belirttiği gibi, çıkartılan sekmeleri incelemek, bilgi almak için `chrome://discards/` sayfasını kullanabilirsiniz. Bu özelliği nasıl daha ayrıntılı kullanacağınızdan vesaire bahsetmeyi düşünmüyorum, çünkü bu gibi firmaların bu tür değişiklikleri dayatması sonucu eninde sonunda öğreniyorsunuz.
 
 #### Alternatif Bellekten Kazanç Yolu
 

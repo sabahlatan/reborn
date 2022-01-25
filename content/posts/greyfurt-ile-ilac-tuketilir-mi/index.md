@@ -42,7 +42,7 @@ Furanokumarin sadece **CYP3A4** inhibe etmiyor, **1A2** ve **2A6**'yı da inhibe
 Dr. David Bailey ise greyfurt ile alınmaması gereken ilaçların sayısının 85'e ulaştığını belirtmiş. Dr. David bir bardak greyfurt suyu ile ilaç kullanmak aynı ilacı aynı anda 5-10 defa kullanmak yani bir bardak su ile 5-10 hap kullanmak ile eşdeğer olduğunu söylemiş. Neal Patel ise bu durumun sadece greyfurt ile sınırlı kalmadığını sütünde bazı antibiyotiklerin çözülmesini durdurduğunu belirtmiş.
 
   
-CYP3A4  enzimi ile alakalı greyfurt suyu ile ilgili birçok ilaç bulunuyor. Kalsiyum kanal blokörleri, anksiyolitikler, antibiyotikler, neropsikiyatrikler bunlardan bir kaçı.
+CYP3A4  enzimi ile alakalı greyfurt suyu ile ilgili birçok ilaç bulunuyor. Kalsiyum kanal blokörleri, anksiyolitikler, antibiyotikler, neropsikiyatrikler bunlardan bir kaçı.
 
 ### Sadece Greyfurt ile mi Sınırlı?
 

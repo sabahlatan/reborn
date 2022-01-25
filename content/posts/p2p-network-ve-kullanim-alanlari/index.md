@@ -31,19 +31,19 @@ Ayrıca “node” kelimesini “düğüm “olarak yazdım, “peer” kelimesi
 
 P2P sistemlerinin kullanım alanları çok geniştir. Kaynak paylaşımı (işlemci, disk, bant genişliği vb.), cihazlar arası kolaborasyon(ortaklaşa bir iş halledilmesi) ve en yaygın kullanım şekli olan dosya paylaşımı P2P sistemlerinin kullanım amaçlarına örnek olarak verilebilir. P2P sistemlerinde cihazlar eş zamanlı olarak dosyaları hem gönderip hem de indirebiliyor olduklarından dolayı, dosya paylaşımı için idealdir.
 
- 
+ 
 
 ### **Neden P2P?**
 
 Bir P2P sistemini durdurmanız, kapatmanız çok zordur. Bunu yapmak için bütün eşleri kapatmalı veya bağlantılarını bir şekilde sonlandırmalısınız. Bundan dolayı sistemlerin sağlam olduğunu söyleyebiliriz. Bunun yanında, P2P sistemler yüksek seviyede ölçeklenebilirdir. Birinin sisteme dahil olması için merkezi bir sunucuda, merkezi bir ayarlama yapılması gerekmez. Ayrıca, dosya paylaşımı konusunda, ağ ne kadar kalabalıklaşıyorsa o kadar hızlanıyordur. Bunun sebebi, bir dosyayı parça parça birden fazla kişiden aynı anda indirebilmenize olanak sağlamasıdır.
 
- 
+ 
 
 ### **Yan Bilgi: Ağ Tarafsızlığı**
 
 ![Net neutrality ile ilgili bir görsel](images/Net-Neutrality925.jpg)Tükçe’de ayrıca “İnternet Tarafsızlığı”, İngilizce’de ise çoğunlukla “Network Neutrality” ya da “Net Neutrality” denilen kavram, 2003 yılı itibariyle temelleri atılmış bir kavramdır. Bu kavram, İnternet Servis Sağlayıcılarılarının(ISP), İnternet üzerindeki bütün iletişime eşit davranması gerektiğini savunan bir prensiptir. Amaçlanan, ISP’lerin bir takım internet içeriklerini bilerek yavaşlatma veya engellemelerinin mümkün olmamasını sağlamaktır. P2P sistemleri üzerinde yol alan verilerin kontrol edilmesi neredeyse imkansızdır. Bunun sebebi, en temelinde iki cihazın doğrudan birbirleriyle iletişiyor oluşudur. Bu sebepten dolayı P2P, Ağ Tarafsızlığı için önemli bir kavramdır.
 
- 
+ 
 
 ### **P2P sistemlerinin temel fonksiyonları nelerdir?**
 
@@ -53,7 +53,7 @@ Bir P2P sistemini durdurmanız, kapatmanız çok zordur. Bunu yapmak için büt�
 
 Not: P2P sistemine bağlanan her bir eşe aynı zamanda düğüm diyeceğiz.
 
-![p2p keşif](images/P2P-with-a-Simple-Discovery-Server-3.png)**Kaydolma Fonksiyonu(Enrollment Function):**  Düğümler sisteme dahil olmak için bazı bilgilere sahip olmalılar. Kaydolma Fonksiyonu, düğümlerin bilgilerinin doğrulanmasını ve izinlerinin kontrol edilmesini sağlar.
+![p2p keşif](images/P2P-with-a-Simple-Discovery-Server-3.png)**Kaydolma Fonksiyonu(Enrollment Function):**  Düğümler sisteme dahil olmak için bazı bilgilere sahip olmalılar. Kaydolma Fonksiyonu, düğümlerin bilgilerinin doğrulanmasını ve izinlerinin kontrol edilmesini sağlar.
 
 **Eş Keşfetme Fonksyionu(Peer Discovery Function):** Bir düğüm, eş olabilmek için, sistemdeki bir veya daha fazla cihazla bağlantı kurmalıdır. Eş Keşfetme Fonksiyonu, yeni düğümlerin sisteme dahil olabilmeleri için halihazırda sistemde olan eşleri bulmalarını sağlar.
 
@@ -69,7 +69,7 @@ Sırada anlatacağım fonksiyonlar P2P sistemine göre değişirler, yani her P2
 
 **Mesaj İletim Fonksiyonu(Message Transport Function):** Sistemdeki eşler arasında mesaj değiş tokuşunu halleder. Merkezi bir sunucuyla gerçekleşen veya direkt eşler arasında gerçekleşen protokol mesajları buna örnek olarak verilebilir.
 
- 
+ 
 
 ### **P2P sistemlerinin çeşitleri nelerdir?**
 
@@ -107,11 +107,11 @@ Ağ operatörleri, eşleşme ve dağıtım anlaşmaları kötü etkilenmesin diy
 
 **![zebranet örnek görsel](images/indir.jpg)**
 
- 
+ 
 
 **ZebraNet Örneği:** P2P içerik paylaşımı ve Gecikme Toleranslı Ağ(Delay-tolerant Networking) yöntemleri ile hazırlanılmış bir sensör ağıdır. Amaçlanan şey, doğadaki zebraların takip edilmesidir. Sisteme göre her zebra bir kolye takar, bu kolye çeşitli bilgiler barındırır ve bir P2P ağına bağlıdır. Mobil istasyonlar kablosuz bir şekilde kolyelerle iletişir ve kolyeler birbirleri arasında topladıkları veriyi paylaşırlar. Bu sisteme katı bir P2P sistem diyemeyiz, çünkü cihazlar sadece istasyondan gelen bir talebi işliyorlar.
 
- 
+ 
 
 ### **P2P ağlarda dağıtık hesaplama nedir?**
 
@@ -121,15 +121,15 @@ Ağ operatörleri, eşleşme ve dağıtım anlaşmaları kötü etkilenmesin diy
 
 **SETI@home Örneği:** Açılımı “Search for Extra-Terrestrial Intelligence”, yani “Uzaylı Zekası Arayışı” olan bir başka dağıtık hesaplama örneği. Bu sistemde bir çok bilgisayar, radyo teleskop verilerini analiz etmek için çalıştırılıyor.
 
- 
+ 
 
- 
+ 
 
 ### **![p2p voip ağı örneği](images/P2P-VoIP-architecture.png)P2P ağlarda kolaborasyon nedir?**
 
 Voice over IP(VoIP) ve Anlık Mesajlaşma(IM) sistemleri gibi sistemler P2P kolaborasyon sistemlerine örnek verilebilir. Bu tarz kolaborasyon uygulamaları randevu, NAT geçişi(Network Address Translation) ve bir grup medya ile alakalı fonksiyonlarla çalışır. P2P randevu sistemleri herhangi bir altyapı yokken iyi iş görür. İnsanlar herhangi bir internet bağlantısına gerek duymadan, aralarında veri paylaşımı yapabilirler.
 
- 
+ 
 
 ### **Bazı çıkarımlar**
 
@@ -151,7 +151,7 @@ Sistemdeki eşler arasındaki kolaborasyonun bozuk olması, P2P sistemini negati
 
 P2P sistemleri merkezi sunucu gereksinimlerini azaltır veya ortadan kaldırır, bu da bir yüksek seviyeli enerji tüketimini(örneğin sunucu çiftlikleri) ortadan kaldırmaya yardımcı olur.
 
- 
+ 
 
 ### **![p2p güvenliği ile alakalı bir görsel](images/p2p_sharing.jpg)Güvenlikle alakalı bazı fikirler**
 
@@ -163,13 +163,13 @@ Saldırganlar, P2P sistemin yönlendirme mekanizmasına saldırabilirler. Bir sa
 
 Merkezi mimarilerdeki merkezi elementler saldırılar için açık hedeflerdir. P2P sistemler merkezi elementleri minimize ederler.
 
- 
+ 
 
 ### **![bittorrent ile alakalı görsel](images/screen-classic-laptop-6a2777b4c25220e6417884b1ef3b40f3.png)BitTorrent**
 
 2001 yılında, ilk implementasyonu Python dilinde yazılmıştır. BitTorrent, büyük dosya paylaşım protokolleri arasında en meşhurlarındandır. Şubat 2012 tarihinde, küresel çapta internet üzerinde dosya paylaşımı, tüm internetin %6’ sını kapsıyordu. Aynı tarihte BitTorrent, tüm internet üzerindeki dosya paylaşımının %3.35’ lik kısmını kapsamıştı, bu tüm dosya paylaşımının yarısından fazlası demek.
 
- 
+ 
 
 #### **BitTorrent Nasıl Çalışır?**
 
@@ -187,7 +187,7 @@ Dosyaları indiren kullanıcıya eş(peer) denir. İndirmesini tamamlayan eş, y
 
 BitTorrent dosyaları topaklara(chunk) böler, bu topakların boyutu 256 KB ile 1 MB arasında değişir. Bu topaklar, aktarımdan sonra her parçanın orijinal olup olmadığını kontrol etmek için, geri dönüşümsüz şifrelenir(hash). Bu geri dönüşümsüz şifreler torrent tanımlama dosyasında tutulur. Torrent mekanizmasında herkes bu topakları birbirine yollar. Her topağın bir geri dönüşümsüz şifrelenmiş metni hali hazırda torrent tanımlama dosyasında olduğu için, alınan topak tekrar şifrelenir ve iki şifrenin birbiriyle uyuşup uyuşmadığına bakılarak, bu küçük dosya parçacığı doğrulanmış olur. Tüm indirme bittiğinde tüm topaklar birleştirilip ana dosya elde edilmiş olur.
 
- 
+ 
 
 #### **Torrent tanımlama dosyası neleri içerir?**
 
@@ -202,7 +202,7 @@ BitTorrent dosyaları topaklara(chunk) böler, bu topakların boyutu 256 KB ile 
     - **Pieces Length:** Her topağın byte cinsinden boyutu. (256 KB topaklar için, 262,144 B civarı bir sayı)
     - **Pieces:** Tüm topakların geri dönüşümsiz şifre listesi. BitTorrent ,SHA-1 geridönüşümsüz şifreleme algoritmasını kullanır, oluşan şifreler 160 bit boyutunda olur. Her topak için oluşan şifre 20 byte civarı olur.
 
- 
+ 
 
 ### **![blockhain temsili resmi](images/5dada2437af5071a64de6daf.jpg)Blockchain**
 

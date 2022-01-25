@@ -121,7 +121,7 @@ Tac Mahal eseri ve altın oran kısımlarının basit bir şekilde tayini. Elbet
 
 ### Kısaca Altın Oran
 
-Altın oran değeri 1,6180339... gibi bir irrasyonel sayıdır. **Φ** sembölü ile gösterilir. Phidias adlı yunan heykeltraş eserlerinde altın oranı ilk kez uygulayan kişidir.  Philiasdan sonra Öklit altın oranı kullanarak bir pentagram oluşturmuştur. Elementler adlı kitabında bir doğruyu 1,618... inci noktasından bölmekten bahsetmiştir.
+Altın oran değeri 1,6180339... gibi bir irrasyonel sayıdır. **Φ** sembölü ile gösterilir. Phidias adlı yunan heykeltraş eserlerinde altın oranı ilk kez uygulayan kişidir.  Philiasdan sonra Öklit altın oranı kullanarak bir pentagram oluşturmuştur. Elementler adlı kitabında bir doğruyu 1,618... inci noktasından bölmekten bahsetmiştir.
 
 1200 yıllarda Fibonacci kendi adı ile anılacak olan seriyi ve altın oran ile ilgili bağlantısını bulmuştur. Leonardo Da Vinci, Picasso ve Mimar Sinan gibi meşhur mimar ve gerçek sanatçı kişilikler altın orandan yararlanmıştır.
 

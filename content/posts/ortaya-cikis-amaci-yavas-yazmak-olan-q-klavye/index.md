@@ -23,7 +23,7 @@ Q klavyenin, ya da QWERTY klavyenin kullanım popülaritesi ve insanların Q kla
 
 ### Q klavyenin harf dizilimi
 
-![Q Klavye](images/Glow-Keyboard-Wallpaper-High-Resolution-Photos-445152.jpg)Bu sayfaya herhangi bir bilgisayar veya geniş ekranlı bir akıllı telefon üzerinden bağlanıyorsanız muhtemelen Q klavye kullanıyorsunuzdur. Klavye kullanırken dikkat edilecek olursa orta kısımlardaki tuşlar çok az kullanılıyor. Oysa elin hızlı ulaşması konusunda en uygun pozisyona bu tuşlar sahiptir. Q klavyede en yaygın tuşlar klavyenin en uç noktalarına dizilmiştir. Harfler kullanım sıklığının aksine en alakasız yerlere sahiptir. Amaç hızlı ve rahat yazmak olduğunda klavye tuşları ellerin en uygun yerleşeceği noktalara yerleştirilir. Bu yüzden klavye tuşları alfabe baz alınarak "A, B, C..." şeklinde dizilmez.
+![Q Klavye](images/Glow-Keyboard-Wallpaper-High-Resolution-Photos-445152.jpg)Bu sayfaya herhangi bir bilgisayar veya geniş ekranlı bir akıllı telefon üzerinden bağlanıyorsanız muhtemelen Q klavye kullanıyorsunuzdur. Klavye kullanırken dikkat edilecek olursa orta kısımlardaki tuşlar çok az kullanılıyor. Oysa elin hızlı ulaşması konusunda en uygun pozisyona bu tuşlar sahiptir. Q klavyede en yaygın tuşlar klavyenin en uç noktalarına dizilmiştir. Harfler kullanım sıklığının aksine en alakasız yerlere sahiptir. Amaç hızlı ve rahat yazmak olduğunda klavye tuşları ellerin en uygun yerleşeceği noktalara yerleştirilir. Bu yüzden klavye tuşları alfabe baz alınarak "A, B, C..." şeklinde dizilmez.
 
 ### Daktilo ile başlayan tarihi
 
@@ -37,6 +37,6 @@ Q klavyedeki tuşlar alakasız yerleşimlerinden dolayı, İngilizce metin yazan
 
 ### İdeal alternatifler
 
-F klavye Türkçedeki harflerin kullanım sıklığına göre hazırlanmış bir klavyedir. Alışıldığında Türkçe bir metni Q klavyeyi çok iyi kullanan birinin erişemeyeceği bir hızda yazmayı sağlayacaktır. Bunun dışında geçtiğimiz aylarda Boğaziçi Üniversitesi'ndeki bir ekip tarafından, Türkçe'ye diğer klavyelerden daha uygun olduğu söylenerek tasarlanmış E klavye bulunuyor.![Q klavye ve F klavye](images/Q-ve-F-Klavye-30072014.jpg)
+F klavye Türkçedeki harflerin kullanım sıklığına göre hazırlanmış bir klavyedir. Alışıldığında Türkçe bir metni Q klavyeyi çok iyi kullanan birinin erişemeyeceği bir hızda yazmayı sağlayacaktır. Bunun dışında geçtiğimiz aylarda Boğaziçi Üniversitesi'ndeki bir ekip tarafından, Türkçe'ye diğer klavyelerden daha uygun olduğu söylenerek tasarlanmış E klavye bulunuyor.![Q klavye ve F klavye](images/Q-ve-F-Klavye-30072014.jpg)
 
 ![E klavye](images/bogazici-universitesi-nden-f-ve-q-klavyeye-alternatif-e-klavye-705x290.jpg)

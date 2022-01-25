@@ -55,7 +55,7 @@ Güzel ama kör bir kız olan Zooni sahne almak için gittiği Delhi'de rehber o
 
 İyi bir mühendislik okuluna başlayan ve içine düştükleri sürekli yarış sistemini değiştirmeye çalışan bir öğrenci ve 2 arkadaşını anlatan bir film. Dram ve komedinin bir arada işlendiği filmde gençlerin başlarından geçenler en iyi şekilde anlatılmıştır.
 
-![](images/3-aptal-turkce-dublaj-773.jpg)
+![](images/3-idiots-sabahlatan.jpg)
 
 ### **Talaash**
 
@@ -67,7 +67,7 @@ Polis olan Surjan oğlunu bir trafik kazasında kaybetmiştir ve eşi ile boşan
 
 ![](images/Talaash_poster.jpg)
 
- 
+ 
 
 **Taare Zameen Par**
 
@@ -79,7 +79,7 @@ Ishaan oldukça kötü, tembel ve sorumsuz bir öğrencidir. Kardeşi Yohaan ise
 
 ![](images/tumblr_n7o4xmVV0K1sk956do1_500.gif)
 
- 
+ 
 
 **Dil Chahta Hai**
 
@@ -89,9 +89,9 @@ Ishaan oldukça kötü, tembel ve sorumsuz bir öğrencidir. Kardeşi Yohaan ise
 
 Aşk konusunda birbirinden oldukça farklı 3 arkadaş... 3 arkadaş birbirine oldukça bağlıdır. Ancak biri çapkınlık peşinde, biri her gördüğüne aşık olan diğeri ise aşktan hiç bahsetmeyen biridir. Bir gün kaderin oyunu üçünün de aşka olan bakış açısını değiştirir. Aşk, yalnızlık, ayrılık ve dahası...
 
-**![](images/TRQWWVSRVP.jpg)**
+**![](images/dil-chanta-hai-sabahlatan.jpg)**
 
- 
+ 
 
 **Ghajini**
 
@@ -103,7 +103,7 @@ Sanjay Hindistan'da güçlü bir şirket olan Air Voice şirketinin sahibidir. K
 
 ![](images/Ghajini_Hindi.jpg)
 
- 
+ 
 
 ### **Lagaan**
 

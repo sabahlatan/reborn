@@ -21,7 +21,7 @@ tags:
 thumbnail: "un-agujero-negro.jpg"
 ---
 
-Karadelikler güneşten birkaç kat daha büyük yıldızların son evresidir. Karadelikler, muazzam bir çekim gücüne sahip, ışığı dahi içine çekip kaçmasına izin vermeyen gök cisimleridir. Karadeliklerin sonsuz kütleye sahip oldukları varsayılır. Bu kütlelerine rağmen hacimleri çok küçüktür. Kilometrelerle ifade edilebilecek kadar küçüktürler. Karadelik kavramı Albert Einstein'ın genel görelilik kuramıyla ortaya çıkmıştır. Sonra Karl Schwarzschild "Einstein alan denklemleri" adlı kara deliğin varlığı ortaya atan bir yazı yayınlamıştır. 1971 yılında ilk karadelik Uhuru uydusu tarafından Kuğu takımyıldızında tespit edilmiştir. Karadelikten bahsedebilmemiz için önce yıldızlardan bahsetmemiz gerek.
+Karadelikler güneşten birkaç kat daha büyük yıldızların son evresidir. Karadelikler, muazzam bir çekim gücüne sahip, ışığı dahi içine çekip kaçmasına izin vermeyen gök cisimleridir. Karadeliklerin sonsuz kütleye sahip oldukları varsayılır. Bu kütlelerine rağmen hacimleri çok küçüktür. Kilometrelerle ifade edilebilecek kadar küçüktürler. Karadelik kavramı Albert Einstein'ın genel görelilik kuramıyla ortaya çıkmıştır. Sonra Karl Schwarzschild "Einstein alan denklemleri" adlı kara deliğin varlığı ortaya atan bir yazı yayınlamıştır. 1971 yılında ilk karadelik Uhuru uydusu tarafından Kuğu takımyıldızında tespit edilmiştir. Karadelikten bahsedebilmemiz için önce yıldızlardan bahsetmemiz gerek.
 
 #### Yıldızlar Nasıl Oluşur?
 
@@ -41,7 +41,7 @@ Karadelikler bilim insanları için bir sır küpüdür. Bu gizemli gökcisimler
 
 #### Solucan Deliği
 
-Solucan deliği Albet Einstein tarafından ileri sürülmüştür. Solucan deliği uzay-zamanda bir kısayol olabileceğini varsayan bir kuramdır. Solucan deliği bir karadelik ve bir beyaz delik arasındaki bağlantıya denir. Yani bu Dünya'nın etrafında dönmek yerine Dünya'nın içinden geçmek gibi bir durumdur.
+Solucan deliği Albet Einstein tarafından ileri sürülmüştür. Solucan deliği uzay-zamanda bir kısayol olabileceğini varsayan bir kuramdır. Solucan deliği bir karadelik ve bir beyaz delik arasındaki bağlantıya denir. Yani bu Dünya'nın etrafında dönmek yerine Dünya'nın içinden geçmek gibi bir durumdur.
 
 Solucan deliğinin orta noktası durak noktasıdır. Burada birkaç saniye içinde yıldızların ölümünü görebilirsiniz. Ancak buradan çıkabilmek için ışıktan daha hızlı hareket etmeniz gerekir. Eğer çıkamazsanız enerji ve gaz kütlesi haline dönüşürsüz. Bu yüzden bu teori imkansız gibi görünüyor. Ancak modern fizik bunun aksini henüz kanıtlayamamıştır.
 
@@ -63,4 +63,4 @@ Geçmiş yolculuk imkansız gibi görünüyor ancak geleceğe yolculuk olabilir.
 
 Eğer galaksinin en büyük kara deliğine mekikle gitme şansımız olsaydı ve bu mekik kara deliğin olay ufkuna girmeden çevresinde kara deliğin çekim gücünün de verdiği etkiyle dolaşabilseydi zamanı bükebilirdi. Teoriye göre kara deliğin zamanı bükmesinden de yararlanabilecekti. Ve mekiktekiler için zaman Dünyaya oranla yarı yarıya olacaktı. Bu durumda onlar için 1 yıl geçtiğinde dünyadakiler için 2 yıl geçmiş olacaktı.
 
-Evrene bir sınır konulamaz. Çünkü evren ışığın hızından daha hızlı bir şekilde, daha da hızlanarak genişlemektedir. Bu yüzden evrenin sırrını çözebilmemiz bir hayal gibi görünüyor. Görülebilir evrende milyarlarca yıldız, gezegen karadelik, kuasar ve galaksiler bulunur. Işık hızına ulaşabilsek bile galaksiden çıkmamız binlerce yılı bulabilmektedir. Dünya ya en yakın karadelik milyonlarca kilometre uzaktadır. Bu yüzden karadelikler hakkında kesin bir bilgiye ulaşmamız güçtür.
+Evrene bir sınır konulamaz. Çünkü evren ışığın hızından daha hızlı bir şekilde, daha da hızlanarak genişlemektedir. Bu yüzden evrenin sırrını çözebilmemiz bir hayal gibi görünüyor. Görülebilir evrende milyarlarca yıldız, gezegen karadelik, kuasar ve galaksiler bulunur. Işık hızına ulaşabilsek bile galaksiden çıkmamız binlerce yılı bulabilmektedir. Dünya ya en yakın karadelik milyonlarca kilometre uzaktadır. Bu yüzden karadelikler hakkında kesin bir bilgiye ulaşmamız güçtür.

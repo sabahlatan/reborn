@@ -1,6 +1,8 @@
 baseURL: https://reborn.sabahlatan.com
 languageCode: tr-tr
 title: Sabahlatan
-theme: gece
+theme: binario
+params:
+  description: Sabahlamanın bahanesi, zevk alarak öğrenmenin adresi. Bilim, tarih, teknoloji, gündem, genel kültür, sanat, eğitim ve kalite.
 permalinks:
   posts: /blog/:filename/

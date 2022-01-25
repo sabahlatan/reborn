@@ -22,7 +22,7 @@ Hayatımızın her alanında bu oyunun yansımasını gördüğümüzü düşün
 
 Bu oyun öyle cinsiyete de bakmaz. Zira ilkokulda yenemediğim tek oyuncu bir 'Simge' adında bir kızdı. Rekabetimiz sadece tahta başındaydı. Daha sonra aynı takımda maçlara katıldık.
 
-Eğer ki satranç maçına çok kaptırdıysanız zamanın nasıl geçtiğini anlayamazsınız.  Hele ki karşınızdaki rakip size denkse değmeyin keyfinize! İzlemesi ayrı keyifli, oynaması ayrı keyiflidir kendisinin. Bilen bilir.
+Eğer ki satranç maçına çok kaptırdıysanız zamanın nasıl geçtiğini anlayamazsınız.  Hele ki karşınızdaki rakip size denkse değmeyin keyfinize! İzlemesi ayrı keyifli, oynaması ayrı keyiflidir kendisinin. Bilen bilir.
 
 Öyle okey, batak gibi oyunlara benzemez. Kimse size keşke şu hamleyi yapsaydın diyemez. Zira sonsuz tane ihtimal vardır. Sen başka bir hamleyi görürsün ama beklemediğin bir hamle şahı düşürür.
 

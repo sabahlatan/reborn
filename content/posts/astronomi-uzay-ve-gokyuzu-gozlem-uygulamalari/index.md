@@ -30,13 +30,13 @@ Astronomiye, gökyüzü gözlemlerine ve evrenin derinliklerine meraklıysanız 
 
 ![Stellarium ekran görüntüsü](images/457456435.jpg)
 
-Amatör olarak astronomiyle ilgileniyorsanız Stellarium'a aşina veya en azından adını duymuş olabilirsiniz. Stellarium açık kaynak kodlu bir bilgisayar uygulaması. Windows, Linux ve Mac OS üzerinde kullanılabiliyor. Dünya üzerinde seçtiğiniz bir konumda o an gökyüzünde hangi gökcisminin ne konumda olduğunu görebilmeniz uygulamanın başlıca özelliği. Gökcisimlerine yaklaşarak daha ayrıntılı bir şekilde görmeniz, üzerlerine tıklayarak haklarında bilgi almanız mümkün. Takımyıldızı çizgilerini ve bunlara özel çizimleri de ayrı ayrı görmenize olanak sağlıyor. Programda zaman kavramı ile de oynayabiliyorsunuz. Zamanı ileri, geri alabilir veya hızlı bir şekilde oynatabilirsiniz.
+Amatör olarak astronomiyle ilgileniyorsanız Stellarium'a aşina veya en azından adını duymuş olabilirsiniz. Stellarium açık kaynak kodlu bir bilgisayar uygulaması. Windows, Linux ve Mac OS üzerinde kullanılabiliyor. Dünya üzerinde seçtiğiniz bir konumda o an gökyüzünde hangi gökcisminin ne konumda olduğunu görebilmeniz uygulamanın başlıca özelliği. Gökcisimlerine yaklaşarak daha ayrıntılı bir şekilde görmeniz, üzerlerine tıklayarak haklarında bilgi almanız mümkün. Takımyıldızı çizgilerini ve bunlara özel çizimleri de ayrı ayrı görmenize olanak sağlıyor. Programda zaman kavramı ile de oynayabiliyorsunuz. Zamanı ileri, geri alabilir veya hızlı bir şekilde oynatabilirsiniz.
 
-### Google Sky Map
+### Google Sky Map
 
 ![Google Sky Map ekran görüntüsü](images/google-sky-map-7.jpg)
 
-Google'ın Sky Map uygulaması başlangıçta Stellarium'a çok benziyor gibi görülebilir. Fakat bu uygulamanın en büyük artısı Android işletim sistemli cihazlar için bir mobil uygulama olması. Dolayısıyla telefonda bulunan sensörleri kullanarak bir sanal gerçeklik havasıyla bölgedeki gerçek gökcisimlerini gözlemleyebiliyorsunuz. Telefonu tuttuğunuz konumda hangi gökcisimleri, hangi takımyıldızlar varsa direkt olarak bunların hakkında bilgi alabileceksiniz. Akıllı telefonunuz uygun sensörleri barındırmayacak kadar düşük modelli veya eskiyse bu uygulamayı yine de kullanmanıza engel teşkil etmiyor. Uygulamada tek bir seçeneği değiştirerek aynı gökyüzünü otomatik tespit etmek yerine sürükleyerek gezmeyi sağlamanız mümkün.
+Google'ın Sky Map uygulaması başlangıçta Stellarium'a çok benziyor gibi görülebilir. Fakat bu uygulamanın en büyük artısı Android işletim sistemli cihazlar için bir mobil uygulama olması. Dolayısıyla telefonda bulunan sensörleri kullanarak bir sanal gerçeklik havasıyla bölgedeki gerçek gökcisimlerini gözlemleyebiliyorsunuz. Telefonu tuttuğunuz konumda hangi gökcisimleri, hangi takımyıldızlar varsa direkt olarak bunların hakkında bilgi alabileceksiniz. Akıllı telefonunuz uygun sensörleri barındırmayacak kadar düşük modelli veya eskiyse bu uygulamayı yine de kullanmanıza engel teşkil etmiyor. Uygulamada tek bir seçeneği değiştirerek aynı gökyüzünü otomatik tespit etmek yerine sürükleyerek gezmeyi sağlamanız mümkün.
 
 ### Celestia
 
@@ -54,4 +54,4 @@ Bir zamanlar çok popüler olan, fakat çok daha pratik olan Google Maps alterna
 
 ![Rosetta nerede simulasyonu](images/234211.jpg)
 
-İnternet üzerinde birçok spesifik online veya indirilebilir uzay ve evren simulasyonları bulmanız mümkün. Çok fazla örnek bulunduğu için teker teker vermiyorum. Örneğin "where is Rosetta" veya "rosetta real time simulation" şeklinde bir arama yaparsanız 2004 yılında fırlatılan ve 2016 yılında görevi sona eren Rosetta uzay aracını simule eden uygulamalar bulabilirsiniz. Aynı şekilde "milkyway simulation" yazarak Samanyolu Galaksisi'nin simulasyonlarına, "Solar System simulation" yazarak Güneş Sistemi'nin simulasyonlarına ulaşmanız mümkün. Arama yapacağınız kelimeleri iyi seçmeniz gerekiyor.
+İnternet üzerinde birçok spesifik online veya indirilebilir uzay ve evren simulasyonları bulmanız mümkün. Çok fazla örnek bulunduğu için teker teker vermiyorum. Örneğin "where is Rosetta" veya "rosetta real time simulation" şeklinde bir arama yaparsanız 2004 yılında fırlatılan ve 2016 yılında görevi sona eren Rosetta uzay aracını simule eden uygulamalar bulabilirsiniz. Aynı şekilde "milkyway simulation" yazarak Samanyolu Galaksisi'nin simulasyonlarına, "Solar System simulation" yazarak Güneş Sistemi'nin simulasyonlarına ulaşmanız mümkün. Arama yapacağınız kelimeleri iyi seçmeniz gerekiyor.

@@ -19,7 +19,7 @@ thumbnail: "nasa-hubble-telescope1-e1429959127485.jpg"
 
 ![NASA Hubble teleskobu](images/HubbleNew-436-300x186.jpg)
 
-Nisan 1990 yılında uzaya gönderilen Hubble Uzay Teleskobu 25. yılına girdi. İlk uzay teleskobu olan Hubble eski olmasına rağmen bir çok özelliğe sahiptir. Amerikalı astronom Edwin Hubble anısına ismi bu teleskoba verilmişti. Hubble Uzay Teleskopu(HUT), STS-31 görevi sırasında Uzay Mekiği Discovery tarafından Dünya yörüngesine tam olarak 24 Nisan 1990 yılında yerleştirildi.
+Nisan 1990 yılında uzaya gönderilen Hubble Uzay Teleskobu 25. yılına girdi. İlk uzay teleskobu olan Hubble eski olmasına rağmen bir çok özelliğe sahiptir. Amerikalı astronom Edwin Hubble anısına ismi bu teleskoba verilmişti. Hubble Uzay Teleskopu(HUT), STS-31 görevi sırasında Uzay Mekiği Discovery tarafından Dünya yörüngesine tam olarak 24 Nisan 1990 yılında yerleştirildi.
 
 Başarılı performansıyla Hubble Uzay Teleskobu uzayın incelenmesinde en başarılı fotoğrafları çekti. Yeryüzünden 569 kilometre yukarıda olan Hubble 800.000 gök cisminde 1 milyondan fazla gözlemde bulunmuştur.
 
@@ -33,6 +33,6 @@ Hubble uzayda astronotlar tarafından bakımı yapılabilen tek teleskoptur. Hub
 
 ![Nebula](images/1200x630_304676_uzay-teleskobu-hubble-25-yasinda.jpg)
 
-![Nebula](images/hubble’in-25.-yili-kutlaniyor.jpg)
+![Nebula](images/hubblein-25.-yili-kutlaniyor.jpg)
 
 ![Hubble'ın çektiği fotoğraflar](images/hubble-pictures-9.jpg)

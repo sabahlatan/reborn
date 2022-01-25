@@ -47,7 +47,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Agar veya libAgar bir açık kaynak çok platformlu arayüz geliştirme aracıdır. Grafiksel Kullanıcı Arayüzleri oluşturmak için bir dizi kütüphanedir.
 
-**Platformlar:** Ürettiği uygulamalar X11, Windows, MacOS X, SDL ve buradaki diğer yapılar üzerinde native olarak çalışmaktadır. Ayrıca Framebuffer’lara, SDL ve OpenGL’e de eklenebilir ve bir pencere yöneticisi olarak kullanılabilir.
+**Platformlar:** Ürettiği uygulamalar X11, Windows, MacOS X, SDL ve buradaki diğer yapılar üzerinde native olarak çalışmaktadır. Ayrıca Framebuffer’lara, SDL ve OpenGL’e de eklenebilir ve bir pencere yöneticisi olarak kullanılabilir.
 
 **Lisanslama:** BSD
 
@@ -167,7 +167,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Platformlar:** Windows, HTML5, Native Android/iOS
 
-**Lisanslama:** Commercial 
+**Lisanslama:** Commercial 
 
 **Web Sitesi:** [https://001gamecreator.com/](https://001gamecreator.com/)
 
@@ -227,7 +227,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Platformlar:** Windows, Mac OS
 
-**Lisanslama:** Commercial 
+**Lisanslama:** Commercial 
 
 **Web Sitesi:** [https://tyranobuilder.com/](https://tyranobuilder.com/)
 
@@ -243,7 +243,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Çıkış Yılı:** 2012
 
-**Nedir:** Ren’Py 2D hikaye oyunları hazırlamak için oluşturulmuş çapraz platform grafiksel roman motorudur.  Bu zmaana kadar 1500’ün üzerinde görsel roman, oyun vb çalışmalarda kullanılmıştır.
+**Nedir:** Ren’Py 2D hikaye oyunları hazırlamak için oluşturulmuş çapraz platform grafiksel roman motorudur.  Bu zmaana kadar 1500’ün üzerinde görsel roman, oyun vb çalışmalarda kullanılmıştır.
 
 **Platformlar:** HTML5, Linux, Windows, Mac OSX, Android, iOS
 
@@ -267,7 +267,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Platformlar:** Linux, Windows, Mac OSX, WebGL
 
-**Lisanslama:** Commercial 
+**Lisanslama:** Commercial 
 
 **Web Sitesi:** [https://www.ambiera.com/coppercube/](https://www.ambiera.com/coppercube/)
 
@@ -351,7 +351,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Web Sitesi:** [http://love2d.org/](http://love2d.org/)
 
-**Topluluk:**  [http://love2d.org/forums/](http://love2d.org/forums/)
+**Topluluk:**  [http://love2d.org/forums/](http://love2d.org/forums/)
 
 #### RPG in a Box Engine
 
@@ -397,7 +397,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 ![ENIGMA Development Environment ile yapılmış bir oyun](images/enigma-de-1-sabahlatan-300x192.jpg) ![ENIGMA Development Environment ile yapılmış bir oyun](images/enigma-de-2-sabahlatan-300x165.jpg)
 
-**Tür:**  Oyun Motoru
+**Tür:**  Oyun Motoru
 
 **Dil:** Özelleştirilmiş(EDL, isimli GML ve C++ karışımı bir dil)
 
@@ -417,7 +417,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 ![nCine motoruyla yapılmış bir oyun](images/ncine-1-sabahlatan-300x184.jpg) ![nCine motorundan bir görsel](images/ncine-2-sabahlatan-300x169.jpg)
 
-**Tür:**  Oyun Motoru
+**Tür:**  Oyun Motoru
 
 **Dil:** C, C++, Lua
 
@@ -441,7 +441,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Çıkış Yılı:** 2010
 
-**Nedir:** FOnline Fallout ve Fallout 2 tarzında oyunlar yapılması için geliştirilmiş bir oyun motorudur. 
+**Nedir:** FOnline Fallout ve Fallout 2 tarzında oyunlar yapılması için geliştirilmiş bir oyun motorudur. 
 
 **Platformlar:** Linux, Windows
 
@@ -479,9 +479,9 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Çıkış Yılı:** 2013
 
-**Nedir:** HTML5 ile oyunlar ve uygulamalar yapan, güzel tasarlanmış, işinizi bayağı kolaylaştıracak şaşırtıcı derecede ilginç bir oyun motorudur. Chrome browser üzerinde çalışıyor, bu yüzden her yerde ulaşmanız mümkün. 
+**Nedir:** HTML5 ile oyunlar ve uygulamalar yapan, güzel tasarlanmış, işinizi bayağı kolaylaştıracak şaşırtıcı derecede ilginç bir oyun motorudur. Chrome browser üzerinde çalışıyor, bu yüzden her yerde ulaşmanız mümkün. 
 
-**Platformlar:** Windows, Mac, Linux, Web, Mobile,  iPad, AndroidTab, AndroidConsole, Metro, MetroTab, XONE, X360, PS4, WiiU
+**Platformlar:** Windows, Mac, Linux, Web, Mobile,  iPad, AndroidTab, AndroidConsole, Metro, MetroTab, XONE, X360, PS4, WiiU
 
 **Lisanslama:** Proprietary
 
@@ -553,7 +553,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 ![OpenMW Nevrasa Dralor manzarası](images/openmw-1-sabahlatan-300x169.jpg) ![OpenMW Balmora sabahı manzarası](images/openmw-2-sabahlatan-300x169.jpg)
 
-**Tür: ** Oyun Motoru
+**Tür: ** Oyun Motoru
 
 **Dil:** C++
 
@@ -581,7 +581,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Gideos çapraz platform oyunlar yapmanıza olanak sağlar. Bedava ve açık kaynaklıdır. Gideros ile online olarak da çalışmalar yapabilirsiniz.
 
-**Platformlar:** Windows, Mac OSX, Mobile, iOS, iPad, Android, AndroidTab, AndroidConsole, Metro, MetroTab
+**Platformlar:** Windows, Mac OSX, Mobile, iOS, iPad, Android, AndroidTab, AndroidConsole, Metro, MetroTab
 
 **Lisanslama:** MIT
 
@@ -593,7 +593,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 ![Construct 3 motoruyla yapılmış bir oyun](images/construct3-1-sabahlatan-300x167.jpg) ![Construct 3 motorundan bir görsel](images/construct3-2-sabahlatan-300x169.jpg)
 
-**Tür:**  Oyun Motoru
+**Tür:**  Oyun Motoru
 
 **Dil:** JavaScript
 
@@ -601,9 +601,9 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** 100000 den fazla kullanıcısı olan çapraz platform bir oyun motorudur.
 
-**Platformlar:** Windows, Mac, Linux, Web, iOS, Android, XONE
+**Platformlar:** Windows, Mac, Linux, Web, iOS, Android, XONE
 
-**Lisanslama:** Commercial 
+**Lisanslama:** Commercial 
 
 **Web Sitesi:** [https://www.construct.net/en](https://www.construct.net/en)
 
@@ -679,7 +679,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Çapraz platform oyunlar tasarlamak için bir geliştirme kütüphanesidir.
 
-**Platformlar:** Windows, Mac, Linux, VR, AR, Web, iOS, Android, XONE
+**Platformlar:** Windows, Mac, Linux, VR, AR, Web, iOS, Android, XONE
 
 **Lisanslama:** MIT
 
@@ -739,7 +739,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Lisanslama:** GPL
 
-**Web Sitesi:**  [http://www.elecbyte.com/mugendocs-11b1/mugen.html](http://www.elecbyte.com/mugendocs-11b1/mugen.html)
+**Web Sitesi:**  [http://www.elecbyte.com/mugendocs-11b1/mugen.html](http://www.elecbyte.com/mugendocs-11b1/mugen.html)
 
 #### HaxePunk Engine
 
@@ -753,7 +753,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** HaxePunk, FlashPunk oyun motoru üzerine bina edilmiş, çapraz platform oyunlar hazırlamak için yapılmış açık kaynaklı bir oyun motorudur.
 
-**Platformlar:** Windows, Mac, Linux, Flash, iOS, iPad, Android, AndroidTab, AndroidConsole
+**Platformlar:** Windows, Mac, Linux, Flash, iOS, iPad, Android, AndroidTab, AndroidConsole
 
 **Lisanslama:** MIT
 
@@ -793,7 +793,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Asıl amacı görsel roman, yazı tabanlı oyunlar yapmak olan bir oyun motorudur, fakat 2D oyunlar geliştirmek için de kullanılabilir. Çapraz platform ve ücretsizdir.
 
-**Platformlar:** Windows, Mac, Linux, Web, iOS, iPad, Android
+**Platformlar:** Windows, Mac, Linux, Web, iOS, iPad, Android
 
 **Lisanslama:** MIT
 
@@ -905,7 +905,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 ![Eclipse Origins motoruyla yapılmış bir oyun](images/eclipseorigins-1-sabahlatan-300x249.jpg) ![Eclipse Origins motorundan bir görsel](images/eclipseorigins-2-sabahlatan-300x232.jpg)
 
-**Tür: ** Oyun Motoru
+**Tür: ** Oyun Motoru
 
 **Çıkış Yılı:** 2013
 
@@ -927,7 +927,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Çıkış Yılı:** 2017
 
-**Nedir:** Lance NODE.js tabanlı bir oyun sunucusudur.  Geliştiricilerin üzerinden networking yükünü almak için tasarlanmıştır.
+**Nedir:** Lance NODE.js tabanlı bir oyun sunucusudur.  Geliştiricilerin üzerinden networking yükünü almak için tasarlanmıştır.
 
 **Platformlar:** VR, Web
 
@@ -989,7 +989,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Kivy, gösrel olarak istediğinizi tasarlayabileceğiniz, çok platformlu bir Python kütüphanesidir.
 
-**Platformlar:** Windows, Mac, Linux, iOS, Android
+**Platformlar:** Windows, Mac, Linux, iOS, Android
 
 **Lisanslama:** MIT
 
@@ -1009,7 +1009,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Impact JS masaüstü veya mobil tarayıcılar için HTML5 oyunlar yapmanızı sağlayan bir oyun motorudur.
 
-**Platformlar:** Windows, Mac, Linux, Web, Mobile, iOS, iPad, Android, AndroidTab, AndroidConsole, WiiU, Wii
+**Platformlar:** Windows, Mac, Linux, Web, Mobile, iOS, iPad, Android, AndroidTab, AndroidConsole, WiiU, Wii
 
 **Lisanslama:** Commercial
 
@@ -1029,7 +1029,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Xenko çapraz platform bir 3D oyun motorudur. Grafiksel anlamda sağladığı destek ve kullanıcı dostu arayüze sahiptir.
 
-**Platformlar:** Windows, iOS, iPad, Android
+**Platformlar:** Windows, iOS, iPad, Android
 
 **Lisanslama:** Proprietary
 
@@ -1127,7 +1127,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Açık kaynaklı, çapraz platform 2D ve 3D oyun geliştirme kütüphanesidir.
 
-**Platformlar:** Windows, Mac, Linux, iOS, iPad, Android
+**Platformlar:** Windows, Mac, Linux, iOS, iPad, Android
 
 **Lisanslama:** Public Domain
 
@@ -1147,7 +1147,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Adventure Game Engine, Macera(Adventure) türünde oyunlar yapmak için geliştirilmiş çapraz platform bir oyun motorudur.
 
-**Platformlar:** Windows, Mac, Linux, iOS, iPad, Android
+**Platformlar:** Windows, Mac, Linux, iOS, iPad, Android
 
 **Lisanslama:** Proprietary
 
@@ -1167,7 +1167,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Çapraz platform bir oyun motorudur. Programlama dili yerine görsel ve ilişkisel bir arayüz kullanır.
 
-**Platformlar:** Windows, Mac, Linux, Web, Flash, Mobile, Android
+**Platformlar:** Windows, Mac, Linux, Web, Flash, Mobile, Android
 
 **Lisanslama:** Proprietary
 
@@ -1207,7 +1207,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Java için, çapraz platform olan bir 3D oyun motorudur.
 
-**Platformlar:** Windows, Mac, Linux, VR, iOS, iPad, Android, AndroidTab, AndroidConsole
+**Platformlar:** Windows, Mac, Linux, VR, iOS, iPad, Android, AndroidTab, AndroidConsole
 
 **Lisanslama:** BSD
 
@@ -1259,7 +1259,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 ![Retribution motorundan bir görsel](images/retribution-1-sabahlatan.jpg) ![Retribution motoruyla yapılmış bir oyun](images/retribution-2-sabahlatan.jpg)
 
-**Tür:**  Oyun Motoru
+**Tür:**  Oyun Motoru
 
 **Dil:** C++
 
@@ -1307,7 +1307,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Game Maker, hafif, 2D ve 3D oyunlar geliştirebileceğiniz. Çapraz platform desteği bulunan, kendi özelleştirilmiş dili bulunan bir oyun motorudur.
 
-**Platformlar:** Windows, Mac, Linux, VR, AR, Web, iOS, Android, Metro, XONE, PS4, PS3, VITA
+**Platformlar:** Windows, Mac, Linux, VR, AR, Web, iOS, Android, Metro, XONE, PS4, PS3, VITA
 
 **Lisanslama:** Commercial
 
@@ -1327,7 +1327,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Unity 3D, hem 2D hem de 3D oyunlar yapabileceğiniz, çok güçlü bir topluluğu olan, çapraz platform oyunlar geliştirebileceğiniz oyun motorudur.
 
-**Platformlar:** Windows, Mac, Linux, VR, AR, Web, Flash, iOS, iPad, Android, X360, PS3, WiiU, Wii
+**Platformlar:** Windows, Mac, Linux, VR, AR, Web, Flash, iOS, iPad, Android, X360, PS3, WiiU, Wii
 
 **Lisanslama:** Commercial
 
@@ -1347,7 +1347,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Unreal Engine 4, 2D veya 3D oyunlar geliştirebileceğiniz, çok güçlü bir topluluğu olan, çapraz platform oyun motorudur. Görsel programlama yapısı pek çok motora göre daha gelişmiştir.
 
-**Platformlar:** Windows, Mac, Linux, VR, AR, iOS, XONE, X360, PS4, PS3
+**Platformlar:** Windows, Mac, Linux, VR, AR, iOS, XONE, X360, PS4, PS3
 
 **Lisanslama:** Commercial
 
@@ -1367,7 +1367,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Godot Engine, tamamen ücretsiz, 2D ve 3D oyunlar geliştirebileceğiniz, güçlü bir topluluğu olan, çapraz platform oyun motorudur.
 
-**Platformlar:** Windows, Mac, Linux, Web, iOS, iPad, Android, AndroidTab, PS4, PS3, VITA
+**Platformlar:** Windows, Mac, Linux, Web, iOS, iPad, Android, AndroidTab, PS4, PS3, VITA
 
 **Lisanslama:** MIT
 
@@ -1385,7 +1385,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Çıkış Yılı:** 2005
 
-**Nedir:** Eskiden ücretli bir yazılım olan FPS Creator, bir süre sonar TheGameCreators tarafından ücretsiz olarak dağıtıldı.  Tüm amacı 3D FPS oyunları hazırlanılabilmesi. Normade yazılımdaki objeleri bir level editörde yerleştirip oyun olarak çıktı alıyorsunuz, fakat siz de objeler ve aktörler için kendi scriptlerinizi yazabilir, kendi materyallerinizi ve objelerinizi yerleştirip bir nevi kısıtlı bir oyun motoru olarak kullanabilirsiniz.
+**Nedir:** Eskiden ücretli bir yazılım olan FPS Creator, bir süre sonar TheGameCreators tarafından ücretsiz olarak dağıtıldı.  Tüm amacı 3D FPS oyunları hazırlanılabilmesi. Normade yazılımdaki objeleri bir level editörde yerleştirip oyun olarak çıktı alıyorsunuz, fakat siz de objeler ve aktörler için kendi scriptlerinizi yazabilir, kendi materyallerinizi ve objelerinizi yerleştirip bir nevi kısıtlı bir oyun motoru olarak kullanabilirsiniz.
 
 **Platformlar:** Windows
 
@@ -1407,7 +1407,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Left 4 Dead, Half Life 2 gibi oyunların yapımında kullanılmış ve oyun yapımcılar için kullanıma açılmış bir SDK’dır. 3D oyunlar yapmaya yönelik tasarlanmıştır.
 
-**Platformlar:** Windows, Mac, Linux, VR
+**Platformlar:** Windows, Mac, Linux, VR
 
 **Lisanslama:** Commercial
 
@@ -1447,7 +1447,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** libGDX bir Java oyun geliştirme frameworkudur. Çapraz platform desteği vardır, hem 2D, hemde 3D oyunlar geliştirilmesine olanak sağlar.
 
-**Platformlar:** Windows, Mac, Linux, iOS, iPad, Android, AndroidTab
+**Platformlar:** Windows, Mac, Linux, iOS, iPad, Android, AndroidTab
 
 **Lisanslama:** Commercial
 
@@ -1487,7 +1487,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Yeni başlayanlar için alışması kolay, 2D ve 3D oyunlar yapabileceğiniz, çapraz platform bir oyun motorudur.
 
-**Platformlar:** Windows, Mac, Linux, VR, Web, iOS, Android
+**Platformlar:** Windows, Mac, Linux, VR, Web, iOS, Android
 
 **Lisanslama:** Commercial
 
@@ -1507,7 +1507,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **Nedir:** Çapraz platform oyunlar yapabileceğiniz, XNA üzerine geliştirlmiş bir geliştirme kütüphanesidir.
 
-**Platformlar:** Windows, Mac, Linux, iOS, Android, Metro, XONE, PS4, VITA, Switch
+**Platformlar:** Windows, Mac, Linux, iOS, Android, Metro, XONE, PS4, VITA, Switch
 
 **Lisanslama:** BSD
 
@@ -1539,7 +1539,7 @@ Yukarıda belirttiğimiz oyun motorları dışında aşağıdakiler de görülme
 
 **TES3MP:** TES3MP, OpenMW üzerinde çok oyunculu desteği sağlayan bir eklenti modülüdür. GPL lisanslamaya sahiptir. Web Sitesi: [https://tes3mp.com/](https://tes3mp.com/)
 
-**Colyseus:** Colyseus, Node.js için bir  Multiplayer Oyun Sunucusudur, asıl amacı oyun geliştiricilerinin networking yükünü almaktır. MIT Lisanslamasına sahiptir. Web Sitesi: [https://colyseus.io/](https://colyseus.io/)
+**Colyseus:** Colyseus, Node.js için bir  Multiplayer Oyun Sunucusudur, asıl amacı oyun geliştiricilerinin networking yükünü almaktır. MIT Lisanslamasına sahiptir. Web Sitesi: [https://colyseus.io/](https://colyseus.io/)
 
 **Game Develop:** Açık kaynaklı, çapraz platform, öğrenimi kolay bir 2d oyun yapma oyunudur. Web Sitesi: [https://gdevelop-app.com/](https://gdevelop-app.com/)
 
@@ -1595,7 +1595,7 @@ Yukarıda belirttiğimiz oyun motorları dışında aşağıdakiler de görülme
 
 **Urho3D:** OGRE ve Horde3D motorlarından esinlenerek yapılmış 2D ve 3D oyun motoru. MIT lisanslamasına sahip. Web Sitesi: [https://urho3d.github.io/](https://urho3d.github.io/)
 
-**Phaser:** MIT lisanslamasına sahip, çapraz platform 2D oyunlar yapmak için hazırlanmış bir framework.  Web Sitesi: [http://phaser.io/](http://phaser.io/)
+**Phaser:** MIT lisanslamasına sahip, çapraz platform 2D oyunlar yapmak için hazırlanmış bir framework.  Web Sitesi: [http://phaser.io/](http://phaser.io/)
 
 **Twine:** GPL lisanslamasına sahip, etkileşimli hikayeler oluşturmak için geliştirilmiş bir motor. Web Sitesi: [https://twinery.org/](https://twinery.org/)
 

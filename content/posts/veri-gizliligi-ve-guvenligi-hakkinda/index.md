@@ -18,7 +18,7 @@ Bu yazımda Veri Gizliliği ve Güvenliği hakkında çeşitli detay, gereksinim
 
 ## Veri Gizliliği
 
- 
+ 
 
 Kısaca bir kişinin kendi verilerine ne olacağının kontrolünde olabilmesidir denilebilir.
 
@@ -26,7 +26,7 @@ Kısaca bir kişinin kendi verilerine ne olacağının kontrolünde olabilmesidi
 
 ![GDPR](images/sabahlatan-gdpr-300x150.png)
 
- 
+ 
 
 Veri gizliliği ile alakalı 2 ünlü düzenleme var. Bunlardan biri GDPR, öteki ise CCPA.
 
@@ -62,7 +62,7 @@ Veri Güvenliği, temel olarak veri tabanını, içerdiği veriyi, yönetim sist
 
 **Bütünlüğün Kaybolması:** Eğer yetkilendirilmemiş biri CRUD (Create, Read, Update, Delete) yöntemlerini kullanabiliyorsa, sistem kusurludur.
 
-**Ulaşılabilirliğin Kaybolması:**  Sistem kullanıcısının ulaşmak istediği, erişim hakkı olan veriye ulaşamamasıdır.
+**Ulaşılabilirliğin Kaybolması:**  Sistem kullanıcısının ulaşmak istediği, erişim hakkı olan veriye ulaşamamasıdır.
 
 **Gizliliğin Kaybolması:** Eğer özel bir veri varsa, uygun haklara sahip kişilerle paylaşılmaması veya uygun haklara sahip olmayan kişilerle paylaşılıyor olmasıdır.
 
@@ -106,7 +106,7 @@ Veritabanı özelinde SQL veya NoSQL saldırı komutlarını web uygulamaları v
 
 Bir işlem belirli boyutlu bir hafıza blokuna fazlaca veri yazmaya kalkıştığında karşılaşılan açıktır. Saldırganlar bu açıktan faydalanarak kendi kodlarını sunucuda çalıştırabilmektedir.
 
- 
+ 
 
 #### Hizmet Reddi (DOS/DDOS) Saldırıları![](images/sabahlatan-ddos-attack-300x209.png)
 
@@ -116,7 +116,7 @@ Saldırganlar, fazlaca taleple hedef sunucuyu bombalarlar, bu durumda sunucu, ç
 
 Malware’ler hedef sunucuların açıklarını ortaya çıkarma veya direkt zarar verme amacıyla programlanmış yazılımlardır. Malware sunucu ağına doğrudan bağlı bir uç cihazdan bulaşabilir.
 
- 
+ 
 
 #### Yedek Hedefli Saldırılar
 
