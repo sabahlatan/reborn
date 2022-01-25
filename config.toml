@@ -1,0 +1,4 @@
+baseURL = 'https://reborn.sabahlatan.com'
+languageCode = 'tr-tr'
+title = 'Sabahlatan'
+theme = 'binario' 

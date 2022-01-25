@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oyun-gelistirme on Sabahlatan</title>
+    <link>https://reborn.sabahlatan.com/tags/oyun-gelistirme/</link>
+    <description>Recent content in oyun-gelistirme on Sabahlatan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://reborn.sabahlatan.com/tags/oyun-gelistirme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oyun Motoru Arşivi</title>
+      <link>https://reborn.sabahlatan.com/posts/2020/04/oyun-motoru-arsivi/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2020/04/oyun-motoru-arsivi/</guid>
+      <description>Oyun yapmak eğlenceli bir etkinlik, bu işi kolaylaştıracak bir dünya oyun motoru var. Bu yazımı size daha fazla seçenek göstermek ve rehber olabilmek için yazdım. Hedeflediğiniz platforma oyun geliştirebilmeniz için onlarca ücretsiz alternatif var. Sonuçta sizden ücret talep eden popüler oyun motorları kaderiniz değil, hem belki de aklınızdaki oyunu geliştirmek için yeni bir yazılım dili de öğrenmeniz gerekmiyor.
+Bu yazıyı okuyan kişisel, eğitimsel veya ticari amaçlarla oyun geliştirecek kişilere önerim, öncelikli olarak platformlara, sonrasında lisanslamaya göre arşive göz gezdirmeleridir.</description>
+    </item>
+    
+  </channel>
+</rss>

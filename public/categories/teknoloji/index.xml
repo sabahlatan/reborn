@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teknoloji on Sabahlatan</title>
+    <link>https://reborn.sabahlatan.com/categories/teknoloji/</link>
+    <description>Recent content in teknoloji on Sabahlatan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://reborn.sabahlatan.com/categories/teknoloji/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Veri Gizliliği ve Güvenliği Hakkında</title>
+      <link>https://reborn.sabahlatan.com/posts/2020/08/veri-gizliligi-ve-guvenligi-hakkinda/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2020/08/veri-gizliligi-ve-guvenligi-hakkinda/</guid>
+      <description>Bu yazımda Veri Gizliliği ve Güvenliği hakkında çeşitli detay, gereksinim ve istatistiklere yüzeysel olarak değineceğim. Gerçek bir sistemde bu ikisine de ihtiyaç duyuyoruz. Veri Gizliliği, genellikle veri koruma yasaları ve düzenlemeleri ile alakalıdır. Veriyi elde etmek, işlemek, paylaşmak, arşivlemek veya silmek bu kapsama girer. Fakat Veri Güvenliği genellikle, veriyi çeşitli saldırılara karşı savunma ve güvenliğini sağlamayla alakalıdır.Veri Gizliliği Kısaca bir kişinin kendi verilerine ne olacağının kontrolünde olabilmesidir denilebilir.
+GDPR ve CCPA Veri gizliliği ile alakalı 2 ünlü düzenleme var.</description>
+    </item>
+    
+    <item>
+      <title>P2P Network Yapısı ve Kullanım Alanları</title>
+      <link>https://reborn.sabahlatan.com/posts/2020/06/p2p-network-ve-kullanim-alanlari/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2020/06/p2p-network-ve-kullanim-alanlari/</guid>
+      <description>**Ayrıca “node” kelimesini “düğüm “olarak yazdım, “peer” kelimesini de “eş “olarak yazdım. Geri kalan pek çok yabancı terimi parantez içinde belirttim, ayrıca araştırma gereksinimi duyarsanız mutlaka yabancı kelimeleri kullanınız.
+P2P sistemler nerelerde kullanılır? P2P sistemlerinin kullanım alanları çok geniştir. Kaynak paylaşımı (işlemci, disk, bant genişliği vb.), cihazlar arası kolaborasyon(ortaklaşa bir iş halledilmesi) ve en yaygın kullanım şekli olan dosya paylaşımı P2P sistemlerinin kullanım amaçlarına örnek olarak verilebilir. P2P sistemlerinde cihazlar eş zamanlı olarak dosyaları hem gönderip hem de indirebiliyor olduklarından dolayı, dosya paylaşımı için idealdir.</description>
+    </item>
+    
+    <item>
+      <title>Silinen Dosyalar Neden Aslında Yok Olmaz</title>
+      <link>https://reborn.sabahlatan.com/posts/2020/05/silinen-dosyalar-neden-aslinda-yok-olmaz/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2020/05/silinen-dosyalar-neden-aslinda-yok-olmaz/</guid>
+      <description>Uzun zaman oldu bir şeyler yazmayalı, değil mi? Bu yazıda bilgisayarların ve akıllı cihazların dosya silme ve silinen dosyalar mevzusuna nasıl baktığını inceleyelim. Öncelikle bilgisayarlar ve akıllı cihazlar dememin tek nedeni daha anlaşılır olabilmesi, yoksa iki ayrı cihazdan bahsetmiyorum. Akıllı telefonlar veya tabletler de birer bilgisayardır. İşlemci mimarileri farklı olsa da, genel bilgisayar yapısı olarak aynı mimariye sahiptirler. Bu konu hakkında başka bir yazı yazarız, şimdi dosya silme konusuna dalalım. Elbette bu yazıda konuyu daha teorik ve genel bir şekilde anlatacağım fakat duruma göre var olan sistemlerden örnekler de verebiliriz.</description>
+    </item>
+    
+    <item>
+      <title>Oyun Motoru Arşivi</title>
+      <link>https://reborn.sabahlatan.com/posts/2020/04/oyun-motoru-arsivi/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2020/04/oyun-motoru-arsivi/</guid>
+      <description>Oyun yapmak eğlenceli bir etkinlik, bu işi kolaylaştıracak bir dünya oyun motoru var. Bu yazımı size daha fazla seçenek göstermek ve rehber olabilmek için yazdım. Hedeflediğiniz platforma oyun geliştirebilmeniz için onlarca ücretsiz alternatif var. Sonuçta sizden ücret talep eden popüler oyun motorları kaderiniz değil, hem belki de aklınızdaki oyunu geliştirmek için yeni bir yazılım dili de öğrenmeniz gerekmiyor.
+Bu yazıyı okuyan kişisel, eğitimsel veya ticari amaçlarla oyun geliştirecek kişilere önerim, öncelikli olarak platformlara, sonrasında lisanslamaya göre arşive göz gezdirmeleridir.</description>
+    </item>
+    
+    <item>
+      <title>Chrome&#39;da Arkada Kalan Sekmelerin Donmasını Engellemek</title>
+      <link>https://reborn.sabahlatan.com/posts/2018/08/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2018/08/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</guid>
+      <description>Chrome&amp;rsquo;un yeni zırvalarından biri de sekme değiştirildiğinde arkaya alınan sekmeyi RAM&amp;rsquo;den kısmen çıkartması ve sekmeye tekrar girildiğinde sekmenin en baştan açılması. Chrome sürekli olarak bu tarz eklemeler yapıyor ve bunları kapatacak bir seçeneği ayarlar sayfasına eklemiyor. Derdi minimalist olmak, fakat ayar yapacak adam minimalizm aramaz. Bu sinir bozucu yeniliği kapatmak için Chrome&amp;rsquo;un gizli ayarlarına girmek gerekiyor; yine. Tıpkı Chrome&amp;rsquo;da sekmelerin sesini tek tıkla kapatıp açmaktan bahsettiğimiz yazıdaki gibi. Tek fark, orada gizli bir özelliği aktive ederek Chrome&amp;rsquo;a bir nevi ekliyorduk.</description>
+    </item>
+    
+    <item>
+      <title>Podcast Nedir, Ne Değildir</title>
+      <link>https://reborn.sabahlatan.com/posts/2018/08/podcast-nedir-ne-degildir/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2018/08/podcast-nedir-ne-degildir/</guid>
+      <description>Son zamanlarda Türkiye&amp;rsquo;de popülaritesi oldukça artıyor olsa da, podcast kavramı çoğu zaman yanlış biliniyor. Özellikle podcast&amp;rsquo;i Youtube gibi video paylaşım sitelerinden öğrenenler bu teknolojiyi olduğundan çok farklı bir sınıfa sokuyor. Popüler olmasının bir başka nedeni ise Spotify gibi platformlar&amp;rsquo;a gelen podcast desteği. Podcast ilk bakışta kayıtlı radyo programı olarak da algılanabilir, fakat bundan çok daha kapsamlı bir kavram. Halihazırda radyolar ve televizyonlar dahil birçok kuruluş yayınlarını podcast olarak sunmayı tercih edebiliyor.</description>
+    </item>
+    
+    <item>
+      <title>32-bit ve 64-bit İşlemci Arasındaki Fark Tam Olarak Nedir</title>
+      <link>https://reborn.sabahlatan.com/posts/2018/05/32-bit-ve-64-bit-islemci-arasindaki-fark-tam-olarak-nedir/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2018/05/32-bit-ve-64-bit-islemci-arasindaki-fark-tam-olarak-nedir/</guid>
+      <description>32-bit işlemcilerin tarihi artık doldu ve yerini büyük oranda 64-bit işlemcilere bırakmaya başladı. Neden 32-bit&amp;rsquo;in artık eskimiş bir teknoloji olduğunu yazının sonuna doğru anlayacaksınız. Bu kadar fazla bahsedilen bir konu hakkında yazmamın nedeni, bu konuyla ilgili karşınıza çıkan kaynakların çoğunun yalan yanlış bilgilerle dolu olması. Kendileri tam olarak anlamadan anlatmaya çalıştığından dolayı internet çöp bilgilerle dolu.
+32-bit ve 64-bit işlemcinin arasındaki farkın kolayca anlaşılamamasının nedeni isimlendirmedeki eksiklikten kaynaklanıyor. 32-bit bir işlemciden bahsedildiğinde akılda canlanan görsel işlemcinin her saat vuruşunda 32 bit veri işlediği veya işlemcinin az çok nasıl çalıştığını bilen biri için register denen hafıza alanlarında 32 bit veri tutulduğu olacaktır.</description>
+    </item>
+    
+    <item>
+      <title>Retro Nedir? Retro Hakkında Bir Yazı</title>
+      <link>https://reborn.sabahlatan.com/posts/2018/04/retro-nedir-retro-hakkinda-bir-yazi/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2018/04/retro-nedir-retro-hakkinda-bir-yazi/</guid>
+      <description>Retro; kasten yakın geçmişin moda, film, oyun, müzik vb. türeten veya taklit eden tarzdır. Türetilen ya da taklit edilen şeyin ise üzerinden en azından bir 20 yıl geçmesi gerekir. Örnek vermek gerekirse üzerinden bir, iki sene geçmiş bir filmin taklidi retro sayılmaz ancak üzerinden 34 sene geçmiş bir film olan Terminatör (ilk filmi) taklit edilebilir.
+Hani şu bir evin yakınına meteor düşüyordu&amp;hellip;Hani arkadaşlarınızla o eve gidiyordunuz&amp;hellip;
+Retro oyunlardan bahsetmek istiyorum. Retro bakımından günümüzde tasarım olarak kendisini gösteren en iyi oyunlardan birisi (biraz eskidi gerçi) FarCry: Blood Dragon.</description>
+    </item>
+    
+    <item>
+      <title>Nokia&#39;nın Bilinmeyenleri</title>
+      <link>https://reborn.sabahlatan.com/posts/2017/03/nokianin-bilinmeyenleri/</link>
+      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2017/03/nokianin-bilinmeyenleri/</guid>
+      <description>Bu yazı uzun süre önce aklımdaydı, fakat şu günler Nokia 3310 adı altında yeni bir telefonun piyasaya sürülmesi bunu şu an daha anlamlı kılacaktır. Bunun nedeni bu yazının içeriğinin Microsoft tarafından satın alınmadan önceki Nokia hakkında olması.
+Hepsinden önce Nokia hakkındaki son gelişmelere bir göz atalım. Yeni tanıtılan telefonun Nokia 3310&amp;rsquo;la hiçbir alakası veya cezbedici hiçbir yanı yok, bunu fark etmişsinizdir. Aynı boyuttaki eski tuşlu telefon modelleri arasında, çeşitli markaların aynen bu şekilde cihazları mevcuttu.</description>
+    </item>
+    
+    <item>
+      <title>Kayıtlı Wi-Fi Şifresini Görüntülemek</title>
+      <link>https://reborn.sabahlatan.com/posts/2016/10/cesitli-platformlarda-kayitli-wi-fi-sifresini-goruntulemek/</link>
+      <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2016/10/cesitli-platformlarda-kayitli-wi-fi-sifresini-goruntulemek/</guid>
+      <description>Teknolojinin ulaştığı noktanın etkisiyle kablosuz ağlara bağlanan cihazlar artık her evin dört bir köşesinde yer alıyor. İnsanlar artık kablosuz bağlantılar olmadan yaşayamaz halde. Tabii bu bağlanılan ağlar güvenlik anahtarı, yani ağa bağlanma şifresi kullandığında zaman içinde başka bir cihazı bu ağa bağlamak gerektiğinde unutulabiliyor.
+Mevcut ağ ev tipi bir modem bağlantısı olduğunda ve ağ sahibi iken web tarayıcısı olan bir cihazla 192.168.1.1 şeklindeki adrese girerek modem arayüzüne bağlandıktan sonra şifreyi görmek ve değiştirmek mümkün.</description>
+    </item>
+    
+    <item>
+      <title>Android Devasa Thumbnail Sorununun Çözümü</title>
+      <link>https://reborn.sabahlatan.com/posts/2016/10/android-devasa-thumbnail-sorununun-cozumu/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2016/10/android-devasa-thumbnail-sorununun-cozumu/</guid>
+      <description>Android işletim sistemli birçok telefonda gittikçe şişerek çok fazla yer kaplayan thumbnail (küçük resim) dosyaları sorunu var. Bu dosyalar çok kısa süre içerisinde biriken dosyalar birkaç yüz megabyte boyutundan birkaç gigabyte boyutuna erişerek telefon hafızasında önemli yer kaplıyor. Telefonun kendi hafızası da küçükse, çalışmak için boş hafıza talep eden Galeri gibi birçok uygulama da kullanılamaz hale geliyor. Thumbnail dosyaları, bunları silseniz dahi tekrar eski boyutuna çok zaman almadan ulaşıyor, uygulamaların birkaç kullanımından sonra aynı boyuta tekrar erişiyor.</description>
+    </item>
+    
+    <item>
+      <title>Kuantum Bilgisayarı ve Qbit</title>
+      <link>https://reborn.sabahlatan.com/posts/2016/04/kuantum-bilgisayari-ve-qbit/</link>
+      <pubDate>Sun, 24 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2016/04/kuantum-bilgisayari-ve-qbit/</guid>
+      <description>Teknoloji hızla ilerliyor, fakat ne kadar ilerlerse ilerlesin bu gelişmeler genellikle tekdüze bir doğrultuda devam ediyor. Bilgisayar bilimlerinde Moore Yasası denen basit bir öngörü vardır. Buna göre her iki yılda bir bilgisayar işlemci kapasiteleri iki katına çıkarak artmaya devam eder. 20. yüzyılın ortalarından bu yana hemen hemen her zaman doğru çıkan bu öngörü son yıllarda işlememeye başlamıştır. İnsanoğlu şu an teknolojik bir duraklama evresindedir.
+Bunun nedeni bilgisayarın tarihinde gizli. En başta analog sistemler şekilde doğan bilgisayarlar, vakum tüplerinin icadıyla dijital hale geldi ve bugüne kadar başta bilgisayarlar olmak üzere tüm elektronik aletler yavaş yavaş dijitalleşmeye başladı.</description>
+    </item>
+    
+    <item>
+      <title>Web Geliştirmeye Giriş 1</title>
+      <link>https://reborn.sabahlatan.com/posts/2015/11/web-gelistirmeye-giris-1/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2015/11/web-gelistirmeye-giris-1/</guid>
+      <description>Bir web sitesi oluşturmanın sayısız yolu vardır. Bunların hepsi temelde aynı olsa da, seviyelerine ve web sitesini farklı bakış açılarıyla oluşturmayı sağlamalarına göre birbirinden ayrılır. Şimdi soyut bir şekilde açıklamak yerine web geliştirmeyle uğraşmak isteyen bir kişinin bilmesi gereken kavramları teker teker açıklayalım.
+Web geliştirme iki ayrı alana ayrılır; web tasarım ve web programlama. Web tasarım bir site üzerinde göze hitap eden kısımların oluşturulmasıdır. Tema çizimi, temaların HTML kodlarına dökülerek tarayıcı üzerinde çalışmasının sağlanması ve diğer grafik işleri web tasarım dahilindedir.</description>
+    </item>
+    
+    <item>
+      <title>Link Yollayan, Takip Eden Hesapları Temizlemek</title>
+      <link>https://reborn.sabahlatan.com/posts/2015/11/kendi-kendine-link-yollayan-takip-eden-sosyal-ag-hesaplarini-temizlemek/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2015/11/kendi-kendine-link-yollayan-takip-eden-sosyal-ag-hesaplarini-temizlemek/</guid>
+      <description>Hiçbir sosyal ağ hesabı kendi kendine diğer kullanıcılara mesaj göndermez veya &amp;ldquo;hesabım saçma sapan hesapları takip ediyor&amp;rdquo; cümlesinde bahsettiğiniz eylemi gerçekleştirmez. Yapay zeka henüz bu kadar gelişmedi. Bunlar tamamen zamanında bir boklar yemiş olmanızdan kaynaklanıyor.
+Tüm sosyal ağlarda bu konuda mantık aynıdır. Bir profil onu kullanan kişinin isteği dışında hareketler sergiliyorsa bu ya başka birinin şifreyi biliyor olmasından, ya da kullanıcının profilinde cirit atmasına izin verdiği uygulamalardan kaynaklanır. Birinci seçenekle sıklıkla karşılaşılmaz.</description>
+    </item>
+    
+    <item>
+      <title>Agar.io Kavramlarının Bilimsel Kökeni</title>
+      <link>https://reborn.sabahlatan.com/posts/2015/09/agar-io-kavramlarinin-bilimsel-kokeni/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2015/09/agar-io-kavramlarinin-bilimsel-kokeni/</guid>
+      <description>Agar.io çıktığı ilk günden bu yana popülaritesine devam ediyor. Bu yazıda incelenecek olan Agar.io oyununda yer alan objelerin bilimsel anlamda temsil ettiği gerçekler olacak. Agar.io&amp;rsquo;da yer alan kavramlar yalnızca bu oyun için uydurulmuş değil, mikro evrende var olan nesnelerin birer kopyası. Oyunda içinde bulunulan mekan, besinler, engeller ve düşmanlar tamamen birer gerçek örneği temsil ediyor.
+Oyunda yer alan oyuncuların yönlendirdiği objelerin isminin hücre (cell) olduğu bu oyunla ilgili en çok bilinen gerçeklerden biridir.</description>
+    </item>
+    
+    <item>
+      <title>Agar.io ve Püf Noktaları</title>
+      <link>https://reborn.sabahlatan.com/posts/2015/05/agar-io-oyunu-ve-puf-noktalari/</link>
+      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2015/05/agar-io-oyunu-ve-puf-noktalari/</guid>
+      <description>Agar.io son zamanlarda patlayan basit, pratik ve çoğu kişi tarafından bağımlılık yaptığı söylenen multiplayer bir tarayıcı oyunu. Oynamak için yalnızca mouse hareketleri ve iki tuş kullanıyorsunuz. Oyundaki temel amaç elbette en çok puanı alarak liderler listesine yerleşebilmek. Bunu yapmak için etraftaki nesneleri yiyerek erişebileceğiniz en büyük boyuta erişerek ilerlemeniz gerekiyor. Sonrasında işin içerisine ufak stratejiler giriyor. Diğer oyuncuları ne kadar büyük boyutlara erişmiş olurlarsa olsunlar alt etmeniz mümkün.
+Oyunda her oyuncu farklı birer hücreyi yönlendiriyor.</description>
+    </item>
+    
+    <item>
+      <title>Kensington Kilidi Nedir?</title>
+      <link>https://reborn.sabahlatan.com/posts/2015/05/dizustu-bilgisayarlarin-guvenlik-kilidi-kensington-kilidi/</link>
+      <pubDate>Sat, 02 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2015/05/dizustu-bilgisayarlarin-guvenlik-kilidi-kensington-kilidi/</guid>
+      <description>Kensington Kilidi Nasıl Kullanılır? Metal olan güvenlik kablosunun bir ucunda Kensington yuvasına bağlanan şifreli ya da anahtarlı bir kilit vardır. Diğer ucu ise cihazı güvenen almak için belirli bir yerlere bağlanır. Metal kablonun Kensington girişi bilgisayarın kilit yuvasına takılır. Bu kilit yuvası cihazın metalini kavradığı için sökülmesi zordur. Sökülürse dahi cihazda hasar bırakır. Bu yüzden çalınsa bile satılması pek mümkün olmaz. 2 tür Kensington kilit vardır: şifreli ve anahtarlı Kensington kilit.</description>
+    </item>
+    
+    <item>
+      <title>Chrome&#39;da Sekmelerinizin Sesini Kolayca Açıp Kapatın</title>
+      <link>https://reborn.sabahlatan.com/posts/2015/04/chromeda-sekmelerinizin-sesini-kolayca-acip-kapatin/</link>
+      <pubDate>Sat, 25 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2015/04/chromeda-sekmelerinizin-sesini-kolayca-acip-kapatin/</guid>
+      <description>Google Chrome&amp;rsquo;un son versiyonlarında görülen, ses çıkaran bir sekmede hoparlör simgesinin belirmesi gayet kullanışlı bir özellik. Bu özellikle ilgili bilinmeyen durum ise tarayıcıda gizlenmiş olan, istendiği zaman bu hoparlör simgesine tıklanarak sekmedeki sesin tamamen kapatılıp geri açılabileceği. Google bununla ilgili ayarı tarayıcının diğer deneysel seçeneklerini gizlediği sayfasına eklemiş. Tüm bu deneysel özellikler kullanıcıya bildirmeden gizli olarak tarayıcı dahilinde geliyor ve bu özelliklerin tarayıcıda probleme neden olabileceği bu sayfada belirtilmiş. Yalnızca hoparlör simgesi ile ilgili ayarı etkinleştirmek herhangi bir soruna neden olmayacak olsa da, yine de bunun farkında olarak hareket edin.</description>
+    </item>
+    
+    <item>
+      <title>Hayatı Kolaylaştıran 5 Android Uygulaması</title>
+      <link>https://reborn.sabahlatan.com/posts/2015/04/hayati-kolaylastiran-5-android-uygulamasi/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2015/04/hayati-kolaylastiran-5-android-uygulamasi/</guid>
+      <description>Artık insanlar için hayatın akıllı telefonları ve internet olmadan akmadığı su götürmez bir gerçek. Yanlarından ayırmadıkları akıllı telefonlarıyla canları sıkıldığı zaman oyun oynamak olsun, istediklerinde bir şeyler izlemek veya okumak gibi eylemler olsun kolaylıkla ve hızlı bir şekilde gerçekleştirebiliyorlar. Hayatı bu kadar hızlandıran bir icattan kimse mahrum kalmak istemez. Elbette içerisinde çeşitli uygulamalar olmadıkça bir akıllı telefon büyük oranda boş bir kutu. Bu uygulamalar olmadıktan sonra akıllı telefonlar yalnızca rahatça internete girmek, müzik dinlemek, takvim ve ses kaydı gibi temel işlevler için kullanılabilir.</description>
+    </item>
+    
+    <item>
+      <title>Moleküler olarak İnsan ve Elektronik Devre Benzerliği</title>
+      <link>https://reborn.sabahlatan.com/posts/2015/04/elektronik-devreler-ve-insanlarla-olan-molekuler-benzerlikleri/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2015/04/elektronik-devreler-ve-insanlarla-olan-molekuler-benzerlikleri/</guid>
+      <description>20.yüzyılın ortalarında başlayan ve transistörlerin geliştirilişiyle ortaya çıkan, bilgisayarlarla birlikte gelişimi aşırı hızlanan akıllı elektronik cihazlar 21.yüzyılda dünyayı ele geçirdi denilebilir. Şehir yaşantısında, baktığımız her bir noktada bunlardan birer parça görüyoruz. Başlarda yalnızca ev telefonlarının kablosuz olarak taşınabilir hali olarak ortaya çıkan cep telefonları günümüzde birer mini bilgisayara dönüşmüş durumda.
+Bütün bu gelişim hızının arkasında yarı iletkenlerin keşfedilmesi yatıyor. O hep övülen yarı iletkenler ile oluşturulan devre elemanları gittikçe daha küçük hale getiriliyor ve maliyetleri düşüyor.</description>
+    </item>
+    
+    <item>
+      <title>Eski Windows&#39;unuzu Arındırmak Adına En Hafif Çözüm: ComboFix</title>
+      <link>https://reborn.sabahlatan.com/posts/2015/04/bilgisayarinizi-arindirmak-ve-rahatlatmak-adina-en-hafif-cozum-combofix/</link>
+      <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/posts/2015/04/bilgisayarinizi-arindirmak-ve-rahatlatmak-adina-en-hafif-cozum-combofix/</guid>
+      <description>Her geçen gün bilgisayarların donanımsal kapasiteleri gittikçe artsa da gereksiz yere şişirilen yazılımlar son kullanıcıyı deliye döndürebiliyor. Yerine getirmesi gereken görev çok basit olsa da; yanında getirdiği bir ton boş özellikle bilgisayarda lüzumsuz yer kaplayan, bilgisayarı yoran bu yazılımlar için bloatware terimi kullanılıyor. Bu konuda en güzel örnekler Adobe Acrobat Reader ve Nero denen zırvalar.
+Bunların dışında bir bilgisayarı genel olarak en çok yoran uygulamaların başında her zaman çalışan antivirüs programları geliyor.</description>
+    </item>
+    
+  </channel>
+</rss>
