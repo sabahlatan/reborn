@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://reborn.sabahlatan.com/tags/yenileme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chrome&#39;da Arkada Kalan Sekmelerin Donmasını Engellemek</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</link>
+      <link>https://reborn.sabahlatan.com/blog/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</guid>
       <description>Chrome&amp;rsquo;un yeni zırvalarından biri de sekme değiştirildiğinde arkaya alınan sekmeyi RAM&amp;rsquo;den kısmen çıkartması ve sekmeye tekrar girildiğinde sekmenin en baştan açılması. Chrome sürekli olarak bu tarz eklemeler yapıyor ve bunları kapatacak bir seçeneği ayarlar sayfasına eklemiyor. Derdi minimalist olmak, fakat ayar yapacak adam minimalizm aramaz. Bu sinir bozucu yeniliği kapatmak için Chrome&amp;rsquo;un gizli ayarlarına girmek gerekiyor; yine. Tıpkı Chrome&amp;rsquo;da sekmelerin sesini tek tıkla kapatıp açmaktan bahsettiğimiz yazıdaki gibi. Tek fark, orada gizli bir özelliği aktive ederek Chrome&amp;rsquo;a bir nevi ekliyorduk.</description>
     </item>
     

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html class="no-js" lang="tr-tr">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#1b1b1b">
+	<title>Kayıtlı Wi-Fi Şifresini Görüntülemek | Sabahlatan</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+	<link rel="stylesheet" href="/css/bundle.css">
+	<link rel="icon" href="/icons/16.png" sizes="16x16" type="image/png">
+	<link rel="icon" href="/icons/32.png" sizes="32x32" type="image/png">
+		
+</head>
+<body class="body kind-page">
+	<header class="header">
+	<a class="logo" href="/">Sabahlatan</a>
+	
+</header>
+	<div class="primary">
+	
+	<main class="main">
+		
+		<div class="single block">
+			<article class="entry">
+				<h1 class="entry__title">Kayıtlı Wi-Fi Şifresini Görüntülemek</h1>
+				<div class="entry__content"><p>Teknolojinin ulaştığı noktanın etkisiyle kablosuz ağlara bağlanan cihazlar artık her evin dört bir köşesinde yer alıyor. İnsanlar artık kablosuz bağlantılar olmadan yaşayamaz halde. Tabii bu bağlanılan ağlar güvenlik anahtarı, yani ağa bağlanma şifresi kullandığında zaman içinde başka bir cihazı bu ağa bağlamak gerektiğinde unutulabiliyor.</p>
+<p>Mevcut ağ ev tipi bir modem bağlantısı olduğunda ve ağ sahibi iken web tarayıcısı olan bir cihazla 192.168.1.1 şeklindeki adrese girerek modem arayüzüne bağlandıktan sonra şifreyi görmek ve değiştirmek mümkün. Fakat bunun dışındaki durumlarda bu yöntem işe yaramayacak veya pratik bir yöntem olmayacaktır.</p>
+<p>Kablosuz ağlara çeşitli cihazlarla bağlanabilirsiniz. Bağlandığınız cihaz Windows veya Linux işletim sistemi kullanan bir PC, Mac OS kullanan bir Mac bilgisayar, veya akıllı telefon, tablet gibi bir mobil aygıt ise bu yazıdaki yöntemlerle daha önce bağlanılmış ağların şifresini bu cihazlar üzerinden görebilirsiniz. Bu ağ bilgileri bağlanıldığında cihaz tarafından kaydedilir ve özel bir dosya içerisinde saklanır. Ağ ismi ve şifre değiştiğinde cihaz artık ağa bağlanamaz. Bu yüzden cihazda &ldquo;Bağlantıyı unut&rdquo; seçeneğine tıkladığınızda bu veriler cihazınızdan silinir ve yeniden bağlanmaya hazır hale gelir.</p>
+<p><strong>Windows</strong></p>
+<p>Windows 10 tabanlı bir bilgisayarda ağ güvenlik anahtarını görüntülemek için ilk gerçekleştirmeniz gereken adım, ekranın sağ alt köşesindeki sistem bildirim alanında bulunan ağ simgesine sağ tıklayarak &ldquo;Ağ ve Paylaşım Merkezi&rsquo;ni Aç&rdquo; seçeneğine tıklamanız olacak. Açılan pencerede sağ kolonda bulunan &ldquo;Wi-Fi (Ağ ismi)&rdquo; linkine tıklayacak, ardından yeni açılan pencerede &ldquo;Kablosuz Özellikleri&rdquo; butonuna tıklayacaksınız. Burada üstteki sekmelerden ikincisi olan Güvenlik sekmesine tıkladığınızda şifrenin bulunduğu sayfadasınız demektir. &ldquo;Karakterleri göster&rdquo; kutucuğunu işaretlediğinizde şifre görünür hale gelecektir.</p>
+<p>İkinci yöntem olarak Başlat &gt; Çalıştır kısmını açıp cmd yazarak Komut İstemi penceresini açtıktan sonra aşağıdaki komutu kendinize göre değiştirerek yazmanız olacak.</p>
+<p>netsh wlan show profile name=ağ-adı key=clear</p>
+<p>&ldquo;ağ-adı&rdquo; kısmına kendi Wireless ağınızın adını yazmayı unutmayın. Çıkan sonuçlar içinde &ldquo;Security Settings&rdquo; kısmının altında &ldquo;Key Content&quot;in karşısında ağ güvenlik anahtarı yazıyor olacak.</p>
+<p><strong>Android</strong></p>
+<p>Android işletim sisteminde bu gibi işlemler için root işlemi gerekir. Root işlemi gerçekleştirilmemişse ilgili klasörleri boş göreceksiniz. Telefon veya tabletin dosya yöneticisi üst klasörleri çıkmayı destekliyorsa cihaz klasörleri içerisinden &ldquo;/data/misc/wifi&rdquo; adresine gideceksiniz, desteklemiyorsa &ldquo;Es File Explorer&rdquo; uygulamasıyla deneyebilirsiniz. Bu klasör içerisinde &ldquo;wpa_supplicant.conf&rdquo; isimli bir dosya yer alacaktır. Bunu herhangi bir metin editörüyle açın, Es File Explorer kullanıyorsanız uygulamanın kendi editörünü kullanabilirsiniz. Bu dosya içerisinde bağlandığınz tüm ağların güvenlik anahtarı görülecektir. SSID kısmının karşısında ağ adı, psk kısmında ise şifre yer alır.</p>
+<p><strong>iOS</strong></p>
+<p>iOS kullanan cihazlarda bu işlem için jailbreak gerekir. Daha sonra Cydia üzerindeki &ldquo;Wifi Passwords&rdquo; gibi uygulamalarla kayıtlı güvenlik anahtarlarını görebilirsiniz. Tabii telefonun güvenliği açısından bu tür işlemler için bu gibi uygulamalara pek güvenmemeniz gerekiyor.</p>
+<p><strong>Mac OS</strong></p>
+<p>Mac OS üzerinden CMD + Space tuşlarına basarak çıkan Spotlight arama kısmına &ldquo;keychain&rdquo; veya &ldquo;anahtar&rdquo; yazarak &ldquo;Anahtar Zinciri Erişimi&rdquo; (Keychain Access) sayfasını açacaksınız.  Ardından bu pencerede arama kutusuna wifi ağının ismini yazıp çıkan wifi ağ sonucunun üzerine sağ tıklayarak &ldquo;Bilgi ver&rdquo; (Get info) kısmını açacaksınız. Burada &ldquo;Parolayı göster&rdquo; (Show password) kutucuğunu işaretlediğinizde şifre karşınıa çıkacaktır.</p>
+<p>İkinci yöntemde ise yine CMD + Space tuşları ile açtığınız Spotlight aramasına terminal yazacak ve ilgili pencereyi açtıktan sonra, aşağıdaki komutu &ldquo;ağ-adı&rdquo; kısmını kendi wifi ağınızın ismine göre düzenleyerek yazacaksınız.</p>
+<p>security find-generic-password -wa ağ-adı</p>
+<p><strong>Linux</strong></p>
+<p>Ubuntu gibi bir dağıtım kullanıyorsanız ağ ayarları kısmından Wireless kısmına girerek diğer yöntemlerdekine benzer şekilde ağ şifresini görüntüleyebilirsiniz. Fakat Linux&rsquo;un geneli için ve Linux mantığına da uygun olması açısından şimdi vereceğim yöntem daha idealdir. Linux dağıtımının terminal sayfasını açtıktan sonra aşağıdaki komutu &ldquo;ağ-adı&rdquo; kısmını kendi ağınızın ismi olacak şekilde düzenledikten sonra girin.</p>
+<p>sudo cat /etc/NetworkManager/system-connections/ağ-adı | grep psk=</p>
+<p>Ağ adını bilmiyorsanız aşağıdaki komutu kullanabilirsiniz.</p>
+<p>sudo grep psk= /etc/NetworkManager/system-connections/*</p>
+<p>Çıkan sonuçların en altında &ldquo;password&rdquo; kısmının karşısında ağ güvenlik anahtarı yer alacaktır.</p>
+</div>
+				
+				<footer class="entry__footer">
+					
+<div class="entry__tags">
+			<a class="entry__tag btn" href="/tags/android/">android</a>
+			<a class="entry__tag btn" href="/tags/androidde-wifi-sifresini-gorme/">androidde-wifi-sifresini-gorme</a>
+			<a class="entry__tag btn" href="/tags/ios/">ios</a>
+			<a class="entry__tag btn" href="/tags/linux/">linux</a>
+			<a class="entry__tag btn" href="/tags/mac-os/">mac-os</a>
+			<a class="entry__tag btn" href="/tags/show-wifi-password/">show-wifi-password</a>
+			<a class="entry__tag btn" href="/tags/wifi/">wifi</a>
+			<a class="entry__tag btn" href="/tags/wifi-sifresini-goruntuleme/">wifi-sifresini-goruntuleme</a>
+			<a class="entry__tag btn" href="/tags/wifi-sifresini-gosterme/">wifi-sifresini-gosterme</a>
+			<a class="entry__tag btn" href="/tags/windows/">windows</a>
+			<a class="entry__tag btn" href="/tags/windowsta-wifi-sifresini-gorme/">windowsta-wifi-sifresini-gorme</a>
+			<a class="entry__tag btn" href="/tags/wireless/">wireless</a>
+</div>
+					
+				</footer>
+				
+			</article>
+		</div>
+	</main>
+	
+	
+
+
+
+	
+
+	</div>
+	<footer class="footer">
+	<div class="footer__copyright">© 2022 Sabahlatan. <span class="footer__copyright-credits">Powered by <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/vimux/binario" rel="nofollow noopener" target="_blank">Binario</a> theme.</span></div>
+</footer>
+</body>
+</html>

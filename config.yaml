@@ -1,0 +1,6 @@
+baseURL: https://reborn.sabahlatan.com
+languageCode: tr-tr
+title: Sabahlatan
+theme: gece
+permalinks:
+  posts: /blog/:filename/

@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://reborn.sabahlatan.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bir yıldız nasıl doğar?</title>
-      <link>https://reborn.sabahlatan.com/posts/2020/08/bir-yildiz-nasil-dogar/</link>
+      <link>https://reborn.sabahlatan.com/blog/bir-yildiz-nasil-dogar/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2020/08/bir-yildiz-nasil-dogar/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/bir-yildiz-nasil-dogar/</guid>
       <description>Merhabalar, bu yazımda sizlere bir yıldız nasıl doğar sorusunun cevabını vereceğim.
 Cevap: Yerçekimi.
 Bu sorunun cevabını net bir şekilde anlayabilmek için bazı konu başlıklarına değinmemiz gerekir. Bunlardan ilki tabii ki yer çekimi.
@@ -21,59 +21,58 @@ Kütlesi olan her şeyin bir kütle çekim kuvveti vardır. Biz bu kuvvete yer �
     
     <item>
       <title>Veri Gizliliği ve Güvenliği Hakkında</title>
-      <link>https://reborn.sabahlatan.com/posts/2020/08/veri-gizliligi-ve-guvenligi-hakkinda/</link>
+      <link>https://reborn.sabahlatan.com/blog/veri-gizliligi-ve-guvenligi-hakkinda/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2020/08/veri-gizliligi-ve-guvenligi-hakkinda/</guid>
-      <description>Bu yazımda Veri Gizliliği ve Güvenliği hakkında çeşitli detay, gereksinim ve istatistiklere yüzeysel olarak değineceğim. Gerçek bir sistemde bu ikisine de ihtiyaç duyuyoruz. Veri Gizliliği, genellikle veri koruma yasaları ve düzenlemeleri ile alakalıdır. Veriyi elde etmek, işlemek, paylaşmak, arşivlemek veya silmek bu kapsama girer. Fakat Veri Güvenliği genellikle, veriyi çeşitli saldırılara karşı savunma ve güvenliğini sağlamayla alakalıdır.Veri Gizliliği Kısaca bir kişinin kendi verilerine ne olacağının kontrolünde olabilmesidir denilebilir.
-GDPR ve CCPA Veri gizliliği ile alakalı 2 ünlü düzenleme var.</description>
+      <guid>https://reborn.sabahlatan.com/blog/veri-gizliligi-ve-guvenligi-hakkinda/</guid>
+      <description>Bu yazımda Veri Gizliliği ve Güvenliği hakkında çeşitli detay, gereksinim ve istatistiklere yüzeysel olarak değineceğim. Gerçek bir sistemde bu ikisine de ihtiyaç duyuyoruz. Veri Gizliliği, genellikle veri koruma yasaları ve düzenlemeleri ile alakalıdır. Veriyi elde etmek, işlemek, paylaşmak, arşivlemek veya silmek bu kapsama girer. Fakat Veri Güvenliği genellikle, veriyi çeşitli saldırılara karşı savunma ve güvenliğini sağlamayla alakalıdır.Veri Gizliliği  Kısaca bir kişinin kendi verilerine ne olacağının kontrolünde olabilmesidir denilebilir.
+GDPR ve CCPA  Veri gizliliği ile alakalı 2 ünlü düzenleme var.</description>
     </item>
     
     <item>
       <title>P2P Network Yapısı ve Kullanım Alanları</title>
-      <link>https://reborn.sabahlatan.com/posts/2020/06/p2p-network-ve-kullanim-alanlari/</link>
+      <link>https://reborn.sabahlatan.com/blog/p2p-network-ve-kullanim-alanlari/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2020/06/p2p-network-ve-kullanim-alanlari/</guid>
-      <description>**Ayrıca “node” kelimesini “düğüm “olarak yazdım, “peer” kelimesini de “eş “olarak yazdım. Geri kalan pek çok yabancı terimi parantez içinde belirttim, ayrıca araştırma gereksinimi duyarsanız mutlaka yabancı kelimeleri kullanınız.
-P2P sistemler nerelerde kullanılır? P2P sistemlerinin kullanım alanları çok geniştir. Kaynak paylaşımı (işlemci, disk, bant genişliği vb.), cihazlar arası kolaborasyon(ortaklaşa bir iş halledilmesi) ve en yaygın kullanım şekli olan dosya paylaşımı P2P sistemlerinin kullanım amaçlarına örnek olarak verilebilir. P2P sistemlerinde cihazlar eş zamanlı olarak dosyaları hem gönderip hem de indirebiliyor olduklarından dolayı, dosya paylaşımı için idealdir.</description>
+      <guid>https://reborn.sabahlatan.com/blog/p2p-network-ve-kullanim-alanlari/</guid>
+      <description>Merhabalar, bu yazımızda çokça duyduğunuz bir kavram hakkında bilgiler vereceğim. Konu P2P, yani peer to peer, Türkçesi ile eşten eşe bağlantı. P2P bir çeşit ağ mimarisidir. 1999 yılında Napster adlı dosya paylaşım sistemi, bu mimarinin yaygınlığını büyük ölçüde arttırmıştır. P2P sisteminde temel olarak bir takım bilgisayar ve cihazlar, birbirleri ile bir ağ oluştururlar. Bu ağ üzerindeki her cihaz, diğerleri ile aynı haklara ve görevlere sahiptir. Herhangi bir eş bir diğerine göre ayrıcalıklı değildir ve ağın merkezinde diğerlerine göre öncelikli olan bir yönetici cihazı yoktur.</description>
     </item>
     
     <item>
       <title>Silinen Dosyalar Neden Aslında Yok Olmaz</title>
-      <link>https://reborn.sabahlatan.com/posts/2020/05/silinen-dosyalar-neden-aslinda-yok-olmaz/</link>
+      <link>https://reborn.sabahlatan.com/blog/silinen-dosyalar-neden-aslinda-yok-olmaz/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2020/05/silinen-dosyalar-neden-aslinda-yok-olmaz/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/silinen-dosyalar-neden-aslinda-yok-olmaz/</guid>
       <description>Uzun zaman oldu bir şeyler yazmayalı, değil mi? Bu yazıda bilgisayarların ve akıllı cihazların dosya silme ve silinen dosyalar mevzusuna nasıl baktığını inceleyelim. Öncelikle bilgisayarlar ve akıllı cihazlar dememin tek nedeni daha anlaşılır olabilmesi, yoksa iki ayrı cihazdan bahsetmiyorum. Akıllı telefonlar veya tabletler de birer bilgisayardır. İşlemci mimarileri farklı olsa da, genel bilgisayar yapısı olarak aynı mimariye sahiptirler. Bu konu hakkında başka bir yazı yazarız, şimdi dosya silme konusuna dalalım. Elbette bu yazıda konuyu daha teorik ve genel bir şekilde anlatacağım fakat duruma göre var olan sistemlerden örnekler de verebiliriz.</description>
     </item>
     
     <item>
       <title>Oyun Motoru Arşivi</title>
-      <link>https://reborn.sabahlatan.com/posts/2020/04/oyun-motoru-arsivi/</link>
+      <link>https://reborn.sabahlatan.com/blog/oyun-motoru-arsivi/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2020/04/oyun-motoru-arsivi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/oyun-motoru-arsivi/</guid>
       <description>Oyun yapmak eğlenceli bir etkinlik, bu işi kolaylaştıracak bir dünya oyun motoru var. Bu yazımı size daha fazla seçenek göstermek ve rehber olabilmek için yazdım. Hedeflediğiniz platforma oyun geliştirebilmeniz için onlarca ücretsiz alternatif var. Sonuçta sizden ücret talep eden popüler oyun motorları kaderiniz değil, hem belki de aklınızdaki oyunu geliştirmek için yeni bir yazılım dili de öğrenmeniz gerekmiyor.
 Bu yazıyı okuyan kişisel, eğitimsel veya ticari amaçlarla oyun geliştirecek kişilere önerim, öncelikli olarak platformlara, sonrasında lisanslamaya göre arşive göz gezdirmeleridir.</description>
     </item>
     
     <item>
       <title>TRON Kurgusal Evreni</title>
-      <link>https://reborn.sabahlatan.com/posts/2020/04/tron-kurgusal-evreni/</link>
+      <link>https://reborn.sabahlatan.com/blog/tron-kurgusal-evreni/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2020/04/tron-kurgusal-evreni/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/tron-kurgusal-evreni/</guid>
       <description>Pong oyunu için kullanılan eski bir arcade makinesi
 1976 yılında Steven Lisberger meşhur Pong oyunu ile tanışır. Donald Kushner ile birlikte Tron isimli bir animasyon filmi yapmak için bir animasyon stüdyosu kurarlar. Stüdyonun reklamını yapmak için ana karakteri tanıtacak 30 saniyelik bir animasyon hazırlarlar. En sonunda Lisberger kamera oyunları ve bilgisayar animasyonlarıyla tam uzunlukta bir film yapmaya karar verir. Walt Disney kabul edene kadar bir çok film stüdyosu Tron gibi bir çalışmaya finansal ve dağıtımsal destek sunmayı reddetmiştir.</description>
     </item>
     
     <item>
       <title>Mario&#39;nun Bıyıkları Neden Böyle Tasarlandı?</title>
-      <link>https://reborn.sabahlatan.com/posts/2020/04/marionun-biyiklari-neden-boyle-tasarlandi/</link>
+      <link>https://reborn.sabahlatan.com/blog/marionun-biyiklari-neden-boyle-tasarlandi/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2020/04/marionun-biyiklari-neden-boyle-tasarlandi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/marionun-biyiklari-neden-boyle-tasarlandi/</guid>
       <description>Yukarıda gördüğünüz Mario&amp;rsquo;yu sanıyorum pek çoğunuz tanıyorsunuzdur, şapkalı, bıyıklı, mavi üzerine kırmızı giyimli bir karakter.
 Peki neden bu kıyafet, şapka veya bıyık? Kısaca, bu şekilde daha kolay yaratılacaktı.
 Mario ilk defa 1981 çıkışlı Donkey Kong oyununda göründü. Genç bir kızı varil fırlatan koca bir gorilden kurtarmaya çalışıyordu. Yıllar içerisinde ise 200&amp;rsquo;den fazla oyunda göründü Mario. İlk başlarda sadece bu tarz platform oyunlarında olmasına rağmen, zamanla dövüş, spor ve yarış gibi türlerdeki oyunlarda da belirdi.</description>
@@ -81,10 +80,10 @@ Mario ilk defa 1981 çıkışlı Donkey Kong oyununda göründü. Genç bir kız
     
     <item>
       <title>Altın Oran Hakkında</title>
-      <link>https://reborn.sabahlatan.com/posts/2019/04/altin-oran-hakkinda/</link>
+      <link>https://reborn.sabahlatan.com/blog/altin-oran-hakkinda/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2019/04/altin-oran-hakkinda/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/altin-oran-hakkinda/</guid>
       <description>Konuya Giriş &amp;ldquo;Bu şekil var olan en güzel eğridir.&amp;quot; Alfred Russel Wallace (1823-1913)
 Bir doğru parçası düşünelim. Bu doğru parçası belirli bir yol uzunluğu veya kağıtta çizdiğimiz herhangi bir uzunluktan ibaret olabilir. Yeter ki gözümüzle gördüğümüz bir doğru parçası olsun.
 Hiç Fibonacci sayılarını duydunuz mu? Evet yukarıdaki söze sahip kişinin bulduğu sayılar. Konuyla çok alakası var. Her sayıyı kendisinden öncekiyle topluyoruz. Doğal sayılar kümesinde 0 dan başlayalım.
@@ -93,20 +92,20 @@ Hiç Fibonacci sayılarını duydunuz mu? Evet yukarıdaki söze sahip kişinin 
     
     <item>
       <title>Greyfurt ile İlaç Tüketilir mi?</title>
-      <link>https://reborn.sabahlatan.com/posts/2019/03/greyfurt-ile-ilac-tuketilir-mi/</link>
+      <link>https://reborn.sabahlatan.com/blog/greyfurt-ile-ilac-tuketilir-mi/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2019/03/greyfurt-ile-ilac-tuketilir-mi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/greyfurt-ile-ilac-tuketilir-mi/</guid>
       <description>Bu yazımız herhangi bir tıbbi öneri veya tedavi şekli önermemektedir. Genel kültür kapsamında verilecek olan bu bilgiler yapılan çalışmalar ve sağlık haberlerinden derlenmiştir. İyi okumalar.
 Hepinize merhaba arkadaşlar. Geçen kış mevsiminde ki artık bahar ayına giriyoruz, C vitamini, potasyum ve magnezyum kaynağı greyfurtu buldukça yedik buldukça suyunu içtik. Ancak uzmanların dikkatli olmamızı istediği bir konu var. Bazı ilaçları alırken greyfurt tüketmememiz isteniyor. Bunun nedeni ise greyfurtun bileşiminde yer alan bir takım maddeler, ilaçların parçalanmasını sağlayan sitrokom p450 (CYP 450) enziminin gücünü yok etmesinden kaynaklanıyor.</description>
     </item>
     
     <item>
       <title>Geleceğin Yakıtı Biyoyakıtlar</title>
-      <link>https://reborn.sabahlatan.com/posts/2019/03/gelecegin-yakiti-biyoyakitlar/</link>
+      <link>https://reborn.sabahlatan.com/blog/gelecegin-yakiti-biyoyakitlar/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2019/03/gelecegin-yakiti-biyoyakitlar/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/gelecegin-yakiti-biyoyakitlar/</guid>
       <description>Öncelikle merhaba arkadaşlar. Bu yazımızda dünyada tükenen fosil yakıtlar nedeniyle bir alternatif yakıt olarak düşünülen biyoyakıt konusunu inceleyeceğiz. Keyifli okumalar arkadaşlar.
 Öncelikle Birkaç Tanım Tanımlardan sıkıldığınızı biliyorum arkadaşlar. Ancak bir kaç şeyin ne olduğunu bilmekte fayda var. Çünkü yazımızın ilerleyen kısımlarında bu kelime gruplarıyla sonradan karşılaşmak ve tam olarak ne olduğunu bilmemek sıkıntı çıkartabilir. Bu tanımları bilenleri tenzih ederim.
 Enerji Bitkisi Nedir? Enerji bitkisini T.C. Enerji ve Tabi Kaynaklar Bakanlığına bağlı Yenilenebilir Enerji Müdürlüğü “Enerji ormanları, ve ağaç endüstrisi atıklarından elde edilen bio-dizel, atenol gibi çeşitli yakıtlar, tarım kesimindeki bitkisel ve hayvansal atıklar, kentsel atıklar, tarıma dayalı endüstri atıkları modern biyokütle enerjisinin kaynağıdır.</description>
@@ -114,171 +113,171 @@ Enerji Bitkisi Nedir? Enerji bitkisini T.C. Enerji ve Tabi Kaynaklar Bakanlığ�
     
     <item>
       <title>Yumurta Rengi: Neden Bazıları Kahverengi, Bazıları Beyazdır</title>
-      <link>https://reborn.sabahlatan.com/posts/2019/02/tavuk-ve-yumurta-rengi/</link>
+      <link>https://reborn.sabahlatan.com/blog/tavuk-ve-yumurta-rengi/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2019/02/tavuk-ve-yumurta-rengi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/tavuk-ve-yumurta-rengi/</guid>
       <description>Okumayı sevenler için bu yazımızda tavuğun (Gallus gallus domesticus) yumurta rengi, rengi belirleyen faktörler ve maddeler, durumun genetik yapısı, yumurta rengi ile kalitede bir linkage var mı gibi konulardan bahsedeceğiz. Biraz genetikten bahsedeceğiz, birazda genel birkaç bilgiden. Kısa bir paragraf yazısını bilgilerle dolduruyoruz. Baştan biz senine anlaşalım. Sonra bozuşmayalım neden yazı uzun diye. Bu yazı öyle iki satır kaynakçasız bilgiden oluşmuyor. Eğer ki sadece kahverengi yumurta ile beyaz yumurta arasında bir fark var mı diye buraya geldiysen yanlış yerdesin.</description>
     </item>
     
     <item>
       <title>Kısmi Rezerv Sistemi</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/09/kismi-rezerv-sistemi/</link>
+      <link>https://reborn.sabahlatan.com/blog/kismi-rezerv-sistemi/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/09/kismi-rezerv-sistemi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/kismi-rezerv-sistemi/</guid>
       <description>Her ne kadar para insanlık tarihinde sonradan icat edilen kavramlardan biri olsa da, bugün hayattaki birçok alanın temeli olmuş durumda. İnsanlığın en ilginç eylemlerinden biri de kendi kurduğu bu para sistemini hackleyerek, bu sistemin açıklarından faydalanarak para kazanmaya çalışması. Kısmi rezerv sistemi de bu tarz sistemlerin başında geliyor. Bankalar bu kısmi rezerv sistemini kullanarak parayla oyun hamuru gibi oynuyor, yoktan para yaratıyor.
 Kısmi rezerv sistemi aslında kısmen de olsa aşina olunan bir kavram.</description>
     </item>
     
     <item>
       <title>Domatesin İlginç Tarihi</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/09/domatesin-ilginc-tarihi/</link>
+      <link>https://reborn.sabahlatan.com/blog/domatesin-ilginc-tarihi/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/09/domatesin-ilginc-tarihi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/domatesin-ilginc-tarihi/</guid>
       <description>Bundan yaklaşık 500 yıl önce domates görseydiniz muhtemelen yemezdiniz. Çünkü Avrupalılar tarafından pek beğenilmemiş hatta zehirli olduğu düşünülmüş bir bitki. Peki domates soframıza nasıl girdi? Öncelikle domatesin kökenine bakalım.
 Domatesin Kökeni ve Yayılması Domatesin kökeni Amerika’dır. Peru, Şili, Bolivya ve Ekvator&amp;rsquo;da doğal olarak yetişmektedir. Amerika&amp;rsquo;nın yerlileri olan Aztekler domates yetiştiriciliği yapmaktaydılar. Ancak ilk defa kimlerin domatesi kültüre aldığı tam olarak bilinmiyor. Aztekler bu bitkiye Tomatl ismini vermişlerdi. İspanyollar buna tomate dediler ve dilimize domates olarak girdi.</description>
     </item>
     
     <item>
       <title>Güneş Sistemi İçerisindeki İstisnalar</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/gunes-sistemi-icerisindeki-istisnalar/</link>
+      <link>https://reborn.sabahlatan.com/blog/gunes-sistemi-icerisindeki-istisnalar/</link>
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/gunes-sistemi-icerisindeki-istisnalar/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/gunes-sistemi-icerisindeki-istisnalar/</guid>
       <description>İlk bakışta öyle görünse de Güneş Sistemi düzenli bir yapıda değildir. Oldukça asimetrik ve içinde birtakım istisnai özellikler taşıyan gökcisimleri barındıran bir oluşumdur. Kimi gökcisimleri diğerlerine ters yönde dönerken, kimileri uydusu olduğu cisme oranda oldukça büyüktür, kimisinin kolay açıklanamayan hareketleri vardır.
 Güneş Sistemi içindeki tüm gezegenler tam olarak aynı olmasa da çok yakın açılarla aynı düzlem üzerinde Güneş etrafında döner. Buna gezegensel disk deniyor. Gezegenlikten çıkarılıp cüce gezegen ilan edilmeden önce Plüton&amp;rsquo;un bu gezegensel diski yarıp geçen çok enteresan bir yörüngesi vardı.</description>
     </item>
     
     <item>
       <title>Chrome&#39;da Arkada Kalan Sekmelerin Donmasını Engellemek</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</link>
+      <link>https://reborn.sabahlatan.com/blog/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</guid>
       <description>Chrome&amp;rsquo;un yeni zırvalarından biri de sekme değiştirildiğinde arkaya alınan sekmeyi RAM&amp;rsquo;den kısmen çıkartması ve sekmeye tekrar girildiğinde sekmenin en baştan açılması. Chrome sürekli olarak bu tarz eklemeler yapıyor ve bunları kapatacak bir seçeneği ayarlar sayfasına eklemiyor. Derdi minimalist olmak, fakat ayar yapacak adam minimalizm aramaz. Bu sinir bozucu yeniliği kapatmak için Chrome&amp;rsquo;un gizli ayarlarına girmek gerekiyor; yine. Tıpkı Chrome&amp;rsquo;da sekmelerin sesini tek tıkla kapatıp açmaktan bahsettiğimiz yazıdaki gibi. Tek fark, orada gizli bir özelliği aktive ederek Chrome&amp;rsquo;a bir nevi ekliyorduk.</description>
     </item>
     
     <item>
       <title>Okyanuslardaki Dev Çöp Adaları ve Onları Ülke Yapma Çabası</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/okyanuslardaki-ulke-olmaya-aday-dev-cop-adalari/</link>
+      <link>https://reborn.sabahlatan.com/blog/okyanuslardaki-ulke-olmaya-aday-dev-cop-adalari/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/okyanuslardaki-ulke-olmaya-aday-dev-cop-adalari/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/okyanuslardaki-ulke-olmaya-aday-dev-cop-adalari/</guid>
       <description>Dünya üzerindeki kirlilik devasa boyutlara ulaşmış durumda. Özellikle su kaynaklarındaki kirlenme canlılığı büyük oranda tehdit ediyor. Çöpler ve atıklar besin zincirlerinin içine her geçen gün daha fazla girmekte. Bu yüzden zincirin neresinde olursa olsun neredeyse tüm canlılık bundan kötü bir şekilde etkileniyor. Atıkların canlılara biyolojik etkilerinin yanı sıra direkt olarak olumsuz fiziksel etkileri de çok fazla. Başta kuşlar olmak üzere balıklar, kaplumbağalar ve sayısız canlı çöplerden dolayı telef oluyor.
-Bu oluşumlar çöp adaları, çöp girdapları, çöp yamaları, çöp alanları gibi birçok farklı adla anılıyor.</description>
+İnsanlığın plastiği yoğun bir şekilde dünya çapında kullanmaya başlaması geçen yüzyılın yarısından daha öteye gitmese de, artık insanoğlu başa çıkamayacağı büyüklükte dev plastik çöp kütleleri oluşturmuş durumda.</description>
     </item>
     
     <item>
       <title>Neden Para Basarak Ekonomi Düzeltilemez</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/neden-para-basarak-ekonomi-duzeltilemez/</link>
+      <link>https://reborn.sabahlatan.com/blog/neden-para-basarak-ekonomi-duzeltilemez/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/neden-para-basarak-ekonomi-duzeltilemez/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/neden-para-basarak-ekonomi-duzeltilemez/</guid>
       <description>Şu aralar pek çok kişiden duymuşsunuzdur. Neden para basıp borçlarımızı ödemiyoruz. Bu konudaki düşüncelerimi söylemem gerekirse, öncelikle söylemem gereken şey şu ki uluslararası ticarette yoğunlukla kullanılan para birimi dolardır. Bir diğeri de euro. Yani siz hangi ülke ile ticaret yaparsanız yapın sizden isteyeceği başlıca para birimi dolardır.
 Peki neden dolar bu kadar önemli? Öncelikle Amerika güçlü bir ekonomiye sahiptir. 18 trilyon dolarlık ekonomiye sahip bir ülkedir. Askeri, teknolojik ve ekonomik gücüyle dünyada da söz sahibi bir ülkedir.</description>
     </item>
     
     <item>
       <title>Ozon ve Ozon Tabakası Hakkında Az Bilinenler</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/ozon-ve-ozon-tabakasi-hakkinda-az-bilinenler/</link>
+      <link>https://reborn.sabahlatan.com/blog/ozon-ve-ozon-tabakasi-hakkinda-az-bilinenler/</link>
       <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/ozon-ve-ozon-tabakasi-hakkinda-az-bilinenler/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/ozon-ve-ozon-tabakasi-hakkinda-az-bilinenler/</guid>
       <description>Dünya atmosferinde yer alan ozon tabakasının, diğer adıyla ozonosferin biyosfer yani Dünya üzerindeki yaşam için ne kadar önemli olduğunu biliyorsunuzdur. Dünya için kalkan görevi gören iki tabaka, ozonosfer ve manyetosfer canlılığı yok edebilecek radyoaktif ışınlardan biyosferi büyük oranda koruyor. Bir atmosfer tabakası olmayan Dünya manyetosferine daha sonra başka bir yazıda gireriz.
 Öncelikle ozon molekülünden bahsedelim. Trioksijen adı da verilen ozon, 3 adet oksijen atomunun bağ yaparak oluşturduğu bir oksijen allotropu. Renksiz bir gaz olan ozon kolay kolay stoklanamaz çünkü sıcaklık arttıkça oksijene dönüşmeye başlar.</description>
     </item>
     
     <item>
       <title>Elektriği Anlamak</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/elektrigi-anlamak/</link>
+      <link>https://reborn.sabahlatan.com/blog/elektrigi-anlamak/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/elektrigi-anlamak/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/elektrigi-anlamak/</guid>
       <description>Dünya üzerinde bu kadar çok kullanılmasına ve hayatın kilit kavramlarından biri haline gelmesine rağmen, gündelik olarak hakkında en az şey bilinen fenomenlerin başında elektrik akımı gelir muhtemelen. Elektrik dendiğinde ilk bakışta cansız maddelere bir nevi canlılık veren bir enerji akışı gibi görünmesi doğal. Aslında elektrik çok temel prensiplere dayanıyor.
 Elektrik kelimesinin etimolojisinden başlayalım. Elektrik kelimesinin kökeni Kehribar (amber) anlamına gelen Latince electrum ve Yunanca ἤλεκτρον (ēlektron) kelimelerine dayanıyor. Bu iki kelimenin kökeni ise &amp;ldquo;ışık saçan güneş&amp;rdquo; anlamına gelen ἠλέκτωρ (ēlektōr) kelimesinden geliyor.</description>
     </item>
     
     <item>
       <title>Gözle Görülebilen Bakteri</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/gozle-gorulebilen-bakteri/</link>
+      <link>https://reborn.sabahlatan.com/blog/gozle-gorulebilen-bakteri/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/gozle-gorulebilen-bakteri/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/gozle-gorulebilen-bakteri/</guid>
       <description>İnsanlık genel olarak tek hücreli canlıları çıplak gözle görebilmeyi beklemez. Günlük yaşantıda pek karşılaşılmamasının yanı sıra, hücre yapısı için de sağlıklı bir durum değil tek bir hücrenin çok büyük boyutlara ulaşması. Hücre dahil her üç boyutlu cisim için hacim ve yüzey belli bir dengede kalmalıdır. Hücre zarının kalınlığı kolay kolay artmadığından hücrenin belli bir limiti vardır. Hacim / Kütle oranı yeterince arttığı zaman hücre tekrar denge durumuna ulaşmak için bölünür ve büyüklüğünü çok arttırmadan bu şekilde türünü devam ettirir.</description>
     </item>
     
     <item>
       <title>Gökcisimlerinin Çekirdekleri</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/gokcisimlerinin-cekirdekleri/</link>
+      <link>https://reborn.sabahlatan.com/blog/gokcisimlerinin-cekirdekleri/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/gokcisimlerinin-cekirdekleri/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/gokcisimlerinin-cekirdekleri/</guid>
       <description>Başta Dünya ve diğer gezegenler olmak üzere, gökcisimlerinin kütleleri ve iç yapısı insanlık tarafından biliniyor. Günlük yaşamda bir nesnenin kütlesini tartarak ölçen, iç yapısını onu kırarak, veya kimi zaman bir aşama ileri gidip X-ışınlarıyla öğrenen insanoğlu için bu konu biraz kafa karışıklığı yaratabilir. Tabii bunun için radyasyonu kullanmak da yalnızca yumuşak ve görece ince yapılar söz konusu olduğunda yer. Bir de bunu her istenen yerde uygulayabilmek için Tüm bu veriler tamamen dolaylı yöntemlerle elde ediliyor.</description>
     </item>
     
     <item>
       <title>Graham Sayısı ve Diğer Devasa Sayılar</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/graham-sayisi-ve-diger-devasa-sayilar/</link>
+      <link>https://reborn.sabahlatan.com/blog/graham-sayisi-ve-diger-devasa-sayilar/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/graham-sayisi-ve-diger-devasa-sayilar/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/graham-sayisi-ve-diger-devasa-sayilar/</guid>
       <description>İnsanlar günlük yaşantısında genellikle milyar üstü sayılarla pek uğraşmaz. Bu yüzden de trilyon ve sonrası çok karıştırılır. Ancak bilişim ve bilgisayar bilimlerinin uzantısı olan teknolojiler söz konusu olduğunda büyük sayılar günlük hayatın içine girmeye başlar. Bunun nedeni ise gelişen teknoloji ve sürekli olarak katlanan kapasitelerdir. Çünkü sınırlar mecburi olarak çok aşağıya konuldu, bit ve Byte bugün için çok küçük değerler. Her bir jenerasyonda hafıza birimleri, aktarım hızları, işlem güçleri bin katına çıkıyor.</description>
     </item>
     
     <item>
       <title>Sargasso Denizi: Kıyısı Olmayan Tek Deniz</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/sargasso-denizi-kiyisiz-deniz/</link>
+      <link>https://reborn.sabahlatan.com/blog/sargasso-denizi-kiyisiz-deniz/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/sargasso-denizi-kiyisiz-deniz/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/sargasso-denizi-kiyisiz-deniz/</guid>
       <description>Dünya üzerindeki uzaktan bakıldığında en kolay seçilen, en büyük su kütlelerine okyanus adı veriliyor. Okyanus, tanımı gereği çok belirsiz bir kavram, dolayısıyla dünyanın çeşitli yerlerinde okyanuslar farklı şekillerde sınıflandırılmakta. Denizler ise okyanusların karaların içlerine giren parçaları olarak tanımlanıyor. İnsanlık tarafından tarih boyunca defalarca unutuluyor olsa da, dünya yüzeyindeki tüm su kütleleri karaların boşluklarını dolduran, dünya için oldukça ince bir tabakadan ibaret. Doğal olarak denizler de dahil her su kütlesinin karalarla kıyısı olmak zorunda.</description>
     </item>
     
     <item>
       <title>Podcast Nedir, Ne Değildir</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/podcast-nedir-ne-degildir/</link>
+      <link>https://reborn.sabahlatan.com/blog/podcast-nedir-ne-degildir/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/podcast-nedir-ne-degildir/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/podcast-nedir-ne-degildir/</guid>
       <description>Son zamanlarda Türkiye&amp;rsquo;de popülaritesi oldukça artıyor olsa da, podcast kavramı çoğu zaman yanlış biliniyor. Özellikle podcast&amp;rsquo;i Youtube gibi video paylaşım sitelerinden öğrenenler bu teknolojiyi olduğundan çok farklı bir sınıfa sokuyor. Popüler olmasının bir başka nedeni ise Spotify gibi platformlar&amp;rsquo;a gelen podcast desteği. Podcast ilk bakışta kayıtlı radyo programı olarak da algılanabilir, fakat bundan çok daha kapsamlı bir kavram. Halihazırda radyolar ve televizyonlar dahil birçok kuruluş yayınlarını podcast olarak sunmayı tercih edebiliyor.</description>
     </item>
     
     <item>
       <title>Evrimini Durduran Canlı</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/08/evrimini-durduran-canli/</link>
+      <link>https://reborn.sabahlatan.com/blog/evrimini-durduran-canli/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/08/evrimini-durduran-canli/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/evrimini-durduran-canli/</guid>
       <description>Dünyanın bugünkü ekosistemine dahil olan tüm canlılık birbirini dengeleyecek bir şekilde hayat buluyor, insan dışında. Bunun nedeni ise dünya üzerindeki karbon temelli canlılığın diğer canlıları tüketerek bir döngü içinde yer alması ve sürekli olarak bir denge durumuna girilmesi. Güneş&amp;rsquo;in bir kızıl dev olmaya başlayacağı tarihlerde yüksek sıcaklıktan dolayı dünya üzerinde var olabilen tek canlı tuzcul bakteriler olacak olsa da, dünyanın şimdiki ekosisteminde durum bu şekilde. Virüs ve viroid gibi varlıklar canlı sınıfına tam olarak girmediğinden dolayı onlar için bu geçerli değil, onları gıda olarak kullanan canlılar olmadığı için kontrolsüzce artma potansiyeline sahipler.</description>
     </item>
     
     <item>
       <title>32-bit ve 64-bit İşlemci Arasındaki Fark Tam Olarak Nedir</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/05/32-bit-ve-64-bit-islemci-arasindaki-fark-tam-olarak-nedir/</link>
+      <link>https://reborn.sabahlatan.com/blog/32-bit-ve-64-bit-islemci-arasindaki-fark-tam-olarak-nedir/</link>
       <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/05/32-bit-ve-64-bit-islemci-arasindaki-fark-tam-olarak-nedir/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/32-bit-ve-64-bit-islemci-arasindaki-fark-tam-olarak-nedir/</guid>
       <description>32-bit işlemcilerin tarihi artık doldu ve yerini büyük oranda 64-bit işlemcilere bırakmaya başladı. Neden 32-bit&amp;rsquo;in artık eskimiş bir teknoloji olduğunu yazının sonuna doğru anlayacaksınız. Bu kadar fazla bahsedilen bir konu hakkında yazmamın nedeni, bu konuyla ilgili karşınıza çıkan kaynakların çoğunun yalan yanlış bilgilerle dolu olması. Kendileri tam olarak anlamadan anlatmaya çalıştığından dolayı internet çöp bilgilerle dolu.
 32-bit ve 64-bit işlemcinin arasındaki farkın kolayca anlaşılamamasının nedeni isimlendirmedeki eksiklikten kaynaklanıyor. 32-bit bir işlemciden bahsedildiğinde akılda canlanan görsel işlemcinin her saat vuruşunda 32 bit veri işlediği veya işlemcinin az çok nasıl çalıştığını bilen biri için register denen hafıza alanlarında 32 bit veri tutulduğu olacaktır.</description>
     </item>
     
     <item>
       <title>Nanopor Teknolojisi ve DNA Nanotop Dizilemesi</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/04/nanopor-teknolojisi-eng-nanopore-technologies-ve-dna-nanotop-dizilemesi/</link>
+      <link>https://reborn.sabahlatan.com/blog/nanopor-teknolojisi-eng-nanopore-technologies-ve-dna-nanotop-dizilemesi/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/04/nanopor-teknolojisi-eng-nanopore-technologies-ve-dna-nanotop-dizilemesi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/nanopor-teknolojisi-eng-nanopore-technologies-ve-dna-nanotop-dizilemesi/</guid>
       <description>Nanoteknoloji Nedir? Nano kelimesi Yunancadan nannos kelimesinden türemiştir. Nannos cüce ya da yaşlı küçük adam anlamına gelmektedir. Teknoloji ise yunanca da tekhne yani sanat, zanaat ve logos yani söz, sözcük anlamına gelen sözcüklerden oluşturulmuş ve sanatlar ya da zanaatlar üzerine konuşma anlamına gelmektedir. Tarhan ve arkadaşları ise nanoteknolojinin tanımını, “nanoteknoloji maddeler üzerinde 100 nanometre ölçeğinden küçük boyutlarda gerçekleştirilen işleme, ölçüm, tasarım, modelleme ve düzenleme gibi çalışmalarla maddeye atom ve molekül seviyesinde gelişmiş veya tamamen yeni fiziksel, kimyasal ve biyolojik özellikler kazandırmayı hedefleyen bilim ve teknoloji alanıdır” (2010) şeklinde yapmıştır.</description>
     </item>
     
     <item>
       <title>Retro Nedir? Retro Hakkında Bir Yazı</title>
-      <link>https://reborn.sabahlatan.com/posts/2018/04/retro-nedir-retro-hakkinda-bir-yazi/</link>
+      <link>https://reborn.sabahlatan.com/blog/retro-nedir-retro-hakkinda-bir-yazi/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2018/04/retro-nedir-retro-hakkinda-bir-yazi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/retro-nedir-retro-hakkinda-bir-yazi/</guid>
       <description>Retro; kasten yakın geçmişin moda, film, oyun, müzik vb. türeten veya taklit eden tarzdır. Türetilen ya da taklit edilen şeyin ise üzerinden en azından bir 20 yıl geçmesi gerekir. Örnek vermek gerekirse üzerinden bir, iki sene geçmiş bir filmin taklidi retro sayılmaz ancak üzerinden 34 sene geçmiş bir film olan Terminatör (ilk filmi) taklit edilebilir.
 Hani şu bir evin yakınına meteor düşüyordu&amp;hellip;Hani arkadaşlarınızla o eve gidiyordunuz&amp;hellip;
 Retro oyunlardan bahsetmek istiyorum. Retro bakımından günümüzde tasarım olarak kendisini gösteren en iyi oyunlardan birisi (biraz eskidi gerçi) FarCry: Blood Dragon.</description>
@@ -286,37 +285,37 @@ Retro oyunlardan bahsetmek istiyorum. Retro bakımından günümüzde tasarım o
     
     <item>
       <title>Duyuları ve Bilinci Aldatmak</title>
-      <link>https://reborn.sabahlatan.com/posts/2017/12/bedeni-kandirmak/</link>
+      <link>https://reborn.sabahlatan.com/blog/bedeni-kandirmak/</link>
       <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2017/12/bedeni-kandirmak/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/bedeni-kandirmak/</guid>
       <description>Duyu organları ve bunlardan gelen sinyallere göre hesaplama yapan birimler görevini genellikle olması gerektiği gibi yerine getirse de, çok kolay manipüle edilebilir bir yapıya sahip. Canlı vücutlarını incelemeden önce bilgisayarlardan örnek verelim. Zaman zaman bilgisayarlarınızı, makinelerinizi daha iyi veya ortamda az imkan olması durumunda kandırma gereği duyduğunuz oluyordur. Çalışmak için CD veya DVD okuyucuda bir disk görmeye ihtiyaç duyan yazılımları çalıştırmak için sanal sürücü kullanmak gibi, Pokémon GO oyununu oturduğunuz yerden oynamak için sahte GPS uygulamaları kullanmak gibi örnekler verilebilir.</description>
     </item>
     
     <item>
       <title>İngilizcede &#34;Türk Aksanı&#34; Problemi</title>
-      <link>https://reborn.sabahlatan.com/posts/2017/08/ingilizcede-turk-aksani-neden-dogru-bir-sey-degil/</link>
+      <link>https://reborn.sabahlatan.com/blog/ingilizcede-turk-aksani-neden-dogru-bir-sey-degil/</link>
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2017/08/ingilizcede-turk-aksani-neden-dogru-bir-sey-degil/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/ingilizcede-turk-aksani-neden-dogru-bir-sey-degil/</guid>
       <description>Britanya geçen yüzyılda kurduğu sömürge imparatorluğu nedeniyle tarihteki en geniş yüzölçümüne sahip ülke olduğundan dolayı, İngilizce dilinin dünyadaki ortak iletişim dili olarak kabul gördüğü bir gerçek. Genellikle Batı Avrupa dışında her ülkeden insan İngilizce öğrenmeye ve öğretmeye yönelir. Başka bir ülkeden bir insanla iletişim kuracaksanız ilk seçiminiz doğal olarak İngilizce olacaktır. Batı Avrupa&amp;rsquo;da yer edinmiş, Avrupa&amp;rsquo;nın belli başlı ülkelerini bunun haricinde tutmamın nedeni ise onların kendi dilinden taviz vermek istememesi. Genellikle İngiltere dışında çoğu Batı Avrupalı İngilizce bilmez dahi.</description>
     </item>
     
     <item>
       <title>Piezoelektrik: Maddenin Kuyruğu Sıkışınca Elektrik Üretmesi</title>
-      <link>https://reborn.sabahlatan.com/posts/2017/07/piezoelektrik-maddenin-kuyrugu-sikisinca-elektrik-uretmesi/</link>
+      <link>https://reborn.sabahlatan.com/blog/piezoelektrik-maddenin-kuyrugu-sikisinca-elektrik-uretmesi/</link>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2017/07/piezoelektrik-maddenin-kuyrugu-sikisinca-elektrik-uretmesi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/piezoelektrik-maddenin-kuyrugu-sikisinca-elektrik-uretmesi/</guid>
       <description>Elektrik akımı denen fenomen aslında çok basit bir şekilde oluşur. Mevzu tamamen iki nokta arasındaki gerilim, yani elektron miktarları arasındaki farkın varlığından dolayı elektronların bir noktadan diğer noktaya atlamasından ibarettir. Tabii bunun için bu iki yoğunluk farkı olan noktayı elektronların ilerleyebileceği bir yol ile, yani bir iletken ile birbirine bağladıktan sonra bu mümkün. Doğada geçebilecek yol bulan her madde yüksek yoğunluktan düşük yoğunluğa geçer, daha sık bölgelerden kurtularak daha seyrek bölgelere doğru yol alır.</description>
     </item>
     
     <item>
       <title>Kısaca Nanoteknoloji</title>
-      <link>https://reborn.sabahlatan.com/posts/2017/05/kisaca-nanoteknoloji/</link>
+      <link>https://reborn.sabahlatan.com/blog/kisaca-nanoteknoloji/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2017/05/kisaca-nanoteknoloji/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/kisaca-nanoteknoloji/</guid>
       <description>Nanoteknoloji hayatımızın her köşesinde, geçen zaman sürecinde yer almaktadır. Bu bilim dalının ismine haberlerde, makalelerde veya herhangi bir sitede rastlamış olabilirsiniz. Kişisel olarak yaptığım araştırmalar sonucunda bulduğum bilgileri size aktarmak istemekteyim.
 Nanoteknoloji Nedir? Nano kelimesi yunanca “küçük adam” veya “cüce” anlamına gelmektedir. Tekno kelimesinin kökeni ise yaptığım kısa bir araştırma sonucu kaynaklarda zanaat ile uğraşma, zanaat gibi anlamlarına geldiği belirtilmektedir.
 İlk Zamanlar Nanoteknolojinin ilk tohumlarını Richard Feynman adlı fizikçi atmıştır. Aşağıda daha çok yer var adlı konuşmasında daha küçük eller, atomlara ya da maddelere moleküler düzeyde ya da atomsal düzeyde müdahaleler, operasyonlar yapılabileceğini konuşmasında belirtmiştir.</description>
@@ -324,10 +323,10 @@ Nanoteknoloji Nedir? Nano kelimesi yunanca “küçük adam” veya “cüce” 
     
     <item>
       <title>Şah - Mat</title>
-      <link>https://reborn.sabahlatan.com/posts/2017/04/sah-mat/</link>
+      <link>https://reborn.sabahlatan.com/blog/sah-mat/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2017/04/sah-mat/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/sah-mat/</guid>
       <description>Satranç, kimilerine göre kumar, kimilerine göre de şeytan icadı olmuştur. Ve lakin ikisi de değildir. Satranç 8x8&amp;rsquo;lik kare şeklindeki bir tahta parçasında, çeşitli görevlere sahip taşlar ile oynanan bir oyundur.
 Hayatımızın her alanında bu oyunun yansımasını gördüğümüzü düşünüyorum. Atacağımız her adım &amp;lsquo;hayat&amp;rsquo; tahtasında oynayacağımız bir hamledir. Bu yüzdendir ki toplumun her kesiminden insan bu oyunu keyifle oynar.
 Bu oyun öyle cinsiyete de bakmaz. Zira ilkokulda yenemediğim tek oyuncu bir &amp;lsquo;Simge&amp;rsquo; adında bir kızdı.</description>
@@ -335,734 +334,734 @@ Bu oyun öyle cinsiyete de bakmaz. Zira ilkokulda yenemediğim tek oyuncu bir &a
     
     <item>
       <title>Kan: Vücudu Bir Bütün Haline Getiren Yapı</title>
-      <link>https://reborn.sabahlatan.com/posts/2017/03/vucudu-bir-butun-haline-getiren-yapi-kan/</link>
+      <link>https://reborn.sabahlatan.com/blog/vucudu-bir-butun-haline-getiren-yapi-kan/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2017/03/vucudu-bir-butun-haline-getiren-yapi-kan/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/vucudu-bir-butun-haline-getiren-yapi-kan/</guid>
       <description>Kan tarih boyunca insanlığın oluşturduğu kültürlerde her zaman büyük önem taşımıştır. Kimi dinlerde kanın canın kaynağı olduğuna inanıldığından dolayı kanlı et yenmez, kimi milletlerde devleti yöneten kişilerin kanının kutsal olduğuna inanılıp onlara suikast düzenlendiğinde kanı akıtılmadan, boğarak öldürülür. Kan herhangi bir doğaüstü güce sahip olmasa da, vücut için en önemli yapıların başında geliyor. Çok hücreli canlıların artık daha karmaşık yapılara sahip olmaya başladığı nokta karşılaşılan en önemli yapılardan biri olarak kan ve dolaşım sistemi görülüyor.</description>
     </item>
     
     <item>
       <title>Nokia&#39;nın Bilinmeyenleri</title>
-      <link>https://reborn.sabahlatan.com/posts/2017/03/nokianin-bilinmeyenleri/</link>
+      <link>https://reborn.sabahlatan.com/blog/nokianin-bilinmeyenleri/</link>
       <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2017/03/nokianin-bilinmeyenleri/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/nokianin-bilinmeyenleri/</guid>
       <description>Bu yazı uzun süre önce aklımdaydı, fakat şu günler Nokia 3310 adı altında yeni bir telefonun piyasaya sürülmesi bunu şu an daha anlamlı kılacaktır. Bunun nedeni bu yazının içeriğinin Microsoft tarafından satın alınmadan önceki Nokia hakkında olması.
 Hepsinden önce Nokia hakkındaki son gelişmelere bir göz atalım. Yeni tanıtılan telefonun Nokia 3310&amp;rsquo;la hiçbir alakası veya cezbedici hiçbir yanı yok, bunu fark etmişsinizdir. Aynı boyuttaki eski tuşlu telefon modelleri arasında, çeşitli markaların aynen bu şekilde cihazları mevcuttu.</description>
     </item>
     
     <item>
       <title>Müzik Teorisi ve Solfeje Giriş II</title>
-      <link>https://reborn.sabahlatan.com/posts/2017/03/muzik-teorisi-ve-solfeje-giris-ii/</link>
+      <link>https://reborn.sabahlatan.com/blog/muzik-teorisi-ve-solfeje-giris-ii/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2017/03/muzik-teorisi-ve-solfeje-giris-ii/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/muzik-teorisi-ve-solfeje-giris-ii/</guid>
       <description>Ses sıralamaları her zaman ilk bölümde örneğini verdiğim gibi tek bir şekilde değildir. Şarkı için en uygun tona göre sürekli olarak farklı sıralamalar tercih edilir. Tabii sıralamadan kasıt basit bir yer değişimi değil, müzik teorisinde sıralamanın farklı notalardan başlatılmasının yanı sıra ses aralığı sıralaması da değişir. Bunun sonucu olarak kimi sesler kullanılır, kimi sesler kullanılmaz. Bu yüzden her gam birbirinden farklıdır.
 Gamlar nota sıralamalarıdır. Notalar neredeyse hiçbir zaman kuralsız bir biçimde sıralanamaz.</description>
     </item>
     
     <item>
       <title>Müzik Teorisi ve Solfeje Giriş I</title>
-      <link>https://reborn.sabahlatan.com/posts/2017/02/muzik-teorisi-ve-solfeje-giris-i/</link>
+      <link>https://reborn.sabahlatan.com/blog/muzik-teorisi-ve-solfeje-giris-i/</link>
       <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2017/02/muzik-teorisi-ve-solfeje-giris-i/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/muzik-teorisi-ve-solfeje-giris-i/</guid>
       <description>Bu yazı serisiyle birlikte plaj gitaristi avına çıkıyoruz. Gitarın bir ergen enstrümanı haline gelmesi bu çağın vebası. Birkaç akorun basılması ve tellere vurulacak birkaç kalıplaşmış ritmin öğrenilmesinin müzisyenlik olarak anılması bu işin bütün ciddiyetini yok ediyor.
 Eğer hayatınızı müziğe vermemişseniz, bütün gününüz müzikle uğraşarak geçmiyorsa ve kulağa hitap eden tüm sesleri elinizle koymuş gibi o belirsizlik içerisinde bulabiliyorsanız, notaların adını bilmenize gerek yok. Müzik teorisi bu aşamada bireysellikten dışarı çıkılmadığı sürece gereksiz, fakat doğal olarak bu geçerli değilse ve müzik yapmaya heveslendiyseniz bu kavramı seve seve öğreneceksiniz.</description>
     </item>
     
     <item>
       <title>Güneş Sisteminin En Tırt Gezegeni: Uranüs</title>
-      <link>https://reborn.sabahlatan.com/posts/2017/02/gunes-sisteminin-en-tirt-gezegeni-uranus/</link>
+      <link>https://reborn.sabahlatan.com/blog/gunes-sisteminin-en-tirt-gezegeni-uranus/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2017/02/gunes-sisteminin-en-tirt-gezegeni-uranus/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/gunes-sisteminin-en-tirt-gezegeni-uranus/</guid>
       <description>Uranüs özelliksiz bir gezegen değil. Aslında Güneş Sistemi içindeki konumunda, kendine özgü birçok özelliği var. Fakat bu gezegen hiçbir zaman umursanamakta. Belgesellerde dahi üzerinde saatlerce isminin İngilizce telaffuzunun &amp;ldquo;Your anus&amp;rdquo; ifadesini andırması üzerine saatlerce geyik yapılır, özelliklerinden kısaca bahsedilir ve geçilir. Kendisine çok benzeyen Neptün dahi çok fazla şımartılan bir gezegen. Gerek rengi, gerek Plüton&amp;rsquo;un atılmasından sonra sistemdeki son gezegen sayılması, gerek üzerindeki büyük lekesi dolayısıyla Neptün&amp;rsquo;den her zaman uzun uzun bahsedilirken Uranüs&amp;rsquo;e karşı tık yoktur.</description>
     </item>
     
     <item>
       <title>Azerbaycan Türkçesine Giriş I</title>
-      <link>https://reborn.sabahlatan.com/posts/2017/01/azerbaycan-turkcesine-giris-i/</link>
+      <link>https://reborn.sabahlatan.com/blog/azerbaycan-turkcesine-giris-i/</link>
       <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2017/01/azerbaycan-turkcesine-giris-i/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/azerbaycan-turkcesine-giris-i/</guid>
       <description>Türkiye Türkçesi ile Azerbaycan Türkçesi aynı dil alt grubundadır. Birbirine çok yakın dillerdir, hatta ayrı dil olduklarını söylemek dahi zor. Yapı neredeyse tamamen aynı, fakat kullanılan kelimeler farklıdır. Türkiye Türkçesi Osmanlı Devleti süresince Arapça ve Farsçanın, Türkiye Cumhuriyeti&amp;rsquo;nin ilanıyla ile birlikte de Fransızcanın etkisinde kalmıştır. Azerbaycan Türkçesi de, Azerbaycan&amp;rsquo;ın bulunduğu coğrafya ve etkisi altında olduğu ülkeler dolayısıyla büyük oranda Farsça ve Rusçanın etkisinde kalmıştır. Bu dile Azerbaycanca, Azerbaycan dili veya Azerbaycan Türkçesi de denebilir.</description>
     </item>
     
     <item>
       <title>Ateş: Dünya&#39;nın Özel Yeteneği</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/12/ates-dunyanin-ozel-yetenegi/</link>
+      <link>https://reborn.sabahlatan.com/blog/ates-dunyanin-ozel-yetenegi/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/12/ates-dunyanin-ozel-yetenegi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/ates-dunyanin-ozel-yetenegi/</guid>
       <description>Ateş insanoğlu için çok yaygın bir olgu olsa da, kendisini tanımlayabilmek oldukça güç. Ateş bir kimyasal tepkime veya madde değil, oksijen elementinin diğer maddelerle girdiği tepkime sonucu ortaya çıkan enerji ve madde paketidir. Tepkimenin adı yanma tepkimesidir, ateş bu tepkimenin bir ara ürünü olarak ortaya çıkar. Bu paket içerisinde iyonize olmayan, yani canlıların genetik yapısında değişim ortaya çıkarmayan çeşitli radyasyon türleri ve plazma halinde gazlar bulunur.
 Ateş karbondioksit, su buharı, oksijen ve azot gibi gazları bünyesinde bulundurur ve yeterince yüksek sıcaklığa ulaşmışsa bu gazlar plazma haline geçer.</description>
     </item>
     
     <item>
       <title>Cansızlık ve Canlılıktan Önceki Son Adımlar</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/12/cansizlik-ve-canliliktan-onceki-son-adimlar/</link>
+      <link>https://reborn.sabahlatan.com/blog/cansizlik-ve-canliliktan-onceki-son-adimlar/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/12/cansizlik-ve-canliliktan-onceki-son-adimlar/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/cansizlik-ve-canliliktan-onceki-son-adimlar/</guid>
       <description>Her insanın kafasında canlılıkla ilgili bir tanım, canlı ile cansız arasında net bir sınır vardır. Fakat bu konu mikrobiyolojik olarak ele alındığında bu kadar basit sonuçlar çıkmıyor. Ne kadar canlılık belli bir tanımın içerisine konularak, birtakım özelliklere göre sınıflandırılmak istense dahi en ilkel canlı ile en karmaşık cansız nesne arasında net bir sınır bulunamıyor. Tabii burada karmaşıklıktan kastedilen canlılığa özgü olan yapılar. Sonuç olarak belli varlıkların canlı mı veya cansız mı olduğuna henüz karar verilebilmiş değil.</description>
     </item>
     
     <item>
       <title>Ketçap Nasıl Balık Salamurasından Domatesli Sosa Dönüştü</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/10/ketcabin-tarihcesi/</link>
+      <link>https://reborn.sabahlatan.com/blog/ketcabin-tarihcesi/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/10/ketcabin-tarihcesi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/ketcabin-tarihcesi/</guid>
       <description>Birçok insanın vazgeçilmezi olan, her markette rafları dolduran ketçabın tarihi aslında bildiğimizden daha eskidir. Günümüzde ketçap denilince akla ilk olarak domates gelmektedir. Modern ketçaplar domates sosudur. Peki ya ketçabın ilk olarak balıktan yapıldığını biliyor muydunuz?
 17.yüzyılda Çin&amp;rsquo;de kullanılan bir yöntem ketçabın temellerini oluşturur. O dönemlerde nemli havadan dolayı balıkları kurutarak muhafaza etmek pek mümkün değildi. Bu nedenle balıklar tuzlu suda salamura yapılarak muhafaza ediliyordu. Salamura balık ve baharatlarla bir sos hazırlanıyor ve bu sos yemeklerde kullanılıyordu.</description>
     </item>
     
     <item>
       <title>Antimadde Nedir</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/10/antimadde/</link>
+      <link>https://reborn.sabahlatan.com/blog/antimadde/</link>
       <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/10/antimadde/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/antimadde/</guid>
       <description>Bilindiği gibi maddeyi oluşturan protonlar artı, elektronlar eksi yüklüdür. Bilimsel kuramların çoğu bu değerleri temel alır. Fakat 1900&amp;rsquo;lü yılların başlangıcında çeşitli hesaplamalar sonucunda bunun tam aksi yönde özelliklere sahip olan maddeler olabileceği ortaya atıldı. Positron isimli karşıt elektronların, karşıt protonların varlığı mümkündü. İlerleyen yıllarda bu parçacıkların varlığı tespit edildi ve bunların bir araya gelerek madde oluşturabileceği kanıtlandı. Bugün insanoğlu bu konuda emekleme aşamasında olsa da, antimadde tıpta aktif olarak kullanılıyor.</description>
     </item>
     
     <item>
       <title>Astronomi, Uzay ve Gökyüzü Gözlem Uygulamaları</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/10/astronomi-uzay-ve-gokyuzu-gozlem-uygulamalari/</link>
+      <link>https://reborn.sabahlatan.com/blog/astronomi-uzay-ve-gokyuzu-gozlem-uygulamalari/</link>
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/10/astronomi-uzay-ve-gokyuzu-gozlem-uygulamalari/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/astronomi-uzay-ve-gokyuzu-gozlem-uygulamalari/</guid>
       <description>Astronomiye, gökyüzü gözlemlerine ve evrenin derinliklerine meraklıysanız bu alanlarda ilginizi tatmin edecek çeşitli bilgisayar ve mobil uygulamaları mevcut. Bunlar ister bulunduğunuz yerde veya dünyanın herhangi bir noktasında gökyüzünde o an hangi gökcisimlerinin bulunduğunu öğrenmenizi, ister çeşitli gökcisimlerini yakından görmenizi ve tanımanızı sağlayacak uygulamalar. Her biri alternatiften ziyade, bir diğerinde olmayan özellikler taşıyor.
 Stellarium Amatör olarak astronomiyle ilgileniyorsanız Stellarium&amp;rsquo;a aşina veya en azından adını duymuş olabilirsiniz. Stellarium açık kaynak kodlu bir bilgisayar uygulaması.</description>
     </item>
     
     <item>
       <title>Deus Ex Machina</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/10/deus-ex-machina/</link>
+      <link>https://reborn.sabahlatan.com/blog/deus-ex-machina/</link>
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/10/deus-ex-machina/</guid>
-      <description>Bugünkü sinema filmlerinde, tiyatro oyunlarında, kitaplarda, dizilerde de bu kavram varlığına devam ediyor. Tabii antik tiyatrodaki vinçle kaldırılan tanrı gibi bir örnek yerine, soyut bir şekilde varlığını gösteriyor. Deus ex machina günümüz eserlerinde, eserin sonunda tek seferde tüm olayları yoluna sokan bir karakter, bir obje veya bir olay şeklinde bulunuyor. Örneğin bir doğa olayının çok alakasız bir şekilde eserdeki kötü karakteri öldürmesi, gizemli bir karakterin eserin sonunda olaylara müdahale edip çözüme ulaştırması sayılabilir.</description>
+      <guid>https://reborn.sabahlatan.com/blog/deus-ex-machina/</guid>
+      <description>Antik Yunan ve Roma tiyatrosunda, gitgide karmaşıklaşan oyun senaryolarını, iç içe giren olay örgülerini tek seferde çözüme ulaştırmak için kullanılan yöntemin adı olan Latince bir terim deus ex machina. Bugünkü eserlerde de kendine yer buluyor. Esasında çok basit bir kavram. İfadenin kökenine bakıldığında ismini karşılayan, net bir uygulama görülüyor. Deus ex machina ifadesi &amp;ldquo;makineden tanrı&amp;rdquo; anlamını taşır. Oyun boyunca işler karmakarışık bir hale geliyor ve oyunun sonunda mekanik bir düzenek yardımıyla yukarı kaldırılan, tanrıyı oynayan bir karakter her şeyi olması gereken hale getiriyor.</description>
     </item>
     
     <item>
       <title>Henoteizm: Hepsine İnanıp Birine Tapmak</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/10/henoteizm-hepsine-inanip-birine-tapmak/</link>
+      <link>https://reborn.sabahlatan.com/blog/henoteizm-hepsine-inanip-birine-tapmak/</link>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/10/henoteizm-hepsine-inanip-birine-tapmak/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/henoteizm-hepsine-inanip-birine-tapmak/</guid>
       <description>Tek tanrılı (monoteist) birçok din başlangıç aşamasında çok tanrılı (politeist) bir yapıya sahiptir. Tek tanrılığa geçiş ve bu tanrının formunun değişip daha az detaylı, daha gizemli ve insan formundan uzak bir hal alması çeşitli süreçler aracılığıyla gerçekleşir. Tanrılar aralarından bir tanrıyı seçip güçlerini ona verebilir, onu baş tanrı seçip kendileri de din içerisinde melek olarak hayatlarını sürdülebilir veya bu diğer tanrılar yenilip yok olabilir.
 Henoteizm bu geçiş aşamasındaki ilginç bir sürecin ismi.</description>
     </item>
     
     <item>
       <title>Warp Drive: Işık Hızına Ulaşamıyorsan Evreni Dalgalandır</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/10/warp-drive-isik-hizina-ulasamiyorsan-evreni-dalgalandir/</link>
+      <link>https://reborn.sabahlatan.com/blog/warp-drive-isik-hizina-ulasamiyorsan-evreni-dalgalandir/</link>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/10/warp-drive-isik-hizina-ulasamiyorsan-evreni-dalgalandir/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/warp-drive-isik-hizina-ulasamiyorsan-evreni-dalgalandir/</guid>
       <description>Değil Gözlemlenebilir Evren, değil Galaksiler, yalnızca yıldızlararası boşluklar dahi insan beyninin kavramakta zorlanacağı devasa mesafelere sahip. Güneş Sistemi dışında ulaşılabilecek en yakın yıldız sistemi olan Alfa Centauri yaklaşık 4 ışıkyılı uzaklıkta. Bu demek oluyor ki ışık hızıyla yapılan bir seyahat ile ancak 4 yılda o yıldıza ulaşılabilecek.
 Gelgelelim insanoğlunun ışık hızına ulaşması bugünün bilimine göre mümkün değil. Işık hızına ulaşabilmek için enerjiye dönüşmek gerekir. Bir maddeyi gitgide ışık hızına yaklaştırdıkça o maddenin kütlesi Albert Einstein&amp;rsquo;ın denklemlerine göre hızla artar.</description>
     </item>
     
     <item>
       <title>Kayıtlı Wi-Fi Şifresini Görüntülemek</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/10/cesitli-platformlarda-kayitli-wi-fi-sifresini-goruntulemek/</link>
+      <link>https://reborn.sabahlatan.com/blog/cesitli-platformlarda-kayitli-wi-fi-sifresini-goruntulemek/</link>
       <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/10/cesitli-platformlarda-kayitli-wi-fi-sifresini-goruntulemek/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/cesitli-platformlarda-kayitli-wi-fi-sifresini-goruntulemek/</guid>
       <description>Teknolojinin ulaştığı noktanın etkisiyle kablosuz ağlara bağlanan cihazlar artık her evin dört bir köşesinde yer alıyor. İnsanlar artık kablosuz bağlantılar olmadan yaşayamaz halde. Tabii bu bağlanılan ağlar güvenlik anahtarı, yani ağa bağlanma şifresi kullandığında zaman içinde başka bir cihazı bu ağa bağlamak gerektiğinde unutulabiliyor.
 Mevcut ağ ev tipi bir modem bağlantısı olduğunda ve ağ sahibi iken web tarayıcısı olan bir cihazla 192.168.1.1 şeklindeki adrese girerek modem arayüzüne bağlandıktan sonra şifreyi görmek ve değiştirmek mümkün.</description>
     </item>
     
     <item>
       <title>Zamanda Yolculuk: Bilim Kurgunun En Önemli Kavramı</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/10/zamanda-yolculuk/</link>
+      <link>https://reborn.sabahlatan.com/blog/zamanda-yolculuk/</link>
       <pubDate>Sat, 22 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/10/zamanda-yolculuk/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/zamanda-yolculuk/</guid>
       <description>Bilindiği üzere zamanda yolculuk konusunun işlendiği tüm eserlerde bu kavram kurgu yaratıcısının elinde patlar. Çünkü özellikle geçmişe yolculuğun henüz bilimsel bir dayanağı yoktur. Bu konu hakkındaki tüm görüşler insanlar tarafından ortaya atılan hipotezlerdir. Bu fikirler de birbirinden fazlasıyla farklılık içerir. Söz konusu geçmişe yolculuk olduğunda tüm bu nedenlerden dolayı net bir taslak oluşamaz. Geçmişe gidilerek bir değişiklik yapıldığında gelecekte ne olacağını insanoğlu halen kafasında oturtamamıştır. Geleceğin değişeceği, geleceğin asla değişemeyeceği ve geçmişte yapılan değişikliğin aslında her zaman mevcut olduğu ve bir şekilde fark edilmediği, her değişiklik sonucunda paralel evrenler oluşturulduğu gibi görüşler farklı eserlerde farklı formatlarla işlenir.</description>
     </item>
     
     <item>
       <title>Android Devasa Thumbnail Sorununun Çözümü</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/10/android-devasa-thumbnail-sorununun-cozumu/</link>
+      <link>https://reborn.sabahlatan.com/blog/android-devasa-thumbnail-sorununun-cozumu/</link>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/10/android-devasa-thumbnail-sorununun-cozumu/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/android-devasa-thumbnail-sorununun-cozumu/</guid>
       <description>Android işletim sistemli birçok telefonda gittikçe şişerek çok fazla yer kaplayan thumbnail (küçük resim) dosyaları sorunu var. Bu dosyalar çok kısa süre içerisinde biriken dosyalar birkaç yüz megabyte boyutundan birkaç gigabyte boyutuna erişerek telefon hafızasında önemli yer kaplıyor. Telefonun kendi hafızası da küçükse, çalışmak için boş hafıza talep eden Galeri gibi birçok uygulama da kullanılamaz hale geliyor. Thumbnail dosyaları, bunları silseniz dahi tekrar eski boyutuna çok zaman almadan ulaşıyor, uygulamaların birkaç kullanımından sonra aynı boyuta tekrar erişiyor.</description>
     </item>
     
     <item>
       <title>Evrim Teorisine Giriş</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/10/evrim-teorisine-giris/</link>
+      <link>https://reborn.sabahlatan.com/blog/evrim-teorisine-giris/</link>
       <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/10/evrim-teorisine-giris/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/evrim-teorisine-giris/</guid>
       <description>Evrim çoğunluk tarafından yanlış bilinir, fakat bu durum herkesin evrim hakkında bir fikri olmasını engellemez. Yeterince araştırmadan, yalnızca bir tanım duyarak yapılan yorumları sıklıkla çevrenizde görüyorsunuzdur. Bu yazıda temel amaç evrimin temel mekanizmalarına kısa bir giriş yaparak konunun daha iyi anlaşılması olacak.
 Her şeyden önce evrim ilk canlının nasıl ortaya çıktığını açıklamaz. Bunun için farklı hipotezler vardır ve ikisi farklı alanlardır. Evrimin tesadüfle de alakası yoktur. Evrim kısaca canlıları doğanın istediği şekilde biçimlendiren mekanizmadır.</description>
     </item>
     
     <item>
       <title>Mikrodalga Fırın Nasıl Çalışır</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/09/mikrodalga-firin-nasil-calisir/</link>
+      <link>https://reborn.sabahlatan.com/blog/mikrodalga-firin-nasil-calisir/</link>
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/09/mikrodalga-firin-nasil-calisir/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/mikrodalga-firin-nasil-calisir/</guid>
       <description>Mikrodalga fırının gıdaları pişirme yöntemi geleneksel ısıtma yöntemlerinden çok daha farklıdır. Standart bir ocakta veya fırında gıdanın içinde bulunduğu materyal veya çevresi ısıtılır, bu sayede gıdaya ulaşan ısı onu dıştan içe doğru pişirmeye başlar. Ürünün en son pişen kısmı ortasıdır. Bu yüzden yeterince tecrübe edinilmemişse tüm gıdayı yakmadan iç kısmı pişirmek veya çiğ kalmasına engel olmak esas problemdir.
 Ocak üzerine konan tencere, tava gibi aletler içerisinde bulunan gıdalar; ocakla aralarındaki bu genellikle metal olan tabakanın ısınıp, bu ısıyı yavaşça daha uzakta olan katmanlara ulaştırması ile olur.</description>
     </item>
     
     <item>
       <title>Mağara Alegorisi</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/08/magara-alegorisi/</link>
+      <link>https://reborn.sabahlatan.com/blog/magara-alegorisi/</link>
       <pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/08/magara-alegorisi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/magara-alegorisi/</guid>
       <description>Toplum ile filozof arasındaki uçurumları en iyi şekilde anlatmış olan Platon aslında eski toplumlardan günümüze kadar olan bir durumu betimlemiştir. Düşüncenin ışığına ulaşmış olan filozoflar toplumlar tarafından tam olarak anlaşılmamıştır. Belirli kalıplara sıkışmış olan toplumlar farklı düşüncelere kapalı bir şekilde yaşamaya devam etmiştir. Düşüncenin ışığından yoksun yaşayan toplumlar farklı düşüncelere karşı düşmanca davranmış ve bu ışığa ulaşmış olan insanları da dışlamıştır. Platon&amp;rsquo;un Mağara Alegorisi bunu en iyi şekilde dile getirir.</description>
     </item>
     
     <item>
       <title>Buzdolabı Nasıl Soğutur</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/06/buzdolabi-nasil-sogutur/</link>
+      <link>https://reborn.sabahlatan.com/blog/buzdolabi-nasil-sogutur/</link>
       <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/06/buzdolabi-nasil-sogutur/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/buzdolabi-nasil-sogutur/</guid>
       <description>Evlerde kullanılan beyaz eşyalar içerisinde, çalışma prensibi gündelik hayattaki bilgilerle kolayca anlaşılamayacak olan iki cihaz vardır. Birincisi mikrodalga fırın iken diğeri buzdolabıdır. Diğer beyaz eşyalar içerisinde bulunan ve direkt olarak kullanılan ısıtıcı devreler, motorlar gibi temel devre elemanları dolayısıyla kolaylıkla anlaşılabilir. Tabii burada eşyaların en temel görevini yaptığı, en basit formundan bahsediyoruz. Birçok ürüne sonradan eklenen dijital kontrol panelleri, zamanlama üniteleri bu konuya dahil değil.
 Bir nesneyi ısıtmak bu evrendeki en kolay eylemlerden biridir.</description>
     </item>
     
     <item>
       <title>İspanyolcaya Giriş 2</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/05/ispanyolcaya-giris-2/</link>
+      <link>https://reborn.sabahlatan.com/blog/ispanyolcaya-giris-2/</link>
       <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/05/ispanyolcaya-giris-2/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/ispanyolcaya-giris-2/</guid>
       <description>İspanyolca Latince kökenli bir dil. Alfabesi Latin Alfabesine ufak eklemeler yapılarak oluşturulmuştur. Diğer Latin kökenli dillerle doğal olarak benzerlikler taşır. İtalyanca ile çok benzer bir dildir. Bu iki dilden birini iyi seviyede bilen, diğerini az çok anlayabilir. Kağıt üzerinde bakıldığında Fransızca ile de çok yüksek benzerlikleri olduğu görülebilir. Öte yandan Fransızca kendine özgü, yoğun bir telaffuz metoduna sahiptir, konuşurken bu benzerlikleri görmek kolay kolay mümkün olmaz. Portekizce ise İspanyolca&amp;rsquo;nın bir üst versiyonu gibi görülebilir.</description>
     </item>
     
     <item>
       <title>Kuantum Bilgisayarı ve Qbit</title>
-      <link>https://reborn.sabahlatan.com/posts/2016/04/kuantum-bilgisayari-ve-qbit/</link>
+      <link>https://reborn.sabahlatan.com/blog/kuantum-bilgisayari-ve-qbit/</link>
       <pubDate>Sun, 24 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2016/04/kuantum-bilgisayari-ve-qbit/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/kuantum-bilgisayari-ve-qbit/</guid>
       <description>Teknoloji hızla ilerliyor, fakat ne kadar ilerlerse ilerlesin bu gelişmeler genellikle tekdüze bir doğrultuda devam ediyor. Bilgisayar bilimlerinde Moore Yasası denen basit bir öngörü vardır. Buna göre her iki yılda bir bilgisayar işlemci kapasiteleri iki katına çıkarak artmaya devam eder. 20. yüzyılın ortalarından bu yana hemen hemen her zaman doğru çıkan bu öngörü son yıllarda işlememeye başlamıştır. İnsanoğlu şu an teknolojik bir duraklama evresindedir.
 Bunun nedeni bilgisayarın tarihinde gizli. En başta analog sistemler şekilde doğan bilgisayarlar, vakum tüplerinin icadıyla dijital hale geldi ve bugüne kadar başta bilgisayarlar olmak üzere tüm elektronik aletler yavaş yavaş dijitalleşmeye başladı.</description>
     </item>
     
     <item>
       <title>Homunculus Nedir? Simya ve Sinirbilim Tanımları</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/11/beyindeki-bir-takim-adamlar-homunculus/</link>
+      <link>https://reborn.sabahlatan.com/blog/beyindeki-bir-takim-adamlar-homunculus/</link>
       <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/11/beyindeki-bir-takim-adamlar-homunculus/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/beyindeki-bir-takim-adamlar-homunculus/</guid>
       <description>Homunculus kelimesinin taşıdığı birden fazla anlam var. Fakat hepsinin buluştuğu temel nokta, küçük boyutlu bir insan figürü şeklinde. Homunculus kelimesi Latince &amp;ldquo;küçük adam&amp;rdquo; veya &amp;ldquo;adamcık&amp;rdquo; anlamına geliyor. &amp;ldquo;Homunculus nedir&amp;rdquo; dendiğinde karşımıza birden fazla anlam çıkıyor. Önce homunculus teriminin simya dünyasında ortaya çıkışına giriş yapalım, ardından asıl bilimsel yaklaşımı olan sinirbilimdeki yerine bakarız.
-Simyada Homunculus Simyadaki Homunculus Tarifi Bu konuda kafa yoran en ünlü insanlardan biri 16. yüzyılda yaşamış olan, modern tıbbın temellerinin atılmasında önemli bir rolü olan Paracelsus idi.</description>
+Simyada Homunculus Henüz doğa bilimlerinin tam anlamıyla emekleme aşamasından kurtulamadığı zamanlarda, bilim ve safsataların iç içe bulunduğu süreçte simya; kimya biliminin öncülü olarak ortaya çıktı.</description>
     </item>
     
     <item>
       <title>Kuantum Fiziği Nedir, Kuantum Fiziğine Giriş</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/11/kuantum-fizigi-nedir-ne-degildir/</link>
+      <link>https://reborn.sabahlatan.com/blog/kuantum-fizigi-nedir-ne-degildir/</link>
       <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/11/kuantum-fizigi-nedir-ne-degildir/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/kuantum-fizigi-nedir-ne-degildir/</guid>
       <description>Bilinen evrende bir varlık aynı anda iki yerde birden bulunamaz, bir yerden bir yere ışınlanamaz veya kolaylıkla enerjiye veya maddeye dönüşme yeteneğine sahip değildir. Kuantum mekaniği keşfedilene dek bilinen gerçek buydu. Kuantum teorileriyle ilgili çalışma yapan bilimadamlarının &amp;ldquo;kuantum mekaniğini anlamamak&amp;rdquo; ile ilgili bolca özdeyişi vardır. Bunun nedeni insanın içinde yaşadığı boyutlarda varlığını kesinlikle kabul ettiği yasaların kuantum evreninde bambaşka hallere bürünmesi.
 Yaklaşık 300 yıl önce Isaac Newton temel hareket ve çekim yasalarıyla ilgili teorilerini oluşturdu.</description>
     </item>
     
     <item>
       <title>Büyük Set Resifi</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/11/buyuk-set-resifi/</link>
+      <link>https://reborn.sabahlatan.com/blog/buyuk-set-resifi/</link>
       <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/11/buyuk-set-resifi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/buyuk-set-resifi/</guid>
       <description>Avustralya yakınlarında Mercan Denizi&amp;rsquo;nde bulunan Büyük Set Resifi (Great Barrier Reef) dünya üzerinde canlı organizmalardan oluşan devasa tek yapıdır. Çoğu yerde yanlış bir şekilde &amp;ldquo;dünyanın en büyük canlısı&amp;rdquo; şeklinde anılsa da, bu yapı milyarlarca canlıdan oluşmuş büyük bir ekosistemdir. Milyarlarca mercan polipi bu yapı içinde bir arada bulunur. Bu resif yaklaşık 2300 kilometre uzunluğundadır ve uydu görüntülerinde kolayca seçilebilir.
 Su canlıları içinde bulundukları yoğun, katalize oranı yüksek ortam ve rahat üç boyutlu hareket imkanı ile kara canlılarına nazaran çok daha rahat birbirleriyle ilişki halinde bulunabilir.</description>
     </item>
     
     <item>
       <title>Web Geliştirmeye Giriş 1</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/11/web-gelistirmeye-giris-1/</link>
+      <link>https://reborn.sabahlatan.com/blog/web-gelistirmeye-giris-1/</link>
       <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/11/web-gelistirmeye-giris-1/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/web-gelistirmeye-giris-1/</guid>
       <description>Bir web sitesi oluşturmanın sayısız yolu vardır. Bunların hepsi temelde aynı olsa da, seviyelerine ve web sitesini farklı bakış açılarıyla oluşturmayı sağlamalarına göre birbirinden ayrılır. Şimdi soyut bir şekilde açıklamak yerine web geliştirmeyle uğraşmak isteyen bir kişinin bilmesi gereken kavramları teker teker açıklayalım.
 Web geliştirme iki ayrı alana ayrılır; web tasarım ve web programlama. Web tasarım bir site üzerinde göze hitap eden kısımların oluşturulmasıdır. Tema çizimi, temaların HTML kodlarına dökülerek tarayıcı üzerinde çalışmasının sağlanması ve diğer grafik işleri web tasarım dahilindedir.</description>
     </item>
     
     <item>
       <title>İspanyolcaya Giriş 1</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/11/ispanyolcaya-giris-1/</link>
+      <link>https://reborn.sabahlatan.com/blog/ispanyolcaya-giris-1/</link>
       <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/11/ispanyolcaya-giris-1/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/ispanyolcaya-giris-1/</guid>
       <description>Bundan sonra Sabahlatan&amp;rsquo;da hayatın çeşitli alanlarına dair eğitim serileri bulunacak. Bunlara da bu İspanyolca eğitim makalesi ile başlıyoruz.
 Bir yabancı dili ilk defa öğrenmeye heveslenmiş bir kişi direkt olarak o dille ilgili ufak ve basit kalıplar öğrenmek isteyeceğinden bu ilk yazıda İspanyolcanın yapısı, ses ve konuşma dilleri ve bunlar arasındaki uyum, temel kalıplar gibi bilgiler verilirken hemen ardından gelen yazılarda İspanyolca ile ilgili temel detaylar, İspanyolcanın tarihi ve konuşulduğu bölgeler gibi konulara değinilecek.</description>
     </item>
     
     <item>
       <title>Link Yollayan, Takip Eden Hesapları Temizlemek</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/11/kendi-kendine-link-yollayan-takip-eden-sosyal-ag-hesaplarini-temizlemek/</link>
+      <link>https://reborn.sabahlatan.com/blog/kendi-kendine-link-yollayan-takip-eden-sosyal-ag-hesaplarini-temizlemek/</link>
       <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/11/kendi-kendine-link-yollayan-takip-eden-sosyal-ag-hesaplarini-temizlemek/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/kendi-kendine-link-yollayan-takip-eden-sosyal-ag-hesaplarini-temizlemek/</guid>
       <description>Hiçbir sosyal ağ hesabı kendi kendine diğer kullanıcılara mesaj göndermez veya &amp;ldquo;hesabım saçma sapan hesapları takip ediyor&amp;rdquo; cümlesinde bahsettiğiniz eylemi gerçekleştirmez. Yapay zeka henüz bu kadar gelişmedi. Bunlar tamamen zamanında bir boklar yemiş olmanızdan kaynaklanıyor.
 Tüm sosyal ağlarda bu konuda mantık aynıdır. Bir profil onu kullanan kişinin isteği dışında hareketler sergiliyorsa bu ya başka birinin şifreyi biliyor olmasından, ya da kullanıcının profilinde cirit atmasına izin verdiği uygulamalardan kaynaklanır. Birinci seçenekle sıklıkla karşılaşılmaz.</description>
     </item>
     
     <item>
       <title>Var Olandan Olmaması Gerekeni Oluşturmak</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/11/var-olandan-olmamasi-gerekeni-olusturmak/</link>
+      <link>https://reborn.sabahlatan.com/blog/var-olandan-olmamasi-gerekeni-olusturmak/</link>
       <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/11/var-olandan-olmamasi-gerekeni-olusturmak/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/var-olandan-olmamasi-gerekeni-olusturmak/</guid>
       <description>Tarih boyunca keşfedebildikleri üzerinde çalışan insanoğlu bir noktadan sonra teorik çalışmalara daha fazla ağırlık vermeye başlamıştır. Var olan çeşitli fenomenlerin antitezlerinin de olduğunu varsayarak çeşitli bulgulara ulaşmayı denemiştir. Bir şey doğada varsa, onun tam tersi de bulunmalıdır düşüncesi tarihin çoğu diliminde insanların kafa yorduğu konulardan olmuştur. Değeri karekök -1 olan i sayısı yoktur, karadeliklerin aksine evrene hiç yoktan madde saçan akdelikler yoktur, Doctor Who dizisinin rüya ve uyanıklığın tarşıldığı bir bölümünde işlenen etrafını soğutan bir yıldız türü yoktur.</description>
     </item>
     
     <item>
       <title>Bir Yıldız Sisteminde Canlılığın Oluşması İçin Gereken Etmenler</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/10/bir-yildiz-sisteminde-canliligin-olusmasi-icin-gereken-etmenler/</link>
+      <link>https://reborn.sabahlatan.com/blog/bir-yildiz-sisteminde-canliligin-olusmasi-icin-gereken-etmenler/</link>
       <pubDate>Sat, 24 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/10/bir-yildiz-sisteminde-canliligin-olusmasi-icin-gereken-etmenler/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/bir-yildiz-sisteminde-canliligin-olusmasi-icin-gereken-etmenler/</guid>
       <description>Bilinen yaşamın yalnızca Dünya&amp;rsquo;da oluşarak, başka gezegen ve yıldız sistemlerinde oluşmamış olmasının birçok nedeni var. Bu yalnızca Dünya&amp;rsquo;yı sarıp koruyan bir ozon tabakası olmasından çok daha karmaşık bir mevzu. Dünya&amp;rsquo;daki yaşamın korunmasında Jüpiter dahi büyük role sahip.
 Her şeyden önce dünya bir kayaç gezegen. Bunun anlamı sert bir zemin barındırıyor ve en üst katmanında yoğun olarak bulunan maddeler bugün bilinen organik maddelerin oluşabilmesi için yapı taşı konumunda. Dünya&amp;rsquo;daki hayat temel olarak Karbon atomunun üzerine kurulmuştur.</description>
     </item>
     
     <item>
       <title>Mutlak Sıfırdan Uç Sıcaklıklara Isının Evrendeki Etkileri</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/10/mutlak-sifirdan-uc-sicakliklara-isinin-evrendeki-etkileri/</link>
+      <link>https://reborn.sabahlatan.com/blog/mutlak-sifirdan-uc-sicakliklara-isinin-evrendeki-etkileri/</link>
       <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/10/mutlak-sifirdan-uc-sicakliklara-isinin-evrendeki-etkileri/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/mutlak-sifirdan-uc-sicakliklara-isinin-evrendeki-etkileri/</guid>
       <description>Sıcaklığı ölçmek için insanlık birçok standart geliştirmişse de bilimde kullanılan yegane birim Kelvin&amp;rsquo;dir. Kelvin birimi mutlak sıfır denen evrensel değer baz alınarak oluşturulmuştur. Mutlak sıfır olarak anılan değer 0 Kelvin ve aynı zamanda -273 santigrat dereceye denk düşer. Okullarda &amp;ldquo;Doğada bulunabilecek en düşük sıcaklık&amp;rdquo; diye anılsa da mutlak sıfır doğada bulunamaz, bu fizik kurallarının geçerli olduğu evrende bulunması mümkün değildir. Bu değer tamamen hesaplanarak bulunmuştur. Bunun nedenine gelecek olursak; her maddenin sıcaklığı düştükçe hacminde azalma meydana gelir.</description>
     </item>
     
     <item>
       <title>En Verimli Yabancı Dil Geliştirme Metodları</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/10/en-verimli-yabanci-dil-gelistirme-metodlari/</link>
+      <link>https://reborn.sabahlatan.com/blog/en-verimli-yabanci-dil-gelistirme-metodlari/</link>
       <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/10/en-verimli-yabanci-dil-gelistirme-metodlari/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/en-verimli-yabanci-dil-gelistirme-metodlari/</guid>
       <description>Bir yabancı dil öğrenebilmenin yegane yolu o dili dinlemek ve konuşmaktan geçer. Kağıt üzerindeki teorik bilgiler orada kalmaya devam eder, bir işe yaraması için pekiştirilmesi gereklidir. Bulunduğunuz ülkede öğrendiğiniz yabancı dili konuşacağınız, pratik yapacağınız başka bir eleman olmaması çok yüksek bir ihtimal. En kesin yol yurtdışına çıkmak olsa da, bu kolay bir iş değil. Bu durumda olsanız dahi bir dili çok iyi bir şekilde öğrenip konuşmanız için çok çeşitli yollar mevcut.</description>
     </item>
     
     <item>
       <title>Gazlı İçeceklerin Yapısı ve Tat Dışı Sindirim Duyuları</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/10/gazli-icecekler-ve-tat-disi-sindirim-duyulari/</link>
+      <link>https://reborn.sabahlatan.com/blog/gazli-icecekler-ve-tat-disi-sindirim-duyulari/</link>
       <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/10/gazli-icecekler-ve-tat-disi-sindirim-duyulari/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/gazli-icecekler-ve-tat-disi-sindirim-duyulari/</guid>
       <description>İnsanlar aslında tat olmayan fakat ağız ve yutak çevresinde farklı hislere neden olan gıdaları deneyimlemekten haz duyar. Bu yüzden aslında bitkinin kendini savunmak için geliştirdiği, ağızda yanma hissine neden olan acı etkisi ve gazlı içeceklerin ağızda bıraktığı gıdıklanma hissi insanların hoşuna gider. Bunlar birer tat değil, tat almaya yatkın ve sindirim sisteminde diğer organlara nazaran daha hassas reseptörlere sahip organları tahriş eden veya etkileşimde bulunan etmenlerden ibarettir.
 Bir gazlı içeceğin temeli soda isimli bir içecektir.</description>
     </item>
     
     <item>
       <title>Agar.io Kavramlarının Bilimsel Kökeni</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/09/agar-io-kavramlarinin-bilimsel-kokeni/</link>
+      <link>https://reborn.sabahlatan.com/blog/agar-io-kavramlarinin-bilimsel-kokeni/</link>
       <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/09/agar-io-kavramlarinin-bilimsel-kokeni/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/agar-io-kavramlarinin-bilimsel-kokeni/</guid>
       <description>Agar.io çıktığı ilk günden bu yana popülaritesine devam ediyor. Bu yazıda incelenecek olan Agar.io oyununda yer alan objelerin bilimsel anlamda temsil ettiği gerçekler olacak. Agar.io&amp;rsquo;da yer alan kavramlar yalnızca bu oyun için uydurulmuş değil, mikro evrende var olan nesnelerin birer kopyası. Oyunda içinde bulunulan mekan, besinler, engeller ve düşmanlar tamamen birer gerçek örneği temsil ediyor.
 Oyunda yer alan oyuncuların yönlendirdiği objelerin isminin hücre (cell) olduğu bu oyunla ilgili en çok bilinen gerçeklerden biridir.</description>
     </item>
     
     <item>
       <title>Q Klavye ve Tuhaf Ortaya Çıkış Hikayesi</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/ortaya-cikis-amaci-yavas-yazmak-olan-q-klavye/</link>
+      <link>https://reborn.sabahlatan.com/blog/ortaya-cikis-amaci-yavas-yazmak-olan-q-klavye/</link>
       <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/ortaya-cikis-amaci-yavas-yazmak-olan-q-klavye/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/ortaya-cikis-amaci-yavas-yazmak-olan-q-klavye/</guid>
       <description>Q klavyenin, ya da QWERTY klavyenin kullanım popülaritesi ve insanların Q klavyeye olan yüksek alışkanlıkları tartışılmaz bir gerçek. Bilgisayar kullanan hemen herkes belli bir süreç sonrasında bu klavye türüne gittikçe alışıyor ve kullanırken son derece hızlı yazmaya başlıyor. Türkiye&amp;rsquo;deki devlet kurumlarında milli klavye olarak kabul edilen F klavyenin yaygınlaştırılma çabası elbette çoğu kişinin hoşuna gitmiyor. Q klavye üzerindeki tuşlara yerinde basmak artık bir refleks haline gelmişken bambaşka bir klavye türünü kullanmak insanları ters köşeye yatırıyor.</description>
     </item>
     
     <item>
       <title>Dünya Dışı Yaşam ve Fermi Paradoksu</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/dunya-disi-yasam-ve-fermi-paradoksu/</link>
+      <link>https://reborn.sabahlatan.com/blog/dunya-disi-yasam-ve-fermi-paradoksu/</link>
       <pubDate>Sat, 23 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/dunya-disi-yasam-ve-fermi-paradoksu/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/dunya-disi-yasam-ve-fermi-paradoksu/</guid>
       <description>Fermi paradoksu, Dünya dışı yaşamın olma ihtimalinin yüksek olmasına rağmen bunu doğrulayacak herhangi bir kanıt ya da temasın olmaması arasındaki tutarsızlıktır. Aslında bu hepimizin sorduğu veya sorabileceği basit bir sorudur. Herkesten bunu duyabilirsiniz. Yani bir arkadaşız dahi çıkıp &amp;ldquo;Uzaylılar varsa neden gelmiyorlar ya da onlara ait bir iz neden yok&amp;rdquo; diyebilir. Ancak bunu İtalyan asıllı ünlü bir fizikçi olan Enrico Fermi&amp;rsquo;nin söylemesi bunun paradoks olarak kabul edilmesini sağlamıştır.
 Evrenin yaşı yaklaşık 13 milyar yıldır.</description>
     </item>
     
     <item>
       <title>Dünya&#39;nın Gerçek Oksijen Kaynakları Ağaçlar Değildir</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/dunyanin-gercek-oksijen-kaynagi-algler/</link>
+      <link>https://reborn.sabahlatan.com/blog/dunyanin-gercek-oksijen-kaynagi-algler/</link>
       <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/dunyanin-gercek-oksijen-kaynagi-algler/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/dunyanin-gercek-oksijen-kaynagi-algler/</guid>
       <description>Geçmişten günümüze kadar bize öğretilen bilgi, bitkilerin asıl oksijen kaynağı olduğudur. Aslında bu doğru değildir. Dünya&amp;rsquo;daki oksijenin çoğu aslında başka canlılar tarafından üretilir. Bize öğretilen bu bilgiler belki de insanların doğayı koruması ve ağaçları kesmemeleri için öğretilmiş olabilir. Sonuçta Dünya&amp;rsquo;da ekolojik denge mevcuttur. Ormanların yok olması da bu ekolojik dengeyi bozabilen faktörlerden biridir. Dünya&amp;rsquo;daki tüm ormanlar oksijenin yaklaşık %20&amp;rsquo;si kadarını fotosentez yoluyla üretmektedir. Geriye kalan kısmını ise Su yosunları yani &amp;ldquo;Algler&amp;rdquo; üretmektedir.</description>
     </item>
     
     <item>
       <title>Ay ile İlgili Enteresan Gerçekler</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/ay-hakkinda/</link>
+      <link>https://reborn.sabahlatan.com/blog/ay-hakkinda/</link>
       <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/ay-hakkinda/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/ay-hakkinda/</guid>
       <description>Ay tüm Güneş Sistemi&amp;rsquo;ne bakıldığında gezegeni ile arasındaki ilişki en enteresan durumda olan uydudur. Her şeyden önce Ay Dünya&amp;rsquo;nın uydusu olabilmek için çok büyüktür. Bu da doğal olarak uydu şeklinde oluştuğu düşüncesini çürüten bir durum. Ay Dünya&amp;rsquo;nın yaklaşık dörtte biridir ve Güneş Sistemi üzerinde bu şekilde orana sahip başka bir gezegen - uydu ikilisi bulunmuyor. Ay ve Dünya&amp;rsquo;dan sonra sistemde en büyük orana sahip bir sonraki ikili, sekizde bir oranıyla Jüpiter ve Ganymede ikilisidir.</description>
     </item>
     
     <item>
       <title>Agar.io ve Püf Noktaları</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/agar-io-oyunu-ve-puf-noktalari/</link>
+      <link>https://reborn.sabahlatan.com/blog/agar-io-oyunu-ve-puf-noktalari/</link>
       <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/agar-io-oyunu-ve-puf-noktalari/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/agar-io-oyunu-ve-puf-noktalari/</guid>
       <description>Agar.io son zamanlarda patlayan basit, pratik ve çoğu kişi tarafından bağımlılık yaptığı söylenen multiplayer bir tarayıcı oyunu. Oynamak için yalnızca mouse hareketleri ve iki tuş kullanıyorsunuz. Oyundaki temel amaç elbette en çok puanı alarak liderler listesine yerleşebilmek. Bunu yapmak için etraftaki nesneleri yiyerek erişebileceğiniz en büyük boyuta erişerek ilerlemeniz gerekiyor. Sonrasında işin içerisine ufak stratejiler giriyor. Diğer oyuncuları ne kadar büyük boyutlara erişmiş olurlarsa olsunlar alt etmeniz mümkün.
 Oyunda her oyuncu farklı birer hücreyi yönlendiriyor.</description>
     </item>
     
     <item>
       <title>Bitkilerde Etoburluk</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/bitkilerde-etoburluk/</link>
+      <link>https://reborn.sabahlatan.com/blog/bitkilerde-etoburluk/</link>
       <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/bitkilerde-etoburluk/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/bitkilerde-etoburluk/</guid>
       <description>Evrimleşme süreci bazı bitkiler üzerinde farklı gelişmelere neden olmuştur. Genel olarak bitkiler fotosentez yapan, üreten ve gerekli besinini topraktan alan canlılar olarak bilinirler. Ancak bazı nedenlerden dolayı kimi bitkilerde etoburluk görülmektedir. Bu bitkilere Etobur (Karnivor) bitkiler denmektedir.
 Etobur bitkileri diğer bitkilerden ayıran özellikleri böcek, sinek, örümcek gibi küçük hayvanları sindirmesidir. Diğer bitkiler gibi iletim demetleri, çiçek, yaprağa sahiptir. Bu bitkiler canlıların ilgisini daha çekecek kadar renkli ve güzel kokulara sahiptirler. Bu sayede hareketsiz haldeyken yemeklerini kendilerine çekerler.</description>
     </item>
     
     <item>
       <title>Ektoplazma Nedir?</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/ektoplazma-nedir/</link>
+      <link>https://reborn.sabahlatan.com/blog/ektoplazma-nedir/</link>
       <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/ektoplazma-nedir/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/ektoplazma-nedir/</guid>
       <description>Metafizik ile uğraşan insanların uydurduğu en enteresan kavramlardan biri ektoplazma (İngilizcesi ectoplasm). Ektoplazma kısaca trans haline girmiş medyumların vücutlarının sağından solundan çıktığı, havada yayılabildiği söylenen, kimi zaman gözle görülüp elle dokunulabildiği iddia edilen bir madde türü. Bu kavramı tanımlarken süptil madde ifadesi kullanılıyor. Süptil yoğunluğu az, ince anlamında kullanılan bir kelime. Kökeni ise İngilizce &amp;ldquo;anlaşılması zor&amp;rdquo; anlamına gelen subtle kelimesinden geliyor. Arama motorlarından &amp;ldquo;Ektoplazma&amp;rdquo; şeklinde bir arama gerçekleştirecek olursanız tamamı siyah beyaz, 18.</description>
     </item>
     
     <item>
       <title>Manhattan Projesi</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/manhattan-projesi/</link>
+      <link>https://reborn.sabahlatan.com/blog/manhattan-projesi/</link>
       <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/manhattan-projesi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/manhattan-projesi/</guid>
       <description>İkinci Dünya Savaşı&amp;rsquo;nın geride bıraktığı önemli hatıralardan birini oluşturan atom bombasının yapımı gayet sancılı ve ünlü çok sayıda bilim adamını içeren bir süreç. Bu süreç içerisinde kuramsal fizikçi Albert Einstein da önemli bir role sahip durumda. Nükleer silah üretme çabasına giren ABD&amp;rsquo;nin başlattığı bu projeye verdiği isim Manhattan Projesi olmuştur.
 İkinci Dünya Savaşı&amp;rsquo;nın güçlü ülkelerinden biri olan Almanya, işgallerine devam ederken bir yandan da güçlü silahlar üretme çabasındaydı. Nazilerin nükleer çalışmaları bilim adalarını tedirgin edecek düzeydeydi.</description>
     </item>
     
     <item>
       <title>Abiyogenez, Canlılığın Ortaya Çıkışı ve Oluşum Süreçleri</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/abiyogenez-canliligin-ortaya-cikisi-ve-olusumu/</link>
+      <link>https://reborn.sabahlatan.com/blog/abiyogenez-canliligin-ortaya-cikisi-ve-olusumu/</link>
       <pubDate>Mon, 18 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/abiyogenez-canliligin-ortaya-cikisi-ve-olusumu/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/abiyogenez-canliligin-ortaya-cikisi-ve-olusumu/</guid>
       <description>Canlılığın meydana gelişi her zaman insanlığın kafasını karıştıran başlıca fenomenlerden biri olmuştur. Bu konu hakkında farklı devirlerde birbirinden farklı kuramlar ortaya atılmıştır. Cansız maddelerden ilk canlının oluşumu şu an dahi gizemini koruyan ve bilimsel açıdan henüz net bir kurama oturtulamamış bir durumdur. Bu konu hakkında bir noktaya kadarını açıklayabilmiş çeşitli deneyler ve kuramlar mevcut. Fakat farklı parçalardan ziyade tam olarak açıklayabilmek için bilimin biraz daha ilerlemesi gerekecek.
 Abiyogenez (İngilizcesi abiogenesis) cansızdan canlı oluşumu anlamına gelir ve bu konuyu inceleyen bilim dalıdır.</description>
     </item>
     
     <item>
       <title>İnsanlığın Doğayı Binlerce Yıllık Şekillendirme Süreci: Yapay Seçilim</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/insanligin-dogayi-binlerce-yillik-sekillendirisi-yapay-secilim/</link>
+      <link>https://reborn.sabahlatan.com/blog/insanligin-dogayi-binlerce-yillik-sekillendirisi-yapay-secilim/</link>
       <pubDate>Wed, 06 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/insanligin-dogayi-binlerce-yillik-sekillendirisi-yapay-secilim/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/insanligin-dogayi-binlerce-yillik-sekillendirisi-yapay-secilim/</guid>
       <description>İnsanların her gün faydalandığı; doğal olarak yetiştirilsin, yetiştirilmesin her türlü bitki ve hayvanın nasıl bu kadar insanlara uygun amaçlara hizmet ettiği cevabı bilinen iyi bir sorudur. Karpuz, muz, elma gibi meyveler insan damak tadına uygun gıdalarken kedi ve köpek gibi hayvanlar da insanlarla iç içe yaşayabilen ve gayet iyi anlaşan canlılardır. Elbette bütün bu canlılar en başından beri bu şekilde var olmadılar. Tüm bunlar insanlığın yüzlerce veya binlerce yıllık, yapay seçilim adlı doğayı kendine uygun şekillendirme sürecinin bir sonucu.</description>
     </item>
     
     <item>
       <title>Ölümden Sonra Yaşam İnanışı</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/olumden-sonra-yasam-inanisi/</link>
+      <link>https://reborn.sabahlatan.com/blog/olumden-sonra-yasam-inanisi/</link>
       <pubDate>Mon, 04 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/olumden-sonra-yasam-inanisi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/olumden-sonra-yasam-inanisi/</guid>
       <description>Ölümden sonra yaşam inancı tarih boyunca var olmuş çoğu kültürde görülür. Çoğu inancın temelini ve çok önemli noktalarından birini oluşturan bu kavram insanlığın hayatın en gerçek olgusu olan ölümü kabullenememesinden kaynaklanır. Hayat boyunca elde edilen tecrübeler, maddi ve manevi kazanımların öldükten sonra tamamen yok olacak olması kolay kabullenilecek bir gerçek değildir. Bu yüzden bu inancın en ilkel hallerinin görüldüğü toplumlarda ölen kişiyi - özellikle çeşitli vasıflara sahip kabul ediliyorsa - hayattayken yanında olan canlılar ve eşyalarıyla gömmek gibi eylemlere rastlanır.</description>
     </item>
     
     <item>
       <title>Uyku ve Uyku Evreleri</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/uyku-ve-uyku-evreleri/</link>
+      <link>https://reborn.sabahlatan.com/blog/uyku-ve-uyku-evreleri/</link>
       <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/uyku-ve-uyku-evreleri/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/uyku-ve-uyku-evreleri/</guid>
       <description>İnsan hayatının üçte biri uykuda geçer. Uyku insanların dinlenmesi için gerekli diye bilinse de, beyin uyku halinde çalışmaya devam eder. Uyku halinin ve uyku evreleri esnasında görülen rüyaların gizemi tam olarak çözülememiştir. Uyku basit bir durum değildir. Uyku evreleri karmaşık bir yapıya sahiptir. Bunun üzerine bilim insanları tarafından araştırmalar hala yapılmaktadır. Uyku, 4 evre ve Rem uykusundan oluşmaktadır. 4 uyku evresi göz hareketlerinin yavaşlayarak durduğu Non-Rem (non rapid eye movement) uykusudur.</description>
     </item>
     
     <item>
       <title>Kensington Kilidi Nedir?</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/dizustu-bilgisayarlarin-guvenlik-kilidi-kensington-kilidi/</link>
+      <link>https://reborn.sabahlatan.com/blog/dizustu-bilgisayarlarin-guvenlik-kilidi-kensington-kilidi/</link>
       <pubDate>Sat, 02 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/dizustu-bilgisayarlarin-guvenlik-kilidi-kensington-kilidi/</guid>
-      <description>Kensington Kilidi Nasıl Kullanılır? Metal olan güvenlik kablosunun bir ucunda Kensington yuvasına bağlanan şifreli ya da anahtarlı bir kilit vardır. Diğer ucu ise cihazı güvenen almak için belirli bir yerlere bağlanır. Metal kablonun Kensington girişi bilgisayarın kilit yuvasına takılır. Bu kilit yuvası cihazın metalini kavradığı için sökülmesi zordur. Sökülürse dahi cihazda hasar bırakır. Bu yüzden çalınsa bile satılması pek mümkün olmaz. 2 tür Kensington kilit vardır: şifreli ve anahtarlı Kensington kilit.</description>
+      <guid>https://reborn.sabahlatan.com/blog/dizustu-bilgisayarlarin-guvenlik-kilidi-kensington-kilidi/</guid>
+      <description>Dizüstü bilgisayarların sağında, solunda ya da arkasında küçük yuvalar bulunur. Bu yuvaların ne işe yaradığı pek çok kişi tarafından bilinmez. Bu yuvalar hırsızlığa karşı geliştirilmiş bir kilittir. Yani Kensington kilididir. Amerika’da geliştirilmiş olan bu sistemle az da olsa bilgisayarınızı koruyabiliyorsunuz. Özellikle cihazınızı kafe, kütüphane gibi halka açık yerlere götürüyorsanız kullanmanız gereken bir kilittir.
+Kensington Kilidi Nasıl Kullanılır? Metal olan güvenlik kablosunun bir ucunda Kensington yuvasına bağlanan şifreli ya da anahtarlı bir kilit vardır.</description>
     </item>
     
     <item>
       <title>1 Mayıs&#39;ın Kanlı Tarihi</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/05/1-mayisin-kanli-tarihi/</link>
+      <link>https://reborn.sabahlatan.com/blog/1-mayisin-kanli-tarihi/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/05/1-mayisin-kanli-tarihi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/1-mayisin-kanli-tarihi/</guid>
       <description>1 mayıs birçok ülkede İşçi Bayramı olarak kutlanıyor. İlk kez 1856 yılında Avustralya&amp;rsquo;da başlayan bu olay 1889 yılında İşçi Bayramı olarak kabul edildi ve günümüze kadar geldi. 1 Mayıs Türkiye&amp;rsquo;de ilk kez 1923 yılında yasal olarak &amp;ldquo;İşçi Bayramı&amp;rdquo; olarak kabul edildi. Ancak 1924 yılında kitlesel kutlama yasaklandı. Yine de devam eden bu kutlamalar 1977 yılında kana bulandı. Türkiye&amp;rsquo;nin failleri bulunamayan en kanlı olaylarından biri olarak tarihe geçti. Bu olayda 34 kişi hayatını kaybetmiş 136 kişide yaralanmıştı.</description>
     </item>
     
     <item>
       <title>Hong Kong&#39;ta DNA Analizi ile Çöp Atanlar Tespit Ediliyor</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/hong-kongta-dna-analizi-ile-cop-atanlar-tespit-ediliyor/</link>
+      <link>https://reborn.sabahlatan.com/blog/hong-kongta-dna-analizi-ile-cop-atanlar-tespit-ediliyor/</link>
       <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/hong-kongta-dna-analizi-ile-cop-atanlar-tespit-ediliyor/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/hong-kongta-dna-analizi-ile-cop-atanlar-tespit-ediliyor/</guid>
       <description>Hong Kong&amp;rsquo;ta sokakları temiz tutmak adına başlatılan çalışma bir hayli ilginç. Çevre kirliliği üzerine yapılan en iyi çalışma diyebiliriz. Hong Kong&amp;rsquo;ta &amp;ldquo;The Face of Litter&amp;rdquo; (Çöplerin Yüzü) kampanyası ile bilim kurgu filmlerini aratmayan bir kampanya başlatıldı. Sokakları temiz tutmak adına başlatılan kampanyada The Nature Conservancy ve Ecozine beraber çalışıyor. Amaç sokağa atılan çöplerdeki DNA&amp;rsquo;lardan yararlanarak bunları kimin attığını tespit etmek. Dna analizi yapılarak yere çöp atanlar tespit ediliyor.
 Öncelikle sokaklarda yere atılan çöpler toplanıyor.</description>
     </item>
     
     <item>
       <title>Radyasyon ve Elektromanyetik Spektrum</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/radyasyonun-gercek-anlami-ve-elektromanyetik-spektrum/</link>
+      <link>https://reborn.sabahlatan.com/blog/radyasyonun-gercek-anlami-ve-elektromanyetik-spektrum/</link>
       <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/radyasyonun-gercek-anlami-ve-elektromanyetik-spektrum/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/radyasyonun-gercek-anlami-ve-elektromanyetik-spektrum/</guid>
       <description>Türkçe&amp;rsquo;de genellikle radyasyon vücuda girip mutant eden enerji anlamında kullanılsa da radyasyon kelime anlamı bakımından elektromanyetik dalga halindeki bütün enerjilerin ortak adıdır. Buna radyo dalgaları, mikrodalga, görülebilir ışık ve hatta ısı da dahildir. Radyasyonun kahve ortamlarında bilinen bu anlamını karşılayan asıl terim iyonlaştırıcı radyasyondur.
 Radyasyon kavramı olmasaydı hayat ve ondan çok daha önce fizik kuralları geçerli olmayacaktı. Bu evren fizik kuralları olmadan düşünülemez. Uzayzaman denen oluşumu var eden, algılanabilir kılan olgu fizik kurallarıdır.</description>
     </item>
     
     <item>
       <title>Subliminal Mesaj ve 25.Kare Tekniği</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/subliminal-mesaj-ve-25-kare-teknigi/</link>
+      <link>https://reborn.sabahlatan.com/blog/subliminal-mesaj-ve-25-kare-teknigi/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/subliminal-mesaj-ve-25-kare-teknigi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/subliminal-mesaj-ve-25-kare-teknigi/</guid>
       <description>Teknoloji ve film sektörünün gelişmesiyle beraber görüntü teknikleri de zamanla gelişti. Bunlardan biri olan subliminal mesaj insanı kalıcı olarak etkileyebilen bir tekniktir. Subliminal mesaj; bilinçaltını etkileyen gizli mesajlardır diyebiliriz. Ses veya görüntülerle çok kısa bir şekilde bilinçaltına bir mesaj gönderilebilir. Bilinçaltına gönderilen bu mesajlar insan hayatını, karakterini etkileyecek bir şekilde kalıcılaşır.
 Peki ya bilinçaltı nedir? Bilinçaltı buz dağının altıdır. Bilinçaltı hayatımızın her anıdır. Biz farkında olmadan çalışır. Beş duyumuzla algıladığımız her şeyi kaydeder.</description>
     </item>
     
     <item>
       <title>Plüton&#39;un İlk Renkli Fotoğrafları Yayınlandı</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/plutonun-ilk-renkli-fotograflari-yayinlandi/</link>
+      <link>https://reborn.sabahlatan.com/blog/plutonun-ilk-renkli-fotograflari-yayinlandi/</link>
       <pubDate>Sun, 26 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/plutonun-ilk-renkli-fotograflari-yayinlandi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/plutonun-ilk-renkli-fotograflari-yayinlandi/</guid>
       <description>Uzun yıllar gezegen statüsüne sahip görülen, 2008 yılında bu kategoriden alınarak cüce gezegen isminde yeni bir sınıfa dahil olan Plüton ve uydusu Charon&amp;rsquo;ın ilk renkli görüntüleri elde edildi. Görüntüler New Horizons uzay aracı tarafından çekildi. Görüntüler pek net değil, bunun nedeni New Horizons&amp;rsquo;ın Plüton&amp;rsquo;a 3 aylık mesafede bulunuyor olması ve Güneşten yansıyan ışığın çok az olması. Bu zamana kadar Plüton&amp;rsquo;un elde edilen görüntüleri siyah beyaz şekilde sınıflandırılmıştı.
 NASA&amp;rsquo;nın açıklamasına göre New Horizons uzay aracı Plüton&amp;rsquo;un yörüngesine girmek için durmayacak.</description>
     </item>
     
     <item>
       <title>Chrome&#39;da Sekmelerinizin Sesini Kolayca Açıp Kapatın</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/chromeda-sekmelerinizin-sesini-kolayca-acip-kapatin/</link>
+      <link>https://reborn.sabahlatan.com/blog/chromeda-sekmelerinizin-sesini-kolayca-acip-kapatin/</link>
       <pubDate>Sat, 25 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/chromeda-sekmelerinizin-sesini-kolayca-acip-kapatin/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/chromeda-sekmelerinizin-sesini-kolayca-acip-kapatin/</guid>
       <description>Google Chrome&amp;rsquo;un son versiyonlarında görülen, ses çıkaran bir sekmede hoparlör simgesinin belirmesi gayet kullanışlı bir özellik. Bu özellikle ilgili bilinmeyen durum ise tarayıcıda gizlenmiş olan, istendiği zaman bu hoparlör simgesine tıklanarak sekmedeki sesin tamamen kapatılıp geri açılabileceği. Google bununla ilgili ayarı tarayıcının diğer deneysel seçeneklerini gizlediği sayfasına eklemiş. Tüm bu deneysel özellikler kullanıcıya bildirmeden gizli olarak tarayıcı dahilinde geliyor ve bu özelliklerin tarayıcıda probleme neden olabileceği bu sayfada belirtilmiş. Yalnızca hoparlör simgesi ile ilgili ayarı etkinleştirmek herhangi bir soruna neden olmayacak olsa da, yine de bunun farkında olarak hareket edin.</description>
     </item>
     
     <item>
       <title>Dünyanın İlk Uzay Teleskobu Hubble 25 Yaşında</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/dunyanin-ilk-uzay-teleskobu-hubble-25-yasinda/</link>
+      <link>https://reborn.sabahlatan.com/blog/dunyanin-ilk-uzay-teleskobu-hubble-25-yasinda/</link>
       <pubDate>Sat, 25 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/dunyanin-ilk-uzay-teleskobu-hubble-25-yasinda/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/dunyanin-ilk-uzay-teleskobu-hubble-25-yasinda/</guid>
       <description>Nisan 1990 yılında uzaya gönderilen Hubble Uzay Teleskobu 25. yılına girdi. İlk uzay teleskobu olan Hubble eski olmasına rağmen bir çok özelliğe sahiptir. Amerikalı astronom Edwin Hubble anısına ismi bu teleskoba verilmişti. Hubble Uzay Teleskopu(HUT), STS-31 görevi sırasında Uzay Mekiği Discovery tarafından Dünya yörüngesine tam olarak 24 Nisan 1990 yılında yerleştirildi.
 Başarılı performansıyla Hubble Uzay Teleskobu uzayın incelenmesinde en başarılı fotoğrafları çekti. Yeryüzünden 569 kilometre yukarıda olan Hubble 800.000 gök cisminde 1 milyondan fazla gözlemde bulunmuştur.</description>
     </item>
     
     <item>
       <title>Nükleer Enerji Santrali Nedir? Yararları ve Zararları</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/nukleer-enerji-santrali-nedir-yararlari-ve-zararlari/</link>
+      <link>https://reborn.sabahlatan.com/blog/nukleer-enerji-santrali-nedir-yararlari-ve-zararlari/</link>
       <pubDate>Sat, 25 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/nukleer-enerji-santrali-nedir-yararlari-ve-zararlari/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/nukleer-enerji-santrali-nedir-yararlari-ve-zararlari/</guid>
       <description>Nükleer enerji santrali, bilinenin aksine daha az zararlı olup termik ve hidroelektrik santrallerin çevreye verdiği zarardan daha az zarar vermektedir. Ancak bu hiç zarar vermediği anlamına gelmez. Olası bir kaza veya sızıntı durumunda hiç olmadığı kadar zarar verebilmektedir. Sadece bulunduğu çevreye değil yüzlerce kilometre bir alana zarar verebilir. Nükleer santral, yüksek önlemler alındığında ve nükleer atıklar gerekli şekilde depolandığında bir ülkenin yıllarca elektrik enerjisini sağlamakta en iyi yöntemdir. Bu yüzden pek çok ülkede bulunmaktadır.</description>
     </item>
     
     <item>
       <title>Bozulması İçin Üretilen Cihazlar ve Planlı Eskitme</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/bozulmasi-icin-uretilen-cihazlar-ve-planli-eskitme/</link>
+      <link>https://reborn.sabahlatan.com/blog/bozulmasi-icin-uretilen-cihazlar-ve-planli-eskitme/</link>
       <pubDate>Thu, 23 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/bozulmasi-icin-uretilen-cihazlar-ve-planli-eskitme/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/bozulmasi-icin-uretilen-cihazlar-ve-planli-eskitme/</guid>
       <description>Bir ürün aldınız, birkaç sene kullandınız ve durup dururken bu ürün işe yaramaz hale geldi. Kolayca hasar görmüş olabilir. Diğer yandan hasar görmemiş ve dış görünüşünün sorunsuz halde olmasına rağmen iş görmüyor da olabilir. Fark edilebileceği üzere tüm ürünler kullanılmaya başlandıktan belli bir süre sonra ıskartaya çıkmakta. Komplo teorilerine göre bunlar tesadüf değil, üretimde uygulanan bir stratejinin sonucu. Planlı eskitme veya kasıtlı eskitme denen bu olgu yüzünden seri üretime sahip tüm ürünler, tüm cihazlar belli bir kullanım ömründen sonra bozulacak veya iş görmeyecek hale gelecek şekilde üretiliyor.</description>
     </item>
     
     <item>
       <title>Hayatı Kolaylaştıran 5 Android Uygulaması</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/hayati-kolaylastiran-5-android-uygulamasi/</link>
+      <link>https://reborn.sabahlatan.com/blog/hayati-kolaylastiran-5-android-uygulamasi/</link>
       <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/hayati-kolaylastiran-5-android-uygulamasi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/hayati-kolaylastiran-5-android-uygulamasi/</guid>
       <description>Artık insanlar için hayatın akıllı telefonları ve internet olmadan akmadığı su götürmez bir gerçek. Yanlarından ayırmadıkları akıllı telefonlarıyla canları sıkıldığı zaman oyun oynamak olsun, istediklerinde bir şeyler izlemek veya okumak gibi eylemler olsun kolaylıkla ve hızlı bir şekilde gerçekleştirebiliyorlar. Hayatı bu kadar hızlandıran bir icattan kimse mahrum kalmak istemez. Elbette içerisinde çeşitli uygulamalar olmadıkça bir akıllı telefon büyük oranda boş bir kutu. Bu uygulamalar olmadıktan sonra akıllı telefonlar yalnızca rahatça internete girmek, müzik dinlemek, takvim ve ses kaydı gibi temel işlevler için kullanılabilir.</description>
     </item>
     
     <item>
       <title>Kontrol Edilebilen Rüya: Lucid Rüya</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/kontrol-edilebilen-ruya-lucid-ruya/</link>
+      <link>https://reborn.sabahlatan.com/blog/kontrol-edilebilen-ruya-lucid-ruya/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/kontrol-edilebilen-ruya-lucid-ruya/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/kontrol-edilebilen-ruya-lucid-ruya/</guid>
       <description>Bize çok sıradan gibi gelen, her gece gördüğümüz rüyalar aslında karmaşık ve çözülemeyen bir durumdur. Herkes rüya görür ancak kimi insanlar bunu hatırlayamaz. Kimileri ise gördüğü rüyalara anlam bulmaya çalışır. Çünkü bir çok rüya türü vardır. Bunlardan biri olan Lucid rüya oldukça ilginçtir. Öncelikle rüyanın ne olduğuna bakalım.
 Rüya Nedir? Rüya, uykunun hızlı göz hareketi (REM) ile ilgili olan, görsel, işitsel algı ve duygulardır diyebiliriz. Uykunun genel özelliklerindendir. Rüyaların işleyişi ve mantığı hala anlaşılabilir değildir.</description>
     </item>
     
     <item>
       <title>Nötron Yıldızı Nedir?</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/evrenin-en-agir-yildizlari-notron-yildizlari/</link>
+      <link>https://reborn.sabahlatan.com/blog/evrenin-en-agir-yildizlari-notron-yildizlari/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/evrenin-en-agir-yildizlari-notron-yildizlari/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/evrenin-en-agir-yildizlari-notron-yildizlari/</guid>
       <description>Yıldızlar yaşamlarının sonunda biçim değiştirirler. Nükleer reaksiyonlar süpernova patlamasına neden olur. Kütlelerine göre yıldızlar enerjisi tükendikten sonra kara delik, beyaz cüce veya nötron yıldızına dönüşürler. Bir yıldızın süpernova sonrasında nötron yıldızı olabilmesi için Güneşten 4 ila 8 kat büyük olması gerekir. Güneş kadar olan yıldızlar nötron değil, beyaz cüceye dönüşürler. Yıldız yapısında bulunan hidrojeni helyuma, helyumu da karbona dönüştürerek yaşamını sürdürür. Bu reaksiyonlar yıldızın kütle çekim kuvveti ile dış basıncının dengede olmasını sağlar.</description>
     </item>
     
     <item>
       <title>Evreni Saran Enerji: Kozmik Mikrodalga Arkaplan Işıması</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/evrenin-her-kosesini-kaplayan-enerji-kozmik-mikrodalga-arkaplan-isimasi/</link>
+      <link>https://reborn.sabahlatan.com/blog/evrenin-her-kosesini-kaplayan-enerji-kozmik-mikrodalga-arkaplan-isimasi/</link>
       <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/evrenin-her-kosesini-kaplayan-enerji-kozmik-mikrodalga-arkaplan-isimasi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/evrenin-her-kosesini-kaplayan-enerji-kozmik-mikrodalga-arkaplan-isimasi/</guid>
       <description>Evrenin yaklaşık 13.7 milyar yıl önce Big Bang denen olay ile birlikte oluştuğu yapılan hesaplamalar sonucu biliniyor. Big Bang teorisinden bu kadar emin olunabilmesinin nedeni kolayca gözlemlenebilir sonuçlarında yatıyor. Her şeyden önce evrendeki gök cisimlerinin bir arada bulunduğu en büyük yapılar olan galaksiler birbirlerinden hızla uzaklaşıyor. Ayrıca evrenin her noktasına yayılmış olan bir radyasyon da Big Bang&amp;rsquo;in kuvvetli bir kanıtı. Televizyonda frekansı ayarlanmamış boş bir kanal açtığınızda görülen karıncalanmanın, radyoda aynı şekilde görülen cızırtıların nedeni bu arkaplan ışımasıdır.</description>
     </item>
     
     <item>
       <title>İkinci Dünya Savaşındaki İnsan Deneyleri</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/ikinci-dunya-savasi-sirasinda-insanlarin-uzerinde-yapilan-deneyler/</link>
+      <link>https://reborn.sabahlatan.com/blog/ikinci-dunya-savasi-sirasinda-insanlarin-uzerinde-yapilan-deneyler/</link>
       <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/ikinci-dunya-savasi-sirasinda-insanlarin-uzerinde-yapilan-deneyler/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/ikinci-dunya-savasi-sirasinda-insanlarin-uzerinde-yapilan-deneyler/</guid>
       <description>İkinci Dünya Savaşı çok fazla kaybın nedeni olsa da, insanlığın bir o kadar da ilerleme kaydetmesini sağlamıştır. Teknoloji, sağlık ve bunların dışında silah teknolojisi bu savaştan sonra tavan yapmıştır. Savaşın ortalarında galip pozisyondaki kimi ülkeler bu durumlarını fırsat bilerek işgal ettikleri ülkelerde insanları çeşitli şekillerde kullanmıştır. Herkesin bildiği Nazi Almanyası&amp;rsquo;nın Yahudiler, eşcinseller ve diğer enteresan gördükleri halklara karşı uyguladığı eylemler dışında müttefikleri olan Japonların da kendi yakınındaki bölgelerde çok da farklı politikaları olmamıştır.</description>
     </item>
     
     <item>
       <title>Moleküler olarak İnsan ve Elektronik Devre Benzerliği</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/elektronik-devreler-ve-insanlarla-olan-molekuler-benzerlikleri/</link>
+      <link>https://reborn.sabahlatan.com/blog/elektronik-devreler-ve-insanlarla-olan-molekuler-benzerlikleri/</link>
       <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/elektronik-devreler-ve-insanlarla-olan-molekuler-benzerlikleri/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/elektronik-devreler-ve-insanlarla-olan-molekuler-benzerlikleri/</guid>
       <description>20.yüzyılın ortalarında başlayan ve transistörlerin geliştirilişiyle ortaya çıkan, bilgisayarlarla birlikte gelişimi aşırı hızlanan akıllı elektronik cihazlar 21.yüzyılda dünyayı ele geçirdi denilebilir. Şehir yaşantısında, baktığımız her bir noktada bunlardan birer parça görüyoruz. Başlarda yalnızca ev telefonlarının kablosuz olarak taşınabilir hali olarak ortaya çıkan cep telefonları günümüzde birer mini bilgisayara dönüşmüş durumda.
 Bütün bu gelişim hızının arkasında yarı iletkenlerin keşfedilmesi yatıyor. O hep övülen yarı iletkenler ile oluşturulan devre elemanları gittikçe daha küçük hale getiriliyor ve maliyetleri düşüyor.</description>
     </item>
     
     <item>
       <title>Kuasar Nedir, Ne Değildir II</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/kuasar-nedir-ne-degildir-ii/</link>
+      <link>https://reborn.sabahlatan.com/blog/kuasar-nedir-ne-degildir-ii/</link>
       <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/kuasar-nedir-ne-degildir-ii/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/kuasar-nedir-ne-degildir-ii/</guid>
       <description>Uçsuz bucaksız evrende keşfedilmeyi bekleyen sayısız gök cismi bulunur. Sırlarla dolu bir evrende yaşamaktayız. Evrenin en uzak ve karanlık köşelerinde ulaşamayacağımız galaksiler, gezegenler, yıldızlar, kara delikler, kuasarlar ve henüz keşfedemediğimiz birçok göz cismi bulunur. Bunlardan biri olan kuasar muazzam parlaklığıyla dikkatini çekmektedir.
 Kuasar Nedir? Kuasarların evrenin genç zamanlarında oluştuğu tahmin edilmektedir. İlk olarak merkezlerindeki devasa kara deliklerin çekim gücüne kapılan çok fazla maddenin ısınıp ışık yaymasıyla muazzam bir parlama kazandıkları düşünülmekteydi.</description>
     </item>
     
     <item>
       <title>Işık Yayan Canlılık: Biyolüminesans</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/isik-yayan-canlilik-biyoluminesans/</link>
+      <link>https://reborn.sabahlatan.com/blog/isik-yayan-canlilik-biyoluminesans/</link>
       <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/isik-yayan-canlilik-biyoluminesans/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/isik-yayan-canlilik-biyoluminesans/</guid>
       <description>Işık üretmek insanlar tarafından ateş böceği gibi genel olarak bilinen örnekler dışında canlılarla pek fazla bağdaştırılamasa da, dünya üzerinde bu yeteneğe sahip çok sayıda canlı mevcut. Hatta çoğunluğu yaşadığı yerler dolayısıyla henüz keşfedilememiş durumda. Canlının vücudundan biyolojik ışık üretme olayına biyolüminesans adı veriliyor. Biyolüminesans kelimesi Latince yaşam anlamına gelen &amp;ldquo;Bios&amp;rdquo; ve ışık anlamındaki &amp;ldquo;Lumen&amp;rdquo; kelimelerinden gelir. Soğuk ışık olarak da bilinen lüminesans bir nesnenin ısısı değişmeden ışık yaymasına deniyor. Bunu gerçekleştiren canlı olduğu zaman da buna biyolüminesans ismi veriliyor.</description>
     </item>
     
     <item>
       <title>Diğer Gezegenleri Dünyalaştırmak: Terraforming</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/diger-gezegenleri-dunyalastirmak-terraforming/</link>
+      <link>https://reborn.sabahlatan.com/blog/diger-gezegenleri-dunyalastirmak-terraforming/</link>
       <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/diger-gezegenleri-dunyalastirmak-terraforming/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/diger-gezegenleri-dunyalastirmak-terraforming/</guid>
       <description>Petrolün bulunup işlenmeye başlanması, motorlu taşıtların icadı ve Sanayi Devrimi’nden sonra Dünya hızlı bir şekilde kirlenmeye başladı. Fabrikaların kimyasal atıkları, ormanların tahrip edilmesi, fabrika ve motorlu taşıtların atmosfere saldıkları karbondioksit Dünyanın dengesini bozmaya yetmiştir. Su kirliliği, hava kirliliği atmosferdeki ozon tabakasının zayıflaması (Ozon tabakası Güneşten gelen ultraviyole ışınlarını tutan tabaka) zararlarını göstermeye başladı. Küresel iklim değişiklikleri, asit yağmurları, kuruyan göller, nesli tükenen canlılar, kuraklık ve doğal felaketler bize yakın zamanda Dünyanın yaşanılamayacak bir yer olacağını gösteriyor.</description>
     </item>
     
     <item>
       <title>10 - 20 Yıla Dünya Dışı Yaşamla Karşılaşmak</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/10-20-yil-icerisinde-dunya-disi-yasamla-karsilasabilmek/</link>
+      <link>https://reborn.sabahlatan.com/blog/10-20-yil-icerisinde-dunya-disi-yasamla-karsilasabilmek/</link>
       <pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/10-20-yil-icerisinde-dunya-disi-yasamla-karsilasabilmek/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/10-20-yil-icerisinde-dunya-disi-yasamla-karsilasabilmek/</guid>
       <description>Son günlerde NASA&amp;rsquo;dan gelen &amp;ldquo;Gelecek 10-20 yıl içerisinde uzaylılarla karşılaşmaya hazır olun&amp;rdquo; açıklaması gündemde olan konulardan biri. Açıklamayı NASA bünyesindeki önde gelen bilimadamlarından olan Ellen Stofan yapıyor. Bu eleman 10 yıl içerisinde dünya dışı yaşama dair kesin kanıtlar bulacakları konusunda emin. &amp;ldquo;Nereye bakacağımızı biliyoruz, nasıl bakacağımızı biliyoruz, teknolojimiz de var, saçım şekil önümden çekil&amp;rdquo; diyor. Yine NASA&amp;rsquo;da Heliofizik Bölüm Direktörü olarak bulunan Jeffrey Newmark da yandan kafayı uzatarak: &amp;ldquo;Bulacağız ama burada bilinçli küçük yeşil adamlardan değil; bakteriyel bir yaşamdan bahsediyoruz.</description>
     </item>
     
     <item>
       <title>Holodomor (Ukrayna Katliamı)</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/holodomor-ukrayna-katliami/</link>
+      <link>https://reborn.sabahlatan.com/blog/holodomor-ukrayna-katliami/</link>
       <pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/holodomor-ukrayna-katliami/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/holodomor-ukrayna-katliami/</guid>
       <description>Açlıktan ölmek anlamına gelen Holodomor, Ukrayna&amp;rsquo;nın 1932-1933 yılları arasında maruz kaldığı soykırımdır. Sovyetlerin uyguladığı suni kıtlıkla yaklaşık 8 milyon insan açlıktan ölmüştür.
 O dönem Sovyetler Birliğinin yönetiminde olan Ukrayna toprakları en büyük tarım kaynağıdır. Uyguladığı tarım politikalarıyla köylüleri zorla devlet için çalıştırmış, toprak sahiplerinin toprağına el koymuş, itiraz edenler öldürülmüş veya sürgüne gönderilmişti. Köylülerden zorla aldığı buğdayı Avrupa’ya satmıştı. Bütün tarım ürünlerine el koyan Sovyetler, köylünün buğday saklaması halinde idama varan cezalar vermekteydi.</description>
     </item>
     
     <item>
       <title>En Enteresan 5 Fobi</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/en-enteresan-5-fobi/</link>
+      <link>https://reborn.sabahlatan.com/blog/en-enteresan-5-fobi/</link>
       <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/en-enteresan-5-fobi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/en-enteresan-5-fobi/</guid>
       <description>Her canlı kendini meydana getiren evrimsel sürecin bir sonucu olarak kendini tehdit eden faktörlerden kaçınır. Korku bu tehditlere karşı savunmada kalma halidir. Bu kavramın daima yaşamı tehdit eden somut bir durum olması gerekmiyor, bilinçaltında yer alan tamamlanmamış veriler de korkuya neden olabilir. Korkular artık insanın hayatını etkileyecek seviyede olduğunda ise bunlara fobi adı veriliyor. Fobisi olan insana da &amp;ldquo;fobik&amp;rdquo; deniyor - Kullanırım lan ben bunu -. Kişi fobilerinin mantıksız olduğunu bilse dahi bunlardan kolaylıkla kurtulamıyor.</description>
     </item>
     
     <item>
       <title>Işığın Dahi Kaçamadığı Gökcismi: Karadelik</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/isigin-dahi-kacamadigi-gizemli-gokcisimleri-karadelikler/</link>
+      <link>https://reborn.sabahlatan.com/blog/isigin-dahi-kacamadigi-gizemli-gokcisimleri-karadelikler/</link>
       <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/isigin-dahi-kacamadigi-gizemli-gokcisimleri-karadelikler/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/isigin-dahi-kacamadigi-gizemli-gokcisimleri-karadelikler/</guid>
       <description>Karadelikler güneşten birkaç kat daha büyük yıldızların son evresidir. Karadelikler, muazzam bir çekim gücüne sahip, ışığı dahi içine çekip kaçmasına izin vermeyen gök cisimleridir. Karadeliklerin sonsuz kütleye sahip oldukları varsayılır. Bu kütlelerine rağmen hacimleri çok küçüktür. Kilometrelerle ifade edilebilecek kadar küçüktürler. Karadelik kavramı Albert Einstein&amp;rsquo;ın genel görelilik kuramıyla ortaya çıkmıştır. Sonra Karl Schwarzschild &amp;ldquo;Einstein alan denklemleri&amp;rdquo; adlı kara deliğin varlığı ortaya atan bir yazı yayınlamıştır. 1971 yılında ilk karadelik Uhuru uydusu tarafından Kuğu takımyıldızında tespit edilmiştir.</description>
     </item>
     
     <item>
       <title>Başkanlık Sisteminin Uygulandığı Ülkeler</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/baskanlik-sisteminin-uygulandigi-ulkeler/</link>
+      <link>https://reborn.sabahlatan.com/blog/baskanlik-sisteminin-uygulandigi-ulkeler/</link>
       <pubDate>Wed, 08 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/baskanlik-sisteminin-uygulandigi-ulkeler/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/baskanlik-sisteminin-uygulandigi-ulkeler/</guid>
       <description>Son günler Türkiye gündemini meşgul eden konulardan biri de başkanlık sisteminin Türkiye&amp;rsquo;ye gelmesi konusu. Kimin bu sistemi neden istediği, ne için kullanma çabasında olduğu gayet açık olsa da bu yazıda buna girmiyoruz. Başkanlık sistemi temel olarak hükümet başkanının aynı zamanda devlet başkanı olduğu bir rejimdir. Yasama, yürütme ve yargı kesin sınırla ayrılmış biçimde ve yürütme organının iktidar imkanları genişletilmiş haldedir. Yasama yetkisi parlamentoya aittir. Devlet başkanı ve parlamento üyeleri halk tarafından doğrudan veya dolaylı olacak bir biçimde seçilir.</description>
     </item>
     
     <item>
       <title>Kuasar Nedir, Ne Değildir</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/kuasar-nedir-ne-degildir/</link>
+      <link>https://reborn.sabahlatan.com/blog/kuasar-nedir-ne-degildir/</link>
       <pubDate>Wed, 08 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/kuasar-nedir-ne-degildir/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/kuasar-nedir-ne-degildir/</guid>
       <description>Evrenin geri kalanında yer alan gözlemlenebilir objelerle kıyaslandığında çevresine muazzam güçte enerji yayan gök cisimlerine kuasar deniyor. İngilizcede Quasar ismi &amp;ldquo;Yıldız benzeri radyo kaynağı&amp;rdquo; anlamına gelen &amp;ldquo;Quasi-stellar radio source&amp;rdquo; ifadesinden gelmekte. Standart bir galaksiye nazaran milyonlarca kat küçük boyutlarda olmalarına rağmen bu gök cisimleri bir galaksiden çok daha parlak ve yüksek enerjiye sahip olarak gözlemleniyor. Radyo dalgaları dahi yayabilen bu cisimler ilk keşfedildiklerinde bunların dünyanın gözlemlenebilir evreninde yalnızca en uzak köşelerde, en yaşlı gök cisimleri oldukları düşünülüyordu.</description>
     </item>
     
     <item>
       <title>En İyi 10 Bilim Kurgu Filmi</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/en-iyi-10-bilim-kurgu-filmi/</link>
+      <link>https://reborn.sabahlatan.com/blog/en-iyi-10-bilim-kurgu-filmi/</link>
       <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/en-iyi-10-bilim-kurgu-filmi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/en-iyi-10-bilim-kurgu-filmi/</guid>
       <description>1. Interstellar Yönetmen: Christopher Nolan IMDB: 8,8 Film, Fizikçi Kip S. Thorne&amp;rsquo;nun evrendeki &amp;lsquo;Solucan Delikleri&amp;rsquo; teorisinden ilham alınarak yapılmıştır. Geçimini çiftçilik yaparak sağlan Cooper 2 çocuğunu en iyi şekilde yaşatmaya çalışır. 10 yaşındaki kızı Murph doğaüstü bir zekaya sahiptir. Bir gün Cooper&amp;rsquo;a sunulan teklifle her şey değişir. Bir dizi bilim insanı ile uzun bir yolculuğa çıkması gerekmektedir. Yaşanılabilir başka bir gezegen bulmak için yola koyulan Cooper ve arkadaşlarını gittiği yer gezegende farklı zorluklar beklemektedir.</description>
     </item>
     
     <item>
       <title>Eski Windows&#39;unuzu Arındırmak Adına En Hafif Çözüm: ComboFix</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/bilgisayarinizi-arindirmak-ve-rahatlatmak-adina-en-hafif-cozum-combofix/</link>
+      <link>https://reborn.sabahlatan.com/blog/bilgisayarinizi-arindirmak-ve-rahatlatmak-adina-en-hafif-cozum-combofix/</link>
       <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/bilgisayarinizi-arindirmak-ve-rahatlatmak-adina-en-hafif-cozum-combofix/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/bilgisayarinizi-arindirmak-ve-rahatlatmak-adina-en-hafif-cozum-combofix/</guid>
       <description>Her geçen gün bilgisayarların donanımsal kapasiteleri gittikçe artsa da gereksiz yere şişirilen yazılımlar son kullanıcıyı deliye döndürebiliyor. Yerine getirmesi gereken görev çok basit olsa da; yanında getirdiği bir ton boş özellikle bilgisayarda lüzumsuz yer kaplayan, bilgisayarı yoran bu yazılımlar için bloatware terimi kullanılıyor. Bu konuda en güzel örnekler Adobe Acrobat Reader ve Nero denen zırvalar.
 Bunların dışında bir bilgisayarı genel olarak en çok yoran uygulamaların başında her zaman çalışan antivirüs programları geliyor.</description>
     </item>
     
     <item>
       <title>İzlemeniz Gereken Aamir Khan Filmleri</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/izlemeniz-gereken-aamir-khan-filmleri/</link>
+      <link>https://reborn.sabahlatan.com/blog/izlemeniz-gereken-aamir-khan-filmleri/</link>
       <pubDate>Mon, 06 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/izlemeniz-gereken-aamir-khan-filmleri/</guid>
-      <description>Peekay ( PK ) Yönetmen: Rajkumar Hirani IMDB: 8,7 P.K. ayrı bir dünyadan gelen ve evine gitmenin yolunu arayan biridir. Dünya serüveninde insanlara sorduğu sorularla bir anda bütün dikkatleri üzerine çeker. Bu sorular çocukça ve masum sorulardır ancak cevabı oldukça zordur. Felsefenin sınırlarını zorlayan kişiler dahi cevap verememektedir. Muzipliği ve sorduğu sorularla kendine iyi dostlar edinir. Kahkaha, dram ve bir aşk masalını bir arada yaşatan oldukça güzel bir filmdir.
-**Dhoom 3 Yönetmen: Vijay Krishna Acharya IMDB: 5,9 IMDB puanına bakıp aldanmamak gerek.</description>
+      <guid>https://reborn.sabahlatan.com/blog/izlemeniz-gereken-aamir-khan-filmleri/</guid>
+      <description>Peekay ( PK ) Yönetmen: Rajkumar Hirani IMDB: 8,7 P.K. ayrı bir dünyadan gelen ve evine gitmenin yolunu arayan biridir. Dünya serüveninde insanlara sorduğu sorularla bir anda bütün dikkatleri üzerine çeker. Bu sorular çocukça ve masum sorulardır ancak cevabı oldukça zordur. Felsefenin sınırlarını zorlayan kişiler dahi cevap verememektedir. Muzipliği ve sorduğu sorularla kendine iyi dostlar edinir. Kahkaha, dram ve bir aşk masalını bir arada yaşatan oldukça güzel bir filmdir.</description>
     </item>
     
     <item>
       <title>Dişisiyle, Erkeğiyle Artikel Nedir</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/tanimlilik-edati-artikel-nedir-neden-kimi-dillerde-disi-erkek-olarak-ayrilir/</link>
+      <link>https://reborn.sabahlatan.com/blog/tanimlilik-edati-artikel-nedir-neden-kimi-dillerde-disi-erkek-olarak-ayrilir/</link>
       <pubDate>Sun, 05 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/tanimlilik-edati-artikel-nedir-neden-kimi-dillerde-disi-erkek-olarak-ayrilir/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/tanimlilik-edati-artikel-nedir-neden-kimi-dillerde-disi-erkek-olarak-ayrilir/</guid>
       <description>Türkçede &amp;ldquo;Tanımlık edatı&amp;rdquo; veya Türkçe telaffuza en yakın hali olan Almancadaki &amp;ldquo;Artikel&amp;rdquo; kelimesiyle ifade edilebilen bu kavram çoğu Avrupa dilinde karşımıza çıkar. En basitinden İngilizcedeki &amp;ldquo;The&amp;rdquo; ifadesi de bir artikeldir. İngilizcede belirli veya belirli olmasına göre &amp;ldquo;The&amp;rdquo; ve &amp;ldquo;A&amp;rdquo; ya da kendinden sonra gelen kelimenin ilk sesinin telaffuzuna göre &amp;ldquo;An&amp;rdquo; olmak üzere iki çeşit artikel vardır. Belirli artikel olan &amp;ldquo;The&amp;rdquo;, nitelediği nesnenin çoğul olup olmamasına göre form değiştirmez. Bunun yanı sıra dişi ve erkek olarak farklı formları yoktur.</description>
     </item>
     
     <item>
       <title>Dördüncü Duvar Nedir, Nasıl Yıkılır</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/04/eserlerde-dorduncu-duvar-nedir-dorduncu-duvar-nasil-yikilir/</link>
+      <link>https://reborn.sabahlatan.com/blog/eserlerde-dorduncu-duvar-nedir-dorduncu-duvar-nasil-yikilir/</link>
       <pubDate>Sun, 05 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/04/eserlerde-dorduncu-duvar-nedir-dorduncu-duvar-nasil-yikilir/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/eserlerde-dorduncu-duvar-nedir-dorduncu-duvar-nasil-yikilir/</guid>
       <description>Kurguya sahip bir tiyatro oyununda, sinema filminde, bilgisayar oyununda, romanda veya çizgi romanda kendinizi karakterlerin içinde yaşadığı alternatif bir gerçekliğin içinde bulursunuz. Zamanlar ve mekanlar gerçek dünyaya paralel şekilde olabilir, fakat takip edilen olaylar o andan bağımsız, bambaşka bir şekilde kurgulanmıştır. Bir eserin ortaya çıkmasındaki amaç da zaten budur; gerçek dünyayı yeniden kurgulamak veya olayları baştan ele almak.
-Dördüncü duvarı yıkmak denen olay ise herhangi bir karakterin seyirci ile direkt olarak iletişime geçmesi anlamına gelir.</description>
+Bir tiyatro oyunu izlediğinizde karakterlerin çevresini kaplayan 3 duvar görürsünüz. Seyirci oyunu kalan duvarın olması gerektiği yerden izliyor olur.</description>
     </item>
     
   </channel>

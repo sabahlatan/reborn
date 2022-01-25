@@ -9,20 +9,20 @@
     <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://reborn.sabahlatan.com/tags/programlama/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oyun Motoru Arşivi</title>
-      <link>https://reborn.sabahlatan.com/posts/2020/04/oyun-motoru-arsivi/</link>
+      <link>https://reborn.sabahlatan.com/blog/oyun-motoru-arsivi/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2020/04/oyun-motoru-arsivi/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/oyun-motoru-arsivi/</guid>
       <description>Oyun yapmak eğlenceli bir etkinlik, bu işi kolaylaştıracak bir dünya oyun motoru var. Bu yazımı size daha fazla seçenek göstermek ve rehber olabilmek için yazdım. Hedeflediğiniz platforma oyun geliştirebilmeniz için onlarca ücretsiz alternatif var. Sonuçta sizden ücret talep eden popüler oyun motorları kaderiniz değil, hem belki de aklınızdaki oyunu geliştirmek için yeni bir yazılım dili de öğrenmeniz gerekmiyor.
 Bu yazıyı okuyan kişisel, eğitimsel veya ticari amaçlarla oyun geliştirecek kişilere önerim, öncelikli olarak platformlara, sonrasında lisanslamaya göre arşive göz gezdirmeleridir.</description>
     </item>
     
     <item>
       <title>Web Geliştirmeye Giriş 1</title>
-      <link>https://reborn.sabahlatan.com/posts/2015/11/web-gelistirmeye-giris-1/</link>
+      <link>https://reborn.sabahlatan.com/blog/web-gelistirmeye-giris-1/</link>
       <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://reborn.sabahlatan.com/posts/2015/11/web-gelistirmeye-giris-1/</guid>
+      <guid>https://reborn.sabahlatan.com/blog/web-gelistirmeye-giris-1/</guid>
       <description>Bir web sitesi oluşturmanın sayısız yolu vardır. Bunların hepsi temelde aynı olsa da, seviyelerine ve web sitesini farklı bakış açılarıyla oluşturmayı sağlamalarına göre birbirinden ayrılır. Şimdi soyut bir şekilde açıklamak yerine web geliştirmeyle uğraşmak isteyen bir kişinin bilmesi gereken kavramları teker teker açıklayalım.
 Web geliştirme iki ayrı alana ayrılır; web tasarım ve web programlama. Web tasarım bir site üzerinde göze hitap eden kısımların oluşturulmasıdır. Tema çizimi, temaların HTML kodlarına dökülerek tarayıcı üzerinde çalışmasının sağlanması ve diğer grafik işleri web tasarım dahilindedir.</description>
     </item>
