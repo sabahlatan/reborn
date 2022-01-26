@@ -18,6 +18,8 @@
 				<footer class="entry__footer">
 					{{ partial "entry/tags.html" . }}
 					{{ partial "entry/share.html" . }}
+
+					{{ template "_internal/disqus.html" . }}
 				</footer>
 				{{ end }}
 			</article>
