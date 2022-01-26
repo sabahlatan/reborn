@@ -15,7 +15,7 @@ tags:
   - "oyun"
   - "retro"
   - "retro-nedir"
-thumbnail: "flashlı-kaset.jpg"
+thumbnail: "flashli-kaset.jpg"
 ---
 
 Retro; kasten yakın geçmişin moda, film, oyun, müzik vb. türeten veya taklit eden tarzdır. Türetilen ya da taklit edilen şeyin ise üzerinden en azından bir 20 yıl geçmesi gerekir. Örnek vermek gerekirse üzerinden bir, iki sene geçmiş bir filmin taklidi retro sayılmaz ancak üzerinden 34 sene geçmiş bir film olan Terminatör (ilk filmi) taklit edilebilir.

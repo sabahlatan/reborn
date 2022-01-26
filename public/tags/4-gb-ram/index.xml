@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4-gb-ram on Sabahlatan</title>
+    <link>https://reborn.sabahlatan.com/tags/4-gb-ram/</link>
+    <description>Recent content in 4-gb-ram on Sabahlatan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://reborn.sabahlatan.com/tags/4-gb-ram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>32-bit ve 64-bit İşlemci Arasındaki Fark Tam Olarak Nedir</title>
+      <link>https://reborn.sabahlatan.com/blog/32-bit-ve-64-bit-islemci-arasindaki-fark-tam-olarak-nedir/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/blog/32-bit-ve-64-bit-islemci-arasindaki-fark-tam-olarak-nedir/</guid>
+      <description>32-bit işlemcilerin tarihi artık doldu ve yerini büyük oranda 64-bit işlemcilere bırakmaya başladı. Neden 32-bit&amp;rsquo;in artık eskimiş bir teknoloji olduğunu yazının sonuna doğru anlayacaksınız. Bu kadar fazla bahsedilen bir konu hakkında yazmamın nedeni, bu konuyla ilgili karşınıza çıkan kaynakların çoğunun yalan yanlış bilgilerle dolu olması. Kendileri tam olarak anlamadan anlatmaya çalıştığından dolayı internet çöp bilgilerle dolu.
+32-bit ve 64-bit işlemcinin arasındaki farkın kolayca anlaşılamamasının nedeni isimlendirmedeki eksiklikten kaynaklanıyor. 32-bit bir işlemciden bahsedildiğinde akılda canlanan görsel işlemcinin her saat vuruşunda 32 bit veri işlediği veya işlemcinin az çok nasıl çalıştığını bilen biri için register denen hafıza alanlarında 32 bit veri tutulduğu olacaktır.</description>
+    </item>
+    
+  </channel>
+</rss>

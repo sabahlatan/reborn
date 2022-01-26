@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>asp on Sabahlatan</title>
+    <link>https://reborn.sabahlatan.com/tags/asp/</link>
+    <description>Recent content in asp on Sabahlatan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Wed, 25 Nov 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://reborn.sabahlatan.com/tags/asp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Geliştirmeye Giriş 1</title>
+      <link>https://reborn.sabahlatan.com/blog/web-gelistirmeye-giris-1/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/blog/web-gelistirmeye-giris-1/</guid>
+      <description>Bir web sitesi oluşturmanın sayısız yolu vardır. Bunların hepsi temelde aynı olsa da, seviyelerine ve web sitesini farklı bakış açılarıyla oluşturmayı sağlamalarına göre birbirinden ayrılır. Şimdi soyut bir şekilde açıklamak yerine web geliştirmeyle uğraşmak isteyen bir kişinin bilmesi gereken kavramları teker teker açıklayalım.
+Web geliştirme iki ayrı alana ayrılır; web tasarım ve web programlama. Web tasarım bir site üzerinde göze hitap eden kısımların oluşturulmasıdır. Tema çizimi, temaların HTML kodlarına dökülerek tarayıcı üzerinde çalışmasının sağlanması ve diğer grafik işleri web tasarım dahilindedir.</description>
+    </item>
+    
+  </channel>
+</rss>

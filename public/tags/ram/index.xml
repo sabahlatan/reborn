@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ram on Sabahlatan</title>
+    <link>https://reborn.sabahlatan.com/tags/ram/</link>
+    <description>Recent content in ram on Sabahlatan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://reborn.sabahlatan.com/tags/ram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chrome&#39;da Arkada Kalan Sekmelerin Donmasını Engellemek</title>
+      <link>https://reborn.sabahlatan.com/blog/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/blog/chromeun-sekmeleri-otomatik-yeniden-yuklemesini-engellemek/</guid>
+      <description>Chrome&amp;rsquo;un yeni zırvalarından biri de sekme değiştirildiğinde arkaya alınan sekmeyi RAM&amp;rsquo;den kısmen çıkartması ve sekmeye tekrar girildiğinde sekmenin en baştan açılması. Chrome sürekli olarak bu tarz eklemeler yapıyor ve bunları kapatacak bir seçeneği ayarlar sayfasına eklemiyor. Derdi minimalist olmak, fakat ayar yapacak adam minimalizm aramaz. Bu sinir bozucu yeniliği kapatmak için Chrome&amp;rsquo;un gizli ayarlarına girmek gerekiyor; yine. Tıpkı Chrome&amp;rsquo;da sekmelerin sesini tek tıkla kapatıp açmaktan bahsettiğimiz yazıdaki gibi. Tek fark, orada gizli bir özelliği aktive ederek Chrome&amp;rsquo;a bir nevi ekliyorduk.</description>
+    </item>
+    
+    <item>
+      <title>32-bit ve 64-bit İşlemci Arasındaki Fark Tam Olarak Nedir</title>
+      <link>https://reborn.sabahlatan.com/blog/32-bit-ve-64-bit-islemci-arasindaki-fark-tam-olarak-nedir/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reborn.sabahlatan.com/blog/32-bit-ve-64-bit-islemci-arasindaki-fark-tam-olarak-nedir/</guid>
+      <description>32-bit işlemcilerin tarihi artık doldu ve yerini büyük oranda 64-bit işlemcilere bırakmaya başladı. Neden 32-bit&amp;rsquo;in artık eskimiş bir teknoloji olduğunu yazının sonuna doğru anlayacaksınız. Bu kadar fazla bahsedilen bir konu hakkında yazmamın nedeni, bu konuyla ilgili karşınıza çıkan kaynakların çoğunun yalan yanlış bilgilerle dolu olması. Kendileri tam olarak anlamadan anlatmaya çalıştığından dolayı internet çöp bilgilerle dolu.
+32-bit ve 64-bit işlemcinin arasındaki farkın kolayca anlaşılamamasının nedeni isimlendirmedeki eksiklikten kaynaklanıyor. 32-bit bir işlemciden bahsedildiğinde akılda canlanan görsel işlemcinin her saat vuruşunda 32 bit veri işlediği veya işlemcinin az çok nasıl çalıştığını bilen biri için register denen hafıza alanlarında 32 bit veri tutulduğu olacaktır.</description>
+    </item>
+    
+  </channel>
+</rss>
