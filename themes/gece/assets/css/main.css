@@ -368,6 +368,17 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 	border-width: 1px 0;
 }
 
+.entry.card__box.block {
+	background-size: cover;
+	background-position: center center;
+	box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .85);
+	transition: box-shadow ease-in-out 500ms;
+}
+
+.entry.card__box.block:hover {
+	box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .5);
+}
+
 @media screen and (min-width: 480px) {
 	.card {
 		padding: .3125rem;
@@ -436,7 +447,7 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 	position: relative;
 	margin: 0 0 20px 0;
 	background-position: center bottom;
-	transition: 700ms all ease-in-out;
+	transition: 700ms background-position ease-in-out;
 }
 
 .featured_image > h1 {
