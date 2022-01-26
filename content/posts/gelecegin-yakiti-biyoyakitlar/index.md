@@ -147,6 +147,6 @@ Her ne kadar bu gezegeni hor kullansak da farklı bir gezegen aramaktan önce bu
 http://biofuel.org.uk/  
 http://biyokure.org/biyodizelin-avantajlari-ve-dezavantajlari/5480/  
 https://www.ultraenerji.com/biyoyakit/biyodizelin-faydalari-nelerdir.html  
-http://www.otoguncel.com/teknik-bilgiler/hidrojenin-yanmasiyla-egzozda-nedennox- emisyonu-olusur-nox-emisyonu-nasil-azaltilir/  
+http://www.otoguncel.com/teknik-bilgiler/hidrojenin-yanmasiyla-egzozda-nedennox-emisyonu-olusur-nox-emisyonu-nasil-azaltilir/  
 http://www.eie.gov.tr/yenilenebilir/biyodizel.aspx  
-https://prezi.com/iveia1nlsu\_w/biyoyakit/
+https://prezi.com/iveia1nlsu_w/biyoyakit/

@@ -30,15 +30,150 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Lisans Türleri
 
-<table><tbody><tr><td><strong>Adı</strong></td><td><h5><strong>Açıklaması</strong></h5></td></tr><tr><td><h5>BSD</h5></td><td>(Berkeley Source Distribution) GPL lisanslaması gibi açık kaynak ve ücretsizdir. GPL'e göre farkı şudur, ürettiğiniz yazılımı paylaşırken GPL sertifikalı veya ücretsiz dağıtmak zorunda değilsiniz. Kendi seçtiğiniz lisanslamayla dağıtabilirsiniz.</td></tr><tr><td><h5>GPL</h5></td><td>(General Public License) Açık kaynak ve ücretsizdir. Kodu kullanabilir, derleyebilir ve paylaşabilirsiniz. Fakat sizin de GPL lisanslama yapmanız ve paylaştığınız ürünün elde ettiğiniz kod gibi ücretsiz olması gerekir.</td></tr><tr><td><h5>Proprietary</h5></td><td>Çoğunlukla ücretsizdir. Fakat en kısıtlı lisanslama olabilir. Düzenlenilemez veya yeniden paylaşılamaz. Tüm hakları saklıdır.</td></tr><tr><td><h5>MIT</h5></td><td>Ücretsiz ve açık kaynaklıdır. Üretilen yazılımın dağıtımı, alt-lisanslama yapması, ücret karşı satılması mümkündür. Fakat, orjinal MIT lisansı dağıtımda içerilmeli, bunun sayesinde orjinal dağıtıma referans verilmiş olmalıdır.&nbsp;</td></tr><tr><td><h5>Commercial</h5></td><td>Değişken bir lisans türüdür. Tek seferlik ödeme, belirli sürede bir ödeme veya belirli bir koşul altında ödeme isteyebilir. Üretilen yazılımın satılışı için herhangi bir koşulla ücret istenilebilir. Fakat cüzi bir miktar para ödedikten sonra üretilen yazılımın dağıtımının tüm haklarına da sahip olabilirsiniz. Bu bilgiler için kullanacağınız yazılımın web sitesinden destek alınız.</td></tr><tr><td><h5>Public Domain</h5></td><td>Açık kaynaklı ve ücretsizdir. En rahat lisanslama tipidir, eğer bu lisanlama varsa, yazılımı kullanıp kendi ürettiğiniz şeyi özgürce dağıtabilirsiniz.</td></tr><tr><td><h5>LGPL</h5></td><td>(Lesser General Public License) Belli bir kısmı açık kaynak olabilir, ücretsizdir. Eğer kütüphaneyi sadece derler ve kullanırsanız, kendi çalışmanızı istediğiniz lisanslamayla paylaşabilirsiniz, fakat eğer kütüphanede bir değişiklik yaparsanız veya kod öbeği çalarsanız, LGPL'deki gibi sınırlamalar olan bir lisansla paylaşmanız gerekir.</td></tr><tr><td><h5>Creative Commons</h5></td><td>Eserin, orjinal sahibinden itibaren katkı sağlayan herkese atıf yapıldığı takdirde izin alınmadan kullanımını serbest bırakabilen lisanslama türüdür. Çeşitli ek kısıtları olabilir, eğer bu lisanslamaya sahip bir yazılım kullanacaksanız, lütfen kullanacağınız yazılımın web sitesinden gerekli ek bilgiyi alın.</td></tr><tr><td><h5>Zlib</h5></td><td>Açık kaynak ve ücretsizdir. Fakat özgün yazılımı sizin yazdığınızı ve üretilen yazılımın özgün olduğunu iddia edemez, aynı zamanda kullandığınız yazılımın lisans dosyalarını silemezsiniz.</td></tr></tbody></table>
+<table>
+    <tbody>
+        <tr>
+            <td><strong>Adı</strong></td>
+            <td>
+                <strong>Açıklaması</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>BSD</strong>
+            </td>
+            <td>(Berkeley Source Distribution) GPL lisanslaması gibi açık kaynak ve ücretsizdir. GPL'e göre farkı şudur,
+                ürettiğiniz yazılımı paylaşırken GPL sertifikalı veya ücretsiz dağıtmak zorunda değilsiniz. Kendi
+                seçtiğiniz lisanslamayla dağıtabilirsiniz.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>GPL</strong>
+            </td>
+            <td>(General Public License) Açık kaynak ve ücretsizdir. Kodu kullanabilir, derleyebilir ve
+                paylaşabilirsiniz. Fakat sizin de GPL lisanslama yapmanız ve paylaştığınız ürünün elde ettiğiniz kod
+                gibi ücretsiz olması gerekir.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Proprietary</strong>
+            </td>
+            <td>Çoğunlukla ücretsizdir. Fakat en kısıtlı lisanslama olabilir. Düzenlenilemez veya yeniden paylaşılamaz.
+                Tüm hakları saklıdır.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>MIT</strong>
+            </td>
+            <td>Ücretsiz ve açık kaynaklıdır. Üretilen yazılımın dağıtımı, alt-lisanslama yapması, ücret karşı satılması
+                mümkündür. Fakat, orjinal MIT lisansı dağıtımda içerilmeli, bunun sayesinde orjinal dağıtıma referans
+                verilmiş olmalıdır.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Commercial</strong>
+            </td>
+            <td>Değişken bir lisans türüdür. Tek seferlik ödeme, belirli sürede bir ödeme veya belirli bir koşul altında
+                ödeme isteyebilir. Üretilen yazılımın satılışı için herhangi bir koşulla ücret istenilebilir. Fakat cüzi
+                bir miktar para ödedikten sonra üretilen yazılımın dağıtımının tüm haklarına da sahip olabilirsiniz. Bu
+                bilgiler için kullanacağınız yazılımın web sitesinden destek alınız.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Public Domain</strong>
+            </td>
+            <td>Açık kaynaklı ve ücretsizdir. En rahat lisanslama tipidir, eğer bu lisanlama varsa, yazılımı kullanıp
+                kendi ürettiğiniz şeyi özgürce dağıtabilirsiniz.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>LGPL</strong>
+            </td>
+            <td>(Lesser General Public License) Belli bir kısmı açık kaynak olabilir, ücretsizdir. Eğer kütüphaneyi
+                sadece derler ve kullanırsanız, kendi çalışmanızı istediğiniz lisanslamayla paylaşabilirsiniz, fakat
+                eğer kütüphanede bir değişiklik yaparsanız veya kod öbeği çalarsanız, LGPL'deki gibi sınırlamalar olan
+                bir lisansla paylaşmanız gerekir.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Creative Commons</strong>
+            </td>
+            <td>Eserin, orjinal sahibinden itibaren katkı sağlayan herkese atıf yapıldığı takdirde izin alınmadan
+                kullanımını serbest bırakabilen lisanslama türüdür. Çeşitli ek kısıtları olabilir, eğer bu lisanslamaya
+                sahip bir yazılım kullanacaksanız, lütfen kullanacağınız yazılımın web sitesinden gerekli ek bilgiyi
+                alın.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Zlib</strong>
+            </td>
+            <td>Açık kaynak ve ücretsizdir. Fakat özgün yazılımı sizin yazdığınızı ve üretilen yazılımın özgün olduğunu
+                iddia edemez, aynı zamanda kullandığınız yazılımın lisans dosyalarını silemezsiniz.</td>
+        </tr>
+    </tbody>
+</table>
 
 #### Yazılım Türleri
 
-<table><tbody><tr><td><h5><strong>Adı</strong></h5></td><td><h5><strong>Açıklaması</strong></h5></td></tr><tr><td><h5>Oyun Motoru</h5></td><td>Temelinde bir grafik kütüphanesi, render kütüphanesi buna benzer araçları bulunan, çoğunlukla kullanıcı arayüzü bulunan, oyun yapmaya yönelik geliştirme ortamlarıdır.</td></tr><tr><td><h5>Geliştirme Kütüphanesi</h5></td><td>Kullanılan programlama dilinde yazılımcının yükünü hafifletmek için çeşitli grafik ve sese yönelik araçları bulunan yazılım kütühaneleri için veya Framework'ler için kullanılmıştır.</td></tr><tr><td><h5>3D Grafik Motoru</h5></td><td>Direkt olarak oyun yapmaya yönelik olmayan, 3d render ve grafik kütüphaneleri bulunduran, çoğunlukla kullanıcı arayüzü olan yazılımlardır.</td></tr><tr><td><h5>SDK</h5></td><td>Bir oyunun geliştirilebilmesi için gerekli araçları bulunduran, fakat bunlar için bir kullanıcı arayüzü bulundurmayan yazılım kütüphaneleridir.</td></tr><tr><td><h5>Grafiksel Roman Motoru</h5></td><td>Resim ve yazılardan oluşan, interaktif oyunlar yapmak için kullanılan, kullanıcı arayüzü bulunan yazılımlardır.</td></tr><tr><td><h5>Oyun Yapma Oyunu</h5></td><td>Genellikle oyun oynar gibi oyun yapabildiğiniz, geliştirme ortamı daraltılıp "level design" yönüne ağırlık verilmiş, az bir kısmının programlamaya kısıtlı olarak izin verdiği oyun yapma yazılımlarıdır.</td></tr></tbody></table>
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <strong>Adı</strong>
+            </td>
+            <td>
+                <strong>Açıklaması</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Oyun Motoru</strong>
+            </td>
+            <td>Temelinde bir grafik kütüphanesi, render kütüphanesi buna benzer araçları bulunan, çoğunlukla kullanıcı
+                arayüzü bulunan, oyun yapmaya yönelik geliştirme ortamlarıdır.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Geliştirme Kütüphanesi</strong>
+            </td>
+            <td>Kullanılan programlama dilinde yazılımcının yükünü hafifletmek için çeşitli grafik ve sese yönelik
+                araçları bulunan yazılım kütühaneleri için veya Framework'ler için kullanılmıştır.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>3D Grafik Motoru</strong>
+            </td>
+            <td>Direkt olarak oyun yapmaya yönelik olmayan, 3d render ve grafik kütüphaneleri bulunduran, çoğunlukla
+                kullanıcı arayüzü olan yazılımlardır.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>SDK</strong>
+            </td>
+            <td>Bir oyunun geliştirilebilmesi için gerekli araçları bulunduran, fakat bunlar için bir kullanıcı arayüzü
+                bulundurmayan yazılım kütüphaneleridir.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Grafiksel Roman Motoru</strong>
+            </td>
+            <td>Resim ve yazılardan oluşan, interaktif oyunlar yapmak için kullanılan, kullanıcı arayüzü bulunan
+                yazılımlardır.</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Oyun Yapma Oyunu</strong>
+            </td>
+            <td>Genellikle oyun oynar gibi oyun yapabildiğiniz, geliştirme ortamı daraltılıp "level design" yönüne
+                ağırlık verilmiş, az bir kısmının programlamaya kısıtlı olarak izin verdiği oyun yapma yazılımlarıdır.
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 #### Agar Engine
 
-![Agar Engine](images/agar-1-sabahlatan-300x233.jpg)![Agar Engine 2](images/agar-2-sabahlatan-300x225.jpg)
+<img src="images/agar-1-sabahlatan-300x233.jpg" alt="Agar Engine" loading="lazy" width="auto" height="220" /><img src="images/agar-2-sabahlatan-300x225.jpg" alt="Agar Engine 2" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi
 
@@ -58,7 +193,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### **Allegro Engine**
 
-![Allegro motoruyla yapılmış bir oyun](images/allegro-1-sabahlatan.jpg)![Allegro motoruyla yapılmış bir oyun](images/allegro-2-sabahlatan.jpg)
+<img src="images/allegro-1-sabahlatan.jpg" alt="Allegro motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /><img src="images/allegro-2-sabahlatan.jpg" alt="Allegro motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi
 
@@ -78,7 +213,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### **Axiom Engine**
 
-![Axiom motoruyla yapılmış bir oyun](images/axiom-1-sabahlatan-300x168.jpg) ![Axiom motoruyla yapılmış bir oyun](images/axiom-2-sabahlatan-300x225.jpg)
+<img src="images/axiom-1-sabahlatan-300x168.jpg" alt="Axiom motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/axiom-2-sabahlatan-300x225.jpg" alt="Axiom motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** 3D Grafik Motoru
 
@@ -98,7 +233,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### **Catmother Engine**
 
-![Catmother motoruyla yapılmış bir oyun](images/catmother-1-sabahlatan-300x225.jpg)
+<img src="images/catmother-1-sabahlatan-300x225.jpg" alt="Catmother motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** 3D Grafik Motoru
 
@@ -116,7 +251,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### **Crystal Space 3D**
 
-![Crystal Space 3D motoruyla yapılmış bir oyun](images/crystal-space-1-sabahlatan-300x225.jpg) ![Crystal Space 3D motoruyla yapılmış bir oyun](images/crystal-space-2-sabahlatan-300x225.jpg)
+<img src="images/crystal-space-1-sabahlatan-300x225.jpg" alt="Crystal Space 3D motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/crystal-space-2-sabahlatan-300x225.jpg" alt="Crystal Space 3D motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** SDK
 
@@ -136,7 +271,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### **Drag\[en\]gine**
 
-![Drag[en]gine motoruyla yapılmış bir oyun](images/dragengine-2-sabahlatan-300x188.jpg) ![Drag[en]gine motorundan bir görsel](images/dragengine-1-sabahlatan-300x201.jpg)
+<img src="images/dragengine-2-sabahlatan-300x188.jpg" alt="Drag[en]gine motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/dragengine-1-sabahlatan-300x201.jpg" alt="Drag[en]gine motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -156,7 +291,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### **001 Game Creator**
 
-![001 Game Creator ile yapılmış bir oyun](images/001-game-creator-1-sabahlatan-300x225.jpg) ![001 Game Creator ile yapılmış bir oyun](images/001-game-creator-2-sabahlatan-300x156.jpg)
+<img src="images/001-game-creator-1-sabahlatan-300x225.jpg" alt="001 Game Creator ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/001-game-creator-2-sabahlatan-300x156.jpg" alt="001 Game Creator ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -176,7 +311,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### **LITIengine**
 
-![LITIengine ile yapılmış bir oyun](images/litiengine-1-sabahlatan-300x300.jpg) ![LITIengine ile yapılmış bir oyun](images/litiengine-2-sabahlatan-300x169.jpg)
+<img src="images/litiengine-1-sabahlatan-300x300.jpg" alt="LITIengine ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/litiengine-2-sabahlatan-300x169.jpg" alt="LITIengine ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -196,7 +331,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### **Build Engine**
 
-![Build motorundan bir görsel](images/buildengine-1-sabahlatan.jpg) ![Build motoruyla yapılmış bir oyun](images/buildengine-2-sabahlatan-300x225.jpg)
+<img src="images/buildengine-1-sabahlatan.jpg" alt="Build motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/buildengine-2-sabahlatan-300x225.jpg" alt="Build motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -216,7 +351,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### **Tyrano Builder**
 
-![Tyrano Builder motorundan bir görsel](images/tyranobuilder-1-sabahlatan-300x189.jpg) ![Tyrano Builder motoruyla yapılmış bir oyun](images/tyranobuilder-2-sabahlatan-300x169.jpg)
+<img src="images/tyranobuilder-1-sabahlatan-300x189.jpg" alt="Tyrano Builder motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/tyranobuilder-2-sabahlatan-300x169.jpg" alt="Tyrano Builder motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Grafiksel Roman Motoru
 
@@ -236,7 +371,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Ren'Py Engine
 
-![Ren'Py motorundan bir görsel](images/renpy-1-sabahlatan-300x176.jpg) ![Ren'Py motorundan bir görsel](images/renpy-2-sabahlatan-300x259.jpg)
+<img src="images/renpy-1-sabahlatan-300x176.jpg" alt="Ren'Py motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/renpy-2-sabahlatan-300x259.jpg" alt="Ren'Py motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Grafiksel Roman Motoru
 
@@ -256,7 +391,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### CopperCube Engine
 
-![CopperCube motorundan bir görsel](images/coppercube-1-sabahlatan-300x165.jpg) ![CopperCube motorundan bir görsel](images/coppercube-2-sabahlatan-300x224.jpg)
+<img src="images/coppercube-1-sabahlatan-300x165.jpg" alt="CopperCube motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/coppercube-2-sabahlatan-300x224.jpg" alt="CopperCube motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -276,7 +411,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Bright Engine
 
-![Bright motoruyla yapılmış bir oyun](images/birghtengine-1-sabahlatan-300x146.jpg) ![Bright motoruyla yapılmış bir oyun](images/birghtengine-2-sabahlatan-300x183.jpg)
+<img src="images/birghtengine-1-sabahlatan-300x146.jpg" alt="Bright motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/birghtengine-2-sabahlatan-300x183.jpg" alt="Bright motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru, 3D Grafik Motoru
 
@@ -296,7 +431,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Genesis3D
 
-![Genesis3D motoruyla yapılmış bir oyun](images/genesis3d-1-sabahlatan-300x227.jpg) ![Genesis3D motoruyla yapılmış bir oyun](images/genesis3d-2-sabahlatan-300x225.jpg)
+<img src="images/genesis3d-1-sabahlatan-300x227.jpg" alt="Genesis3D motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/genesis3d-2-sabahlatan-300x225.jpg" alt="Genesis3D motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -316,7 +451,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Esenthel Engine
 
-![Esenthel motoruyla yapılmış bir oyun](images/esenthel-1-sabahlatan-300x188.jpg) ![Esenthel motoruyla yapılmış bir oyun](images/esenthel-2-sabahlatan-300x188.jpg)
+<img src="images/esenthel-1-sabahlatan-300x188.jpg" alt="Esenthel motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/esenthel-2-sabahlatan-300x188.jpg" alt="Esenthel motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -336,7 +471,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### LÖVE 2D
 
-![LÖVE motoruyla yapılmış bir oyun](images/love-1-sabahlatan-300x234.jpg) ![LÖVE motoruyla yapılmış bir oyun](images/love-2-sabahlatan-300x235.jpg)
+<img src="images/love-1-sabahlatan-300x234.jpg" alt="LÖVE motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/love-2-sabahlatan-300x235.jpg" alt="LÖVE motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi (Framework)
 
@@ -356,7 +491,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### RPG in a Box Engine
 
-![RPG in a Box motoruyla yapılmış oyunlar](images/rpg-in-a-box-1-sabahlatan-300x169.jpg) ![RPG in a Box motoruyla yapılmış bir oyun](images/rpg-in-a-box-2-sabahlatan-300x192.jpg)
+<img src="images/rpg-in-a-box-1-sabahlatan-300x169.jpg" alt="RPG in a Box motoruyla yapılmış oyunlar" loading="lazy" width="auto" height="220" /> <img src="images/rpg-in-a-box-2-sabahlatan-300x192.jpg" alt="RPG in a Box motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -376,7 +511,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### ggez
 
-![ggez framework ile yapılmış bir oyun](images/ggez-1-sabahlatan-300x179.jpg) ![ggez framework ile yapılmış bir oyun](images/ggez-2-sabahlatan-300x237.jpg)
+<img src="images/ggez-1-sabahlatan-300x179.jpg" alt="ggez framework ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/ggez-2-sabahlatan-300x237.jpg" alt="ggez framework ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi (Framework)
 
@@ -396,7 +531,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### ENIGMA Development Environment
 
-![ENIGMA Development Environment ile yapılmış bir oyun](images/enigma-de-1-sabahlatan-300x192.jpg) ![ENIGMA Development Environment ile yapılmış bir oyun](images/enigma-de-2-sabahlatan-300x165.jpg)
+<img src="images/enigma-de-1-sabahlatan-300x192.jpg" alt="ENIGMA Development Environment ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/enigma-de-2-sabahlatan-300x165.jpg" alt="ENIGMA Development Environment ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:**  Oyun Motoru
 
@@ -416,7 +551,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### nCine Engine
 
-![nCine motoruyla yapılmış bir oyun](images/ncine-1-sabahlatan-300x184.jpg) ![nCine motorundan bir görsel](images/ncine-2-sabahlatan-300x169.jpg)
+<img src="images/ncine-1-sabahlatan-300x184.jpg" alt="nCine motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/ncine-2-sabahlatan-300x169.jpg" alt="nCine motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:**  Oyun Motoru
 
@@ -434,7 +569,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### FOnline Engine
 
-![FOnline motoruyla yapılmış bir oyun](images/fonline-1-sabahlatan-300x225.jpg) ![FOnline motoruyla yapılmış bir oyun](images/fonline-2-sabahlatan-300x225.jpg)
+<img src="images/fonline-1-sabahlatan-300x225.jpg" alt="FOnline motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/fonline-2-sabahlatan-300x225.jpg" alt="FOnline motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -452,7 +587,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### BlitzMax Engine
 
-![BlitzMax motoruyla yapılmış bir oyun](images/blitzmax-1-sabahlatan-300x225.jpg) ![BlitzMaz motorundan bir görsel](images/blitzmax-2-sabahlatan-300x225.jpg)
+<img src="images/blitzmax-1-sabahlatan-300x225.jpg" alt="BlitzMax motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/blitzmax-2-sabahlatan-300x225.jpg" alt="BlitzMaz motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -472,7 +607,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Wade Engine
 
-![Wade motoruyla yapılmış bir oyun](images/wade-1-sabahlatan-300x134.jpg) ![Wade motorundan bir görsel](images/wade-2-sabahlatan-300x136.jpg)
+<img src="images/wade-1-sabahlatan-300x134.jpg" alt="Wade motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/wade-2-sabahlatan-300x136.jpg" alt="Wade motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -492,7 +627,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### LambdaHack
 
-![LambdaHack kütüphanesiyle yapılmış bir oyun](images/lambdahack-1-sabahlatan-300x90.jpg)
+<img src="images/lambdahack-1-sabahlatan-300x90.jpg" alt="LambdaHack kütüphanesiyle yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi
 
@@ -512,7 +647,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### OGS Engine
 
-![OGS motorundan bir görsel](images/ogs-1-sabahlatan-300x141.jpg)
+<img src="images/ogs-1-sabahlatan-300x141.jpg" alt="OGS motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -532,7 +667,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Orx Portable Engine
 
-![Orx Portable motoruyla yapılmış bir oyun](images/orx-1-sabahlatan-300x169.jpg) ![Orx Portable motoruyla yapılmış bir oyun](images/orx-2-sabahlatan-300x169.jpg)
+<img src="images/orx-1-sabahlatan-300x169.jpg" alt="Orx Portable motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/orx-2-sabahlatan-300x169.jpg" alt="Orx Portable motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -552,7 +687,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### OpenMW
 
-![OpenMW Nevrasa Dralor manzarası](images/openmw-1-sabahlatan-300x169.jpg) ![OpenMW Balmora sabahı manzarası](images/openmw-2-sabahlatan-300x169.jpg)
+<img src="images/openmw-1-sabahlatan-300x169.jpg" alt="OpenMW Nevrasa Dralor manzarası" loading="lazy" width="auto" height="220" /> <img src="images/openmw-2-sabahlatan-300x169.jpg" alt="OpenMW Balmora sabahı manzarası" loading="lazy" width="auto" height="220" />
 
 **Tür: ** Oyun Motoru
 
@@ -572,7 +707,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Gideros Engine
 
-![Gideros motoruyla yapılmış bir oyun](images/gideros-1-sabahlatan-300x158.jpg) ![Gideros motoruyla yapılmış bir oyun](images/gideros-2-sabahlatan-226x300.jpg)
+<img src="images/gideros-1-sabahlatan-300x158.jpg" alt="Gideros motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/gideros-2-sabahlatan-226x300.jpg" alt="Gideros motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -592,7 +727,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Construct 3
 
-![Construct 3 motoruyla yapılmış bir oyun](images/construct3-1-sabahlatan-300x167.jpg) ![Construct 3 motorundan bir görsel](images/construct3-2-sabahlatan-300x169.jpg)
+<img src="images/construct3-1-sabahlatan-300x167.jpg" alt="Construct 3 motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/construct3-2-sabahlatan-300x169.jpg" alt="Construct 3 motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:**  Oyun Motoru
 
@@ -612,7 +747,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Lightweight Java Game Library (LWJGL)
 
-![LWJGL kütüphanesi ile yapılmış bir oyun](images/lwjgl-1-sabahlatan-300x165.jpg) ![LWJGL kütüphanesi ile yapılmış bir oyun](images/lwjgl-2-sabahlatan-300x169.jpg)
+<img src="images/lwjgl-1-sabahlatan-300x165.jpg" alt="LWJGL kütüphanesi ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/lwjgl-2-sabahlatan-300x169.jpg" alt="LWJGL kütüphanesi ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi
 
@@ -632,7 +767,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Limon Engine
 
-![Limon motoruyla yapılmış bir oyun](images/limonengine-1-sabahlatan-300x169.jpg) ![Limon motoruyla yapılmış bir oyun](images/limonengine-2-sabahlatan-300x169.jpg)
+<img src="images/limonengine-1-sabahlatan-300x169.jpg" alt="Limon motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/limonengine-2-sabahlatan-300x169.jpg" alt="Limon motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -652,7 +787,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Smile Game Builder
 
-![Smile Game Builder görseli](images/smile-game-builder-1-sabahlatan-300x161.jpg) ![Smile Game Builder ile yapılmış bir oyun](images/smile-game-builder-2-sabahlatan-300x170.jpg)
+<img src="images/smile-game-builder-1-sabahlatan-300x161.jpg" alt="Smile Game Builder görseli" loading="lazy" width="auto" height="220" /> <img src="images/smile-game-builder-2-sabahlatan-300x170.jpg" alt="Smile Game Builder ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Yapma Oyunu
 
@@ -670,7 +805,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### BABYLON.js
 
-![BABYLON.js kütüphanesiyle yapılmış bir oyun](images/babylonjs-1-sabahlatan-300x181.jpg) ![BABYLON.js kütüphanesiyle yapılmış bir oyun](images/babylonjs-2-sabahlatan-300x169.jpg)
+<img src="images/babylonjs-1-sabahlatan-300x181.jpg" alt="BABYLON.js kütüphanesiyle yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/babylonjs-2-sabahlatan-300x169.jpg" alt="BABYLON.js kütüphanesiyle yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi
 
@@ -690,7 +825,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Intersect Engine
 
-![Intersect motoruyla yapılmış bir oyun](images/intersect-1-sabahlatan.jpg) ![Intersect motoruyla yapılmış bir oyun](images/intersect-2-sabahlatan.jpg)
+<img src="images/intersect-1-sabahlatan.jpg" alt="Intersect motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/intersect-2-sabahlatan.jpg" alt="Intersect motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -708,7 +843,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Leadwerks Engine
 
-![Leadwerks motoruyla yapılmış bir oyun](images/leadwerks-1-sabahlatan-300x169.jpg) ![Leadwerks motoruyla yapılmış bir oyun](images/leadwerks-2-sabahlatan-300x169.jpg)
+<img src="images/leadwerks-1-sabahlatan-300x169.jpg" alt="Leadwerks motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/leadwerks-2-sabahlatan-300x169.jpg" alt="Leadwerks motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -728,7 +863,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 **M.U.G.E.N**
 
-![M.U.G.E.N ile yapılmış bir oyun](images/mugen-1-sabahlatan-300x226.jpg) ![M.U.G.E.N ile yapılmış bir oyun](images/mugen-2-sabahlatan.jpg)
+<img src="images/mugen-1-sabahlatan-300x226.jpg" alt="M.U.G.E.N ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/mugen-2-sabahlatan.jpg" alt="M.U.G.E.N ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Yapma Oyunu
 
@@ -744,7 +879,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### HaxePunk Engine
 
-![HaxePunk motoruyla yapılmış bir oyun](images/haxepunk-1-sabahlatan.jpg) ![HaxePunk motoruyla yapılmış bir oyun](images/haxepunk-2-sabahlatan.jpg)
+<img src="images/haxepunk-1-sabahlatan.jpg" alt="HaxePunk motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/haxepunk-2-sabahlatan.jpg" alt="HaxePunk motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -764,7 +899,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Irrlicht 3D Engine
 
-![Irrlicht 3D motoruyla yapılmış bir oyun](images/irrlicht-1-sabahlatan-300x169.jpg) ![Irrlicht 3D motoruyla yapılmış bir oyun](images/irrlicht-2-sabahlatan-300x169.jpg)
+<img src="images/irrlicht-1-sabahlatan-300x169.jpg" alt="Irrlicht 3D motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/irrlicht-2-sabahlatan-300x169.jpg" alt="Irrlicht 3D motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -784,7 +919,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### INSTEAD3 Engine
 
-![INSTEAD3 motoruyla yapılmış bir oyun](images/instead3-1-sabahlatan-300x235.jpg) ![INSTEAD3 motoruyla yapılmış bir oyun](images/instead3-2-sabahlatan-300x225.jpg)
+<img src="images/instead3-1-sabahlatan-300x235.jpg" alt="INSTEAD3 motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/instead3-2-sabahlatan-300x225.jpg" alt="INSTEAD3 motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -804,7 +939,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Lumix Engine
 
-![Lumix motorundan bir görsel](images/lumix-1-sabahlatan-300x169.jpg) ![Lumix motorundan bir görsel](images/lumix-2-sabahlatan-300x195.jpg)
+<img src="images/lumix-1-sabahlatan-300x169.jpg" alt="Lumix motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/lumix-2-sabahlatan-300x195.jpg" alt="Lumix motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -824,7 +959,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### 3D GameStudio A8
 
-![3D GameStudio A8 ile yapılmış bir oyun](images/3dgamestudioa8-1-sabahlatan-300x226.jpg) ![3D GameStudio A8 ile yapılmış bir oyun](images/3dgamestudioa8-2-sabahlatan-300x225.jpg)
+<img src="images/3dgamestudioa8-1-sabahlatan-300x226.jpg" alt="3D GameStudio A8 ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/3dgamestudioa8-2-sabahlatan-300x225.jpg" alt="3D GameStudio A8 ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -844,7 +979,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Run3 Engine
 
-![Run3 motoruyla yapılmış bir oyun](images/run3-1-sabahlatan-300x225.jpg) ![Run3 motoruyla yapılmış bir oyun](images/run3-2-sabahlatan-300x225.jpg)
+<img src="images/run3-1-sabahlatan-300x225.jpg" alt="Run3 motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/run3-2-sabahlatan-300x225.jpg" alt="Run3 motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -864,7 +999,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### PlayCanvas Engine
 
-![PlayCanvas motoruyla yapılmış bir oyun](images/playcanvas-1-sabahlatan-300x146.jpg) ![PlayCanvas motorundan bir görsel](images/playcanvas-2-sabahlatan-300x155.jpg)
+<img src="images/playcanvas-1-sabahlatan-300x146.jpg" alt="PlayCanvas motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/playcanvas-2-sabahlatan-300x155.jpg" alt="PlayCanvas motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -884,7 +1019,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### CryENGINE
 
-![CryENGINE motorundan bir görsel](images/cryengine-1-sabahlatan-300x225.jpg) ![CryENGINE motorundan bir görsel](images/cryengine-2-sabahlatan-300x225.jpg)
+<img src="images/cryengine-1-sabahlatan-300x225.jpg" alt="CryENGINE motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/cryengine-2-sabahlatan-300x225.jpg" alt="CryENGINE motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -904,7 +1039,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Eclipse Origins
 
-![Eclipse Origins motoruyla yapılmış bir oyun](images/eclipseorigins-1-sabahlatan-300x249.jpg) ![Eclipse Origins motorundan bir görsel](images/eclipseorigins-2-sabahlatan-300x232.jpg)
+<img src="images/eclipseorigins-1-sabahlatan-300x249.jpg" alt="Eclipse Origins motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/eclipseorigins-2-sabahlatan-300x232.jpg" alt="Eclipse Origins motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür: ** Oyun Motoru
 
@@ -920,7 +1055,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### LANCE
 
-![LANCE kütüphanesi ile yapılmış bir oyun](images/lance-1-sabahlatan-300x171.jpg) ![LANCE kütüphanesi ile yapılmış bir oyun](images/lance-2-sabahlatan-300x171.jpg)
+<img src="images/lance-1-sabahlatan-300x171.jpg" alt="LANCE kütüphanesi ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/lance-2-sabahlatan-300x171.jpg" alt="LANCE kütüphanesi ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi
 
@@ -940,7 +1075,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### BYOND (Dream Maker)
 
-![BYOND motoru ile yapılmış bir oyun](images/byond-1-sabahlatan-300x220.jpg) ![BYOND motoru ile yapılmış bir oyun](images/byond-2-sabahlatan-300x167.jpg)
+<img src="images/byond-1-sabahlatan-300x220.jpg" alt="BYOND motoru ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/byond-2-sabahlatan-300x167.jpg" alt="BYOND motoru ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -960,7 +1095,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Div GO Engine
 
-![Div GO motorundan görsel](images/divgo-1-sabahlatan-300x177.jpg) ![Div GO motorundan görsel](images/divgo-2-sabahlatan-300x177.jpg)
+<img src="images/divgo-1-sabahlatan-300x177.jpg" alt="Div GO motorundan görsel" loading="lazy" width="auto" height="220" /> <img src="images/divgo-2-sabahlatan-300x177.jpg" alt="Div GO motorundan görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -980,7 +1115,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Kivy
 
-![Kivy kütüphanesi ile geliştirlmiş bir oyun](images/kivy-1-sabahlatan-300x128.jpg) ![Kivy kütüphanesi ile geliştirlmiş bir oyun](images/kivy-2-sabahlatan-300x128.jpg)
+<img src="images/kivy-1-sabahlatan-300x128.jpg" alt="Kivy kütüphanesi ile geliştirlmiş bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/kivy-2-sabahlatan-300x128.jpg" alt="Kivy kütüphanesi ile geliştirlmiş bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi
 
@@ -1000,7 +1135,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### IMPACT JS
 
-![IMPACT JS motoru ile geliştirilmiş bir oyundur](images/impactjs-1-sabahlatan-300x169.jpg) ![IMPACT JS motoru ile geliştirilmiş bir oyundur](images/impactjs-2-sabahlatan-300x158.jpg)
+<img src="images/impactjs-1-sabahlatan-300x169.jpg" alt="IMPACT JS motoru ile geliştirilmiş bir oyundur" loading="lazy" width="auto" height="220" /> <img src="images/impactjs-2-sabahlatan-300x158.jpg" alt="IMPACT JS motoru ile geliştirilmiş bir oyundur" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1020,7 +1155,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Xenko Engine
 
-![Xenko motorundan bir görsel](images/xenko-1-sabahlatan-300x162.jpg) ![Xenko motoruyla yapılmış bir oyun](images/xenko-2-sabahlatan-300x188.jpg)
+<img src="images/xenko-1-sabahlatan-300x162.jpg" alt="Xenko motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/xenko-2-sabahlatan-300x188.jpg" alt="Xenko motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1040,7 +1175,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### DarkBASIC Professional Engine
 
-![DarkBASIC Professional motorundan bir görsel](images/darkbasicpro-1-sabahlatan-300x169.jpg) ![DarkBASIC Professional motoruyla yapılmış bir oyun](images/darkbasicpro-2-sabahlatan-300x225.jpg)
+<img src="images/darkbasicpro-1-sabahlatan-300x169.jpg" alt="DarkBASIC Professional motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/darkbasicpro-2-sabahlatan-300x225.jpg" alt="DarkBASIC Professional motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1060,7 +1195,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### NeoAxis Engine
 
-![NeoAxis motorundan bir görsel](images/neoaxis-1-sabahlatan-300x169.jpg) ![NeoAxis motorundan bir görsel](images/neoaxis-2-sabahlatan-300x169.jpg)
+<img src="images/neoaxis-1-sabahlatan-300x169.jpg" alt="NeoAxis motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/neoaxis-2-sabahlatan-300x169.jpg" alt="NeoAxis motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1080,7 +1215,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Ambrose3D Engine
 
-![Ambrose3D motoruyla yapılmış bir oyundur](images/ambrosse3d-1-sabahlatan-300x235.jpg)
+<img src="images/ambrosse3d-1-sabahlatan-300x235.jpg" alt="Ambrose3D motoruyla yapılmış bir oyundur" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1098,7 +1233,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### CorEngine
 
-![CorEngine motorundan bir görsel](images/corengine-1-sabahlatan-300x225.jpg) ![CorEngine motoruyla yapılmış bir oyun](images/corengine-2-sabahlatan-300x130.jpg)
+<img src="images/corengine-1-sabahlatan-300x225.jpg" alt="CorEngine motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/corengine-2-sabahlatan-300x130.jpg" alt="CorEngine motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1118,7 +1253,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### GamePlay 3D
 
-![GamePlay 3D kütüphanesiyle geliştirilen bir oyun](images/gameplay3d-1-sabahlatan-300x176.jpg) ![GamePlay 3D kütüphanesiyle geliştirilen bir oyun](images/gameplay3d-2-sabahlatan-300x176.jpg)
+<img src="images/gameplay3d-1-sabahlatan-300x176.jpg" alt="GamePlay 3D kütüphanesiyle geliştirilen bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/gameplay3d-2-sabahlatan-300x176.jpg" alt="GamePlay 3D kütüphanesiyle geliştirilen bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi
 
@@ -1138,7 +1273,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Adventure Game Engine
 
-![Adventure Game Engine motorundan bir görsel](images/age-1-sabahlatan-300x190.jpg) ![Adventure Game Engine motorundan bir görsel](images/age-2-sabahlatan-300x187.jpg)
+<img src="images/age-1-sabahlatan-300x190.jpg" alt="Adventure Game Engine motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/age-2-sabahlatan-300x187.jpg" alt="Adventure Game Engine motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1158,7 +1293,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Flowlab Engine
 
-![Flowlab motorundan bir görsel](images/flowlab-1-sabahlatan-300x210.jpg) ![Flowlab motorundan bir görsel](images/flowlab-2-sabahlatan-300x211.jpg)
+<img src="images/flowlab-1-sabahlatan-300x210.jpg" alt="Flowlab motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/flowlab-2-sabahlatan-300x211.jpg" alt="Flowlab motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1178,7 +1313,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Hero Engine
 
-![Hero Engine motorundan bir görsel](images/heroengine-1-sabahlatan-300x195.jpg) ![Hero Engine motorundan bir görsel](images/heroengine-2-sabahlatan-300x195.jpg)
+<img src="images/heroengine-1-sabahlatan-300x195.jpg" alt="Hero Engine motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/heroengine-2-sabahlatan-300x195.jpg" alt="Hero Engine motorundan bir görsel" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1198,7 +1333,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### jMonkey Engine
 
-![jMonkey Engine motorundan bir görsel](images/jmonkey-1-sabahlatan-300x169.jpg) ![jMonkey Engine motoruyla yapılmış bir oyun](images/jmonkey-2-sabahlatan-300x173.jpg)
+<img src="images/jmonkey-1-sabahlatan-300x169.jpg" alt="jMonkey Engine motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/jmonkey-2-sabahlatan-300x173.jpg" alt="jMonkey Engine motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1218,7 +1353,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Ogre Engine
 
-![Ogre Engine motoruyla yapılmış bir oyun](images/ogre-1-sabahlatan-300x169.jpg) ![Ogre Engine motoruyla yapılmış bir oyun](images/ogre-2-sabahlatan-300x188.jpg)
+<img src="images/ogre-1-sabahlatan-300x169.jpg" alt="Ogre Engine motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/ogre-2-sabahlatan-300x188.jpg" alt="Ogre Engine motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** 3D Grafik Motoru
 
@@ -1238,7 +1373,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Panda3D Engine
 
-![Panda3D motoruyla yapılmış bir oyun](images/panda3d-1-sabahlatan-300x169.jpg) ![Panda3D motoruyla yapılmış bir oyun](images/panda3d-2-sabahlatan-300x225.jpg)
+<img src="images/panda3d-1-sabahlatan-300x169.jpg" alt="Panda3D motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/panda3d-2-sabahlatan-300x225.jpg" alt="Panda3D motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1258,7 +1393,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Retribution Engine
 
-![Retribution motorundan bir görsel](images/retribution-1-sabahlatan.jpg) ![Retribution motoruyla yapılmış bir oyun](images/retribution-2-sabahlatan.jpg)
+<img src="images/retribution-1-sabahlatan.jpg" alt="Retribution motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/retribution-2-sabahlatan.jpg" alt="Retribution motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:**  Oyun Motoru
 
@@ -1278,7 +1413,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Adventure Game Studio (AGS)
 
-![Adventure Game Studio ile yapılmış bir oyun](images/adventure-game-studio-1-sabahlatan-300x169.jpg) ![Adventure Game Studio ile yapılmış bir oyun](images/adventure-game-studio-2-sabahlatan-300x188.jpg)
+<img src="images/adventure-game-studio-1-sabahlatan-300x169.jpg" alt="Adventure Game Studio ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/adventure-game-studio-2-sabahlatan-300x188.jpg" alt="Adventure Game Studio ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Yapma Oyunu
 
@@ -1298,7 +1433,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Game Maker (Game Maker Studio)
 
-![Game Maker motorundan bir görsel](images/gamemaker-1-sabahlatan-300x187.jpg) ![Game Maker motoruyla yapılmış bir oyun](images/gamemaker-2-sabahlatan-300x225.jpg)
+<img src="images/gamemaker-1-sabahlatan-300x187.jpg" alt="Game Maker motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/gamemaker-2-sabahlatan-300x225.jpg" alt="Game Maker motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1318,7 +1453,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Unity3D Engine
 
-![Unity3D motoruyla yapılmış bir oyun](images/unity3d-1-sabahlatan-300x137.jpg) ![Unity3D motoruyla yapılmış bir oyun](images/unity3d-2-sabahlatan-300x169.jpg)
+<img src="images/unity3d-1-sabahlatan-300x137.jpg" alt="Unity3D motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/unity3d-2-sabahlatan-300x169.jpg" alt="Unity3D motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1338,7 +1473,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Unreal Engine 4
 
-![Unreal Engine 4 motoruyla yapılmış bir oyun](images/unrealengine-1-sabahlatan-300x169.jpg) ![Unreal Engine 4 motoruyla yapılmış bir oyun](images/unrealengine-2-sabahlatan-300x169.jpg)
+<img src="images/unrealengine-1-sabahlatan-300x169.jpg" alt="Unreal Engine 4 motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/unrealengine-2-sabahlatan-300x169.jpg" alt="Unreal Engine 4 motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1358,7 +1493,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Godot Engine
 
-![Godot Engine motoruyla yapılmış bir oyun](images/godot-1-sabahlatan-300x158.jpg) ![Godot Engine motoruyla yapılmış bir oyun](images/godot-2-sabahlatan-300x158.jpg)
+<img src="images/godot-1-sabahlatan-300x158.jpg" alt="Godot Engine motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/godot-2-sabahlatan-300x158.jpg" alt="Godot Engine motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1378,7 +1513,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### FPS Creator (FPSC)
 
-![FPS Creator ile yapılmış bir oyun](images/fpscreator-1-sabahlatan-300x225.jpg) ![FPS Creator ile yapılmış bir oyun](images/fpscreator-2-sabahlatan-300x225.jpg)
+<img src="images/fpscreator-1-sabahlatan-300x225.jpg" alt="FPS Creator ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/fpscreator-2-sabahlatan-300x225.jpg" alt="FPS Creator ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Yapma Oyunu
 
@@ -1398,7 +1533,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### Source SDK
 
-![Source SDK motorundan bir görsel](images/sourcesdk-1-sabahlatan-300x266.jpg) ![Source SDK motoruyla yapılmış bir oyun](images/sourcesdk-2-sabahlatan-300x225.jpg)
+<img src="images/sourcesdk-1-sabahlatan-300x266.jpg" alt="Source SDK motorundan bir görsel" loading="lazy" width="auto" height="220" /> <img src="images/sourcesdk-2-sabahlatan-300x225.jpg" alt="Source SDK motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1418,7 +1553,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### S2ENGINE
 
-![S2ENGINE motoruyla yapılan bir oyun](images/s2engine-1-sabahlatan-300x158.jpg) ![S2ENGINE motoruyla yapılan bir oyun](images/s2engine-2-sabahlatan-300x151.jpg)
+<img src="images/s2engine-1-sabahlatan-300x158.jpg" alt="S2ENGINE motoruyla yapılan bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/s2engine-2-sabahlatan-300x151.jpg" alt="S2ENGINE motoruyla yapılan bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1438,7 +1573,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### libGDX
 
-![libGDX kütüphanesi ile geliştirilmiş bir oyun](images/libgdx-1-sabahlatan-300x180.jpg) ![libGDX kütüphanesi ile geliştirilmiş bir oyun](images/libgdx-2-sabahlatan-300x147.jpg)
+<img src="images/libgdx-1-sabahlatan-300x180.jpg" alt="libGDX kütüphanesi ile geliştirilmiş bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/libgdx-2-sabahlatan-300x147.jpg" alt="libGDX kütüphanesi ile geliştirilmiş bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi
 
@@ -1458,7 +1593,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### GameGuru
 
-![GameGuru ile yapılmış bir oyun](images/gameguru-1-sabahlatan-300x169.jpg) ![GameGuru ile yapılmış bir oyun](images/gameguru-2-sabahlatan-300x169.jpg)
+<img src="images/gameguru-1-sabahlatan-300x169.jpg" alt="GameGuru ile yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/gameguru-2-sabahlatan-300x169.jpg" alt="GameGuru ile yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Yapma Oyunu
 
@@ -1478,7 +1613,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### AppGameKit Engine
 
-![AppGameKit motoruyla yapılmış bir oyun](images/appgamekit-1-sabahlatan-300x169.jpg) ![AppGameKit motoruyla yapılmış bir oyun](images/appgamekit-2-sabahlatan-300x169.jpg)
+<img src="images/appgamekit-1-sabahlatan-300x169.jpg" alt="AppGameKit motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/appgamekit-2-sabahlatan-300x169.jpg" alt="AppGameKit motoruyla yapılmış bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Oyun Motoru
 
@@ -1498,7 +1633,7 @@ Arşivi okumadan önce, burada geçen bazı kavramlar hakkında kısa bilgiler v
 
 #### MonoGame
 
-![MonoGame kütüphanesi ile geliştirilmiş bir oyun](images/monogame-1-sabahlatan-300x169.jpg) ![MonoGame kütüphanesi ile geliştirilmiş bir oyun](images/monogame-2-sabahlatan-300x169.jpg)
+<img src="images/monogame-1-sabahlatan-300x169.jpg" alt="MonoGame kütüphanesi ile geliştirilmiş bir oyun" loading="lazy" width="auto" height="220" /> <img src="images/monogame-2-sabahlatan-300x169.jpg" alt="MonoGame kütüphanesi ile geliştirilmiş bir oyun" loading="lazy" width="auto" height="220" />
 
 **Tür:** Geliştirme Kütüphanesi
 
