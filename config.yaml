@@ -12,3 +12,4 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+disqusShortname: sabahlatan-com
