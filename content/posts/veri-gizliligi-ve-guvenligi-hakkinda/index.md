@@ -57,7 +57,9 @@ Son örnek olarak Google’dan bahsedeceğim. 2019 yılında Fransız Veri Korum
 
 Veri Güvenliği, temel olarak veri tabanını, içerdiği veriyi, yönetim sistemini, fiziksel veya sanal sunucu/donanımı ve veri tabanına erişim sağlayan uygulamaları kapsayan güvenlik kontrolleri terimidir.
 
-### Genel Tehdit ve Kontroller![Common Threats](images/sabahlatan-cyber-shield-300x147.jpg)
+### Genel Tehdit ve Kontroller
+
+![Common Threats](images/sabahlatan-cyber-shield-300x147.jpg)
 
 3 genel tehdit tipi vardır:
 

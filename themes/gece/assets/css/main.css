@@ -99,13 +99,14 @@ th {
 }
 
 .btn {
-	background-color: #111;
-	border-radius: 3px;
+	background-color: #222;
+	border-radius: 5px;
+	font-size: .8rem;
 }
 
 .btn:hover {
 	color: #fff;
-	background-color: #000;
+	background-color: #111;
 }
 
 /* Header */
@@ -348,6 +349,10 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 	width: 100%;
 }
 
+.card .entry__title {
+	font-size: 24px;
+}
+
 .card:first-child {
 	border-top: 1px solid #333;
 }
@@ -395,7 +400,8 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 
 /* Entry */
 .title-excerpt {
-	font-size: 1.25rem;
+	font-size: 24px;
+	font-weight: normal;
 }
 
 .entry__featured {
@@ -420,6 +426,40 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 	font-size: .875rem;
 	font-style: normal;
 	color: #888;
+}
+
+.featured_image {
+	width: 100%;
+	height: 480px;
+	background-repeat: repeat-y;
+	background-size: cover;
+	position: relative;
+	margin: 0 0 20px 0;
+	background-position: center bottom;
+	transition: 700ms all ease-in-out;
+}
+
+.featured_image > h1 {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	font-size: 48px;
+	font-weight: normal;
+	color: #FFEF5B;
+	background-color: #0009;
+	margin: 0;
+	padding: 10px 20px;
+}
+
+.featured_image:hover {
+	background-position: center top;
+}
+
+.entry__title {
+	font-weight: normal;
+	color: #FFEF5B;
+	font-size: 48px;
 }
 
 .entry__content {
@@ -734,6 +774,14 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 @media screen and (min-width: 480px) {
 	.footer {
 		margin: .3125rem .3125rem 0;
+	}
+	
+	.featured_image > h1 {
+		font-size: 36px;
+	}
+
+	.entry__title {
+		font-size: 36px;
 	}
 }
 

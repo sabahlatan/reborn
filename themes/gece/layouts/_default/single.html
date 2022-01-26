@@ -5,7 +5,13 @@
 			<article class="entry">
 				{{- partial "entry/featured.html" (dict "page" . "IsSingle" true) }}
 				{{- partial "entry/meta.html" (dict "page" . "class" "mb") }}
-				<h1 class="entry__title">{{ .Title }}</h1>
+				{{ if (isset $.Params "thumbnail") }}
+					<div class="featured_image" style="background-image: url('images/{{ $.Params.thumbnail }}');">
+						<h1 class="entry__title">{{ .Title }}</h1>
+					</div>
+				{{ else }}
+					<h1 class="entry__title">{{ .Title }}</h1>
+				{{ end }}
 				{{- partial "entry/toc.html" . }}
 				<div class="entry__content">{{ .Content }}</div>
 				{{ if or (.Param "share") (isset $.Params "tags") }}
