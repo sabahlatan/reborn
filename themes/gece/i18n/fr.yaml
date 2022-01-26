@@ -22,8 +22,7 @@
 
 # Footer
 - id: footer_credits
-  translation: "Propulsé par <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a> et le theme \
-  <a href=\"https://github.com/vimux/binario\" rel=\"nofollow noopener\" target=\"_blank\">Binario</a>."
+  translation: "Kaynak gösterilerek alıntı yapılabilir."
 
 # "No posts" empty state
 - id: empty_title

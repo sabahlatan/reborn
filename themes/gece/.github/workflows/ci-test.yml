@@ -57,4 +57,4 @@ jobs:
 
       - name: Build with Hugo ${{ matrix.hugo }}
         working-directory: exampleSite
-        run: HUGO_THEME="Binario" hugo --themesDir ../.. --i18n-warnings -v
+        run: HUGO_THEME="Gece" hugo --themesDir ../.. --i18n-warnings -v

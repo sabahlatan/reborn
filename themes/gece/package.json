@@ -1,5 +1,5 @@
 {
-  "name": "binario",
+  "name": "gece",
   "version": "1.0.0",
   "description": "Responsive card-based & code-light Hugo theme",
   "license": "MIT",
@@ -63,13 +63,5 @@
     "fix:js": "eslint static/js/*.js --fix",
     "fix": "npm run fix:prefixes && npm run fix:css && npm run fix:js",
     "test": "npm run lint"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Vimux/Binario.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Vimux/Binario/issues"
-  },
-  "homepage": "https://github.com/Vimux/Binario"
+  }
 }

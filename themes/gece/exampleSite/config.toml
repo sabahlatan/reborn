@@ -1,8 +1,8 @@
-baseURL = "https://example.com/"
-title = "Binario"
+baseURL = "https://sabahlatan.com/"
+title = "Gece"
 languageCode = "en-us"
 paginate = 10
-theme = "binario"
+theme = "gece"
 
 [Params]
   description = "Responsive card-based & code-light Hugo theme"

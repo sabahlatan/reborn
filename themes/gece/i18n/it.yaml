@@ -22,8 +22,7 @@
 
 # Footer
 - id: footer_credits
-  translation: "Offerto da <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a> e \
-  il tema <a href=\"https://github.com/vimux/binario\" rel=\"nofollow noopener\" target=\"_blank\">Binario</a>."
+  translation: "Kaynak gösterilerek alıntı yapılabilir."
 
 # "No posts" empty state
 - id: empty_title

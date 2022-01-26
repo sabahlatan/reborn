@@ -112,20 +112,14 @@ th {
 .header {
 	margin: 0 0 .3125rem;
 	overflow: auto;
-	background-color: #2a2a2a;
-	border-color: #333;
-	border-style: solid;
-	border-width: 0 0 1px;
+	display: flex;
+	justify-content: center;
 }
 
 .block {
 	padding: .875rem;
 	margin: .1875rem 0;
 	color: #eee;
-	background-color: #2a2a2a;
-	border-color: #333;
-	border-style: solid;
-	border-width: 1px 0;
 }
 
 @media screen and (min-width: 480px) {
@@ -142,18 +136,11 @@ th {
 
 .logo {
 	display: inline-block;
-	padding: .625rem .875rem;
+	padding: 0;
 	font-size: 16px;
 	font-weight: 700;
-}
-
-.logo:hover {
-	color: #f8ae00;
-	text-decoration: none;
-}
-
-.js .logo {
-	float: left;
+	overflow: visible;
+	margin: 40px 0 30px 0;
 }
 
 /* Menu */
@@ -370,7 +357,10 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 	flex-direction: column;
 	width: 100%;
 	margin: 0;
-	border-width: 0 0 1px;
+	background-color: #2a2a2a;
+	border-color: #333;
+	border-style: solid;
+	border-width: 1px 0;
 }
 
 @media screen and (min-width: 480px) {
@@ -441,6 +431,10 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 
 .entry__content p:last-child {
 	margin-bottom: 0;
+}
+
+.entry__content img {
+	background-color: #fff;
 }
 
 .entry__meta {
@@ -742,3 +736,5 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 		margin: .3125rem .3125rem 0;
 	}
 }
+
+
