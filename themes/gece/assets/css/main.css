@@ -468,7 +468,7 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	font-size: 48px;
+	font-size: 32px;
 	font-weight: normal;
 	color: #FFEF5B;
 	background-color: #0009;
@@ -801,11 +801,11 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 	}
 	
 	.featured_image > h1 {
-		font-size: 36px;
+		font-size: 48px;
 	}
 
 	.entry__title {
-		font-size: 36px;
+		font-size: 48px;
 	}
 }
 
