@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Hong Kong'ta DNA Analizi ile Çöp Atanlar Tespit Ediliyor"
 date: "2015-04-28"
 categories: 

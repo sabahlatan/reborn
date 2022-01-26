@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Hayatı Kolaylaştıran 5 Android Uygulaması"
 date: "2015-04-20"
 categories: 

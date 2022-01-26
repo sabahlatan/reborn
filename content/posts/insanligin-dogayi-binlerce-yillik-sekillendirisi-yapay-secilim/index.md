@@ -1,4 +1,5 @@
 ---
+type: post
 title: "İnsanlığın Doğayı Binlerce Yıllık Şekillendirme Süreci: Yapay Seçilim"
 date: "2015-05-06"
 categories: 

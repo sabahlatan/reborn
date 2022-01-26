@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Deus Ex Machina"
 date: "2016-10-27"
 categories: 

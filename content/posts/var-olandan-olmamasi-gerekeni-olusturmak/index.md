@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Var Olandan Olmaması Gerekeni Oluşturmak"
 date: "2015-11-23"
 categories: 

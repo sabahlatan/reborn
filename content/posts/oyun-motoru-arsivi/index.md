@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Oyun Motoru Arşivi"
 date: "2020-04-18"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Holodomor (Ukrayna Katliamı)"
 date: "2015-04-11"
 categories: 

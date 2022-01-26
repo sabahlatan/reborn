@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Mario'nun Bıyıkları Neden Böyle Tasarlandı?"
 date: "2020-04-07"
 categories: 

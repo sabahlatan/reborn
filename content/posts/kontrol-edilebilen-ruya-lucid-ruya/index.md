@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Kontrol Edilebilen Rüya: Lucid Rüya"
 date: "2015-04-19"
 categories: 

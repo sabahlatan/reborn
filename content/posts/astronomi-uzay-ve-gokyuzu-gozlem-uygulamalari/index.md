@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Astronomi, Uzay ve Gökyüzü Gözlem Uygulamaları"
 date: "2016-10-27"
 categories: 

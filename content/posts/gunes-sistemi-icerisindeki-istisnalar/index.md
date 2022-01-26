@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Güneş Sistemi İçerisindeki İstisnalar"
 date: "2018-08-28"
 categories: 

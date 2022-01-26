@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Diğer Gezegenleri Dünyalaştırmak: Terraforming"
 date: "2015-04-12"
 categories: 
@@ -18,7 +19,9 @@ thumbnail: "outer_space_planets_earth_terraforming_mars_atmosphere_planet_deskto
 
 Petrolün bulunup işlenmeye başlanması, motorlu taşıtların icadı ve Sanayi Devrimi’nden sonra Dünya hızlı bir şekilde kirlenmeye başladı. Fabrikaların kimyasal atıkları, ormanların tahrip edilmesi, fabrika ve motorlu taşıtların atmosfere saldıkları karbondioksit Dünyanın dengesini bozmaya yetmiştir. Su kirliliği, hava kirliliği atmosferdeki ozon tabakasının zayıflaması (Ozon tabakası Güneşten gelen ultraviyole ışınlarını tutan tabaka) zararlarını göstermeye başladı. Küresel iklim değişiklikleri, asit yağmurları, kuruyan göller, nesli tükenen canlılar, kuraklık ve doğal felaketler bize yakın zamanda Dünyanın yaşanılamayacak bir yer olacağını gösteriyor. Bütün bunlar göz önüne alındığında bir soru sormamız gerekiyor. Dünya’yı terk etmek zorunda mı kalacağız? Bunun üzerine senaryolar üreten bilim insanları çalışmalara başladılar diyebiliriz. Bilim insanları Terraforming yani Dünyalaştırma fikrini geliştirdiler.
 
-#### ![Terraforming](images/Terraforming-TF04-JP-VG-300x300.jpg)Terraforming Nedir?
+#### ![Terraforming](images/Terraforming-TF04-JP-VG-300x300.jpg)
+
+Terraforming Nedir?
 
 Terraforming bir gezegeni ya da uydusunun koşullarını Dünya koşullarına benzetme, insanların yaşayabileceği bir hale getirmektir. Dünyalaştırmaya aday gezegenler Mars, Venüs, Jüpiter’in uyduları Ganymede, Callisto, Europa ve Satürn’ün uydusu olan Titan olarak düşünülmektedir. Bilim insanları dünyalaştırmak adına Mars’ı üzerinde çalışmalar yapmaktadır. Mars’ın kutuplarında karbondioksit buzulları olduğu düşülmektedir. Mars’ın kutuplarının hidrojen bombasıyla patlatılacak, sera etkisiyle sıcaklıklarda yükselme ve su kaynağında artış sağlanabilecektir. Mars’ta koloni kurma projeleri başlamış durumdadır. “Mars One” adlı projesi ile 2025 yılında Mars’ta bir koloni kurulması planlanıyor.
 

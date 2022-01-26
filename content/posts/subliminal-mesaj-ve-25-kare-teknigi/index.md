@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Subliminal Mesaj ve 25.Kare Tekniği"
 date: "2015-04-27"
 categories: 

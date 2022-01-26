@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Neden Para Basarak Ekonomi Düzeltilemez"
 date: "2018-08-20"
 categories: 

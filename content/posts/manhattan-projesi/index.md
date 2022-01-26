@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Manhattan Projesi"
 date: "2015-05-19"
 categories: 

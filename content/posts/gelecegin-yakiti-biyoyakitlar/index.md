@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Geleceğin Yakıtı Biyoyakıtlar"
 date: "2019-03-04"
 categories: 

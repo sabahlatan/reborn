@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Kısmi Rezerv Sistemi"
 date: "2018-09-05"
 categories: 

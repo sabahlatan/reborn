@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Büyük Set Resifi"
 date: "2015-11-25"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Buzdolabı Nasıl Soğutur"
 date: "2016-06-25"
 categories: 

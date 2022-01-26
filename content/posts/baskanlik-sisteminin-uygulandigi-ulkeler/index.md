@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Başkanlık Sisteminin Uygulandığı Ülkeler"
 date: "2015-04-08"
 categories: 

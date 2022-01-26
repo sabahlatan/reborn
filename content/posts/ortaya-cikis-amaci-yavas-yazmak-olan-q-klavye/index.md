@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Q Klavye ve Tuhaf Ortaya Çıkış Hikayesi"
 date: "2015-05-25"
 categories: 

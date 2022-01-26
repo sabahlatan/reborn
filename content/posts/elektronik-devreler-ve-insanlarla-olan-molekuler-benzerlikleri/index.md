@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Moleküler olarak İnsan ve Elektronik Devre Benzerliği"
 date: "2015-04-15"
 categories: 

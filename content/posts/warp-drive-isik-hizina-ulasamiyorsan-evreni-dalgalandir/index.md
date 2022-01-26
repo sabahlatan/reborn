@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Warp Drive: Işık Hızına Ulaşamıyorsan Evreni Dalgalandır"
 date: "2016-10-25"
 categories: 

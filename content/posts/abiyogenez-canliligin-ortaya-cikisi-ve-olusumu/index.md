@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Abiyogenez, Canlılığın Ortaya Çıkışı ve Oluşum Süreçleri"
 date: "2015-05-18"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Nötron Yıldızı Nedir?"
 date: "2015-04-18"
 categories: 

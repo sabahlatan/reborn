@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Duyuları ve Bilinci Aldatmak"
 date: "2017-12-02"
 categories: 

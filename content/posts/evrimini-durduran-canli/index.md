@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Evrimini Durduran Canlı"
 date: "2018-08-10"
 categories: 

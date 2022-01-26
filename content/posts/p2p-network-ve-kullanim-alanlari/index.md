@@ -1,4 +1,5 @@
 ---
+type: post
 title: "P2P Network Yapısı ve Kullanım Alanları"
 date: "2020-06-28"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Gözle Görülebilen Bakteri"
 date: "2018-08-16"
 categories: 

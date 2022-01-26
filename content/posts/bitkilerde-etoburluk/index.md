@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Bitkilerde Etoburluk"
 date: "2015-05-20"
 categories: 

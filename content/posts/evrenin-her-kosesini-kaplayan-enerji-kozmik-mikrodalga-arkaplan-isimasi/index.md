@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Evreni Saran Enerji: Kozmik Mikrodalga Arkaplan Işıması"
 date: "2015-04-17"
 categories: 

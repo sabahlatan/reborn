@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Nükleer Enerji Santrali Nedir? Yararları ve Zararları"
 date: "2015-04-25"
 categories: 

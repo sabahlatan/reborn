@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Kuantum Fiziği Nedir, Kuantum Fiziğine Giriş"
 date: "2015-11-26"
 categories: 

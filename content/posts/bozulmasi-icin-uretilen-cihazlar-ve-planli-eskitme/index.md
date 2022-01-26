@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Bozulması İçin Üretilen Cihazlar ve Planlı Eskitme"
 date: "2015-04-23"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Ateş: Dünya'nın Özel Yeteneği"
 date: "2016-12-15"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Retro Nedir? Retro Hakkında Bir Yazı"
 date: "2018-04-07"
 categories: 

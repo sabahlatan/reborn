@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Altın Oran Hakkında"
 date: "2019-04-17"
 categories: 

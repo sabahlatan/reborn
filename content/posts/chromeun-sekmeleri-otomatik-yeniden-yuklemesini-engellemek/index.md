@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Chrome'da Arkada Kalan Sekmelerin Donmasını Engellemek"
 date: "2018-08-24"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Link Yollayan, Takip Eden Hesapları Temizlemek"
 date: "2015-11-23"
 categories: 

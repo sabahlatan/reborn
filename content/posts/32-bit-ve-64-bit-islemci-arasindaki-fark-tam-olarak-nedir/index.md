@@ -1,4 +1,5 @@
 ---
+type: post
 title: "32-bit ve 64-bit İşlemci Arasındaki Fark Tam Olarak Nedir"
 date: "2018-05-11"
 categories: 

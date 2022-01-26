@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Şah - Mat"
 date: "2017-04-01"
 categories: 

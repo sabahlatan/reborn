@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Elektriği Anlamak"
 date: "2018-08-17"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Evrim Teorisine Giriş"
 date: "2016-10-06"
 categories: 

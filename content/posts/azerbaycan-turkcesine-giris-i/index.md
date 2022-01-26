@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Azerbaycan Türkçesine Giriş I"
 date: "2017-01-29"
 categories: 

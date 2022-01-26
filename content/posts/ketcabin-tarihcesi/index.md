@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Ketçap Nasıl Balık Salamurasından Domatesli Sosa Dönüştü"
 date: "2016-10-31"
 categories: 

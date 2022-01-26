@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Dünya Dışı Yaşam ve Fermi Paradoksu"
 date: "2015-05-23"
 categories: 

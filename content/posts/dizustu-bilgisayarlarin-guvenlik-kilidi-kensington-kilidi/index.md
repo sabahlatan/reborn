@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Kensington Kilidi Nedir?"
 date: "2015-05-02"
 categories: 

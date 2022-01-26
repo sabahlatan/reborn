@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Plüton'un İlk Renkli Fotoğrafları Yayınlandı"
 date: "2015-04-26"
 categories: 

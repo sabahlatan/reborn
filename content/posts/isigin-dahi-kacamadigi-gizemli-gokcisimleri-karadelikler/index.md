@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Işığın Dahi Kaçamadığı Gökcismi: Karadelik"
 date: "2015-04-09"
 categories: 

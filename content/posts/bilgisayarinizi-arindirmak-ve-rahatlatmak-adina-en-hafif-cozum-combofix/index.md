@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Eski Windows'unuzu Arındırmak Adına En Hafif Çözüm: ComboFix"
 date: "2015-04-07"
 categories: 

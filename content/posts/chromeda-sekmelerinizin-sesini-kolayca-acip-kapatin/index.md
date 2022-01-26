@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Chrome'da Sekmelerinizin Sesini Kolayca Açıp Kapatın"
 date: "2015-04-25"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Güneş Sisteminin En Tırt Gezegeni: Uranüs"
 date: "2017-02-17"
 categories: 

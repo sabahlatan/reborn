@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Kuasar Nedir, Ne Değildir II"
 date: "2015-04-14"
 categories: 

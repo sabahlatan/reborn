@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Ay ile İlgili Enteresan Gerçekler"
 date: "2015-05-21"
 categories: 

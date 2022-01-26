@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Nokia'nın Bilinmeyenleri"
 date: "2017-03-10"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Agar.io ve Püf Noktaları"
 date: "2015-05-20"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Android Devasa Thumbnail Sorununun Çözümü"
 date: "2016-10-08"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Kan: Vücudu Bir Bütün Haline Getiren Yapı"
 date: "2017-03-28"
 categories: 

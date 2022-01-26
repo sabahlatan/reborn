@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Agar.io Kavramlarının Bilimsel Kökeni"
 date: "2015-09-24"
 categories: 

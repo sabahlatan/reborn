@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Kuantum Bilgisayarı ve Qbit"
 date: "2016-04-24"
 categories: 

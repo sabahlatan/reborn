@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Silinen Dosyalar Neden Aslında Yok Olmaz"
 date: "2020-05-16"
 categories: 

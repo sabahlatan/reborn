@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Gökcisimlerinin Çekirdekleri"
 date: "2018-08-15"
 categories: 

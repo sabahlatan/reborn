@@ -1,4 +1,5 @@
 ---
+type: post
 title: "En İyi 10 Bilim Kurgu Filmi"
 date: "2015-04-07"
 categories: 
@@ -39,7 +40,7 @@ Film, Fizikçi Kip S. Thorne'nun evrendeki 'Solucan Delikleri' teorisinden ilham
 
 Güney Kore'den ortaya çıkan ve yayılan bir virüs insanları hızla ölüler haline getirmektedir. Gerry Lane ve ailesi araçlarıyla trafikte sıkışıp kaldığı sırada hızla yaklaşan tehlikenin farkına varmıştır. Ailesini güvenli bir yere yerleştiren Gerry'nin insanlığı kurtarmak için dünyayı dolaşması gerekmektedir. Zamana karşı bir yarış ve hastalığa karşı sıradışı bir savaşı anlatan bir film.
 
-![](images/world-war-z-sabahlatan.jpg)![]
+![](images/world-war-z-sabahlatan.jpg)
 
  
 

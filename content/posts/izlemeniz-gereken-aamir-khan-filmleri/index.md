@@ -1,4 +1,5 @@
 ---
+type: post
 title: "İzlemeniz Gereken Aamir Khan Filmleri"
 date: "2015-04-06"
 categories: 
@@ -25,7 +26,7 @@ thumbnail: "Aamir-Khan-Wallpapers-Smiling.png"
 
 P.K. ayrı bir dünyadan gelen ve evine gitmenin yolunu arayan biridir. Dünya serüveninde insanlara sorduğu sorularla bir anda bütün dikkatleri üzerine çeker. Bu sorular çocukça ve masum sorulardır ancak cevabı oldukça zordur. Felsefenin sınırlarını zorlayan kişiler dahi cevap verememektedir. Muzipliği ve sorduğu sorularla kendine iyi dostlar edinir. Kahkaha, dram ve bir aşk masalını bir arada yaşatan oldukça güzel bir filmdir.
 
-**![Peekay Film Kapağı](images/peekay-amir-khan-filmi-233x300.jpg)**
+![Peekay Film Kapağı](images/peekay-amir-khan-filmi-233x300.jpg)
 
 ### **Dhoom 3**
 
@@ -89,7 +90,7 @@ Ishaan oldukça kötü, tembel ve sorumsuz bir öğrencidir. Kardeşi Yohaan ise
 
 Aşk konusunda birbirinden oldukça farklı 3 arkadaş... 3 arkadaş birbirine oldukça bağlıdır. Ancak biri çapkınlık peşinde, biri her gördüğüne aşık olan diğeri ise aşktan hiç bahsetmeyen biridir. Bir gün kaderin oyunu üçünün de aşka olan bakış açısını değiştirir. Aşk, yalnızlık, ayrılık ve dahası...
 
-**![](images/dil-chanta-hai-sabahlatan.jpg)**
+![](images/dil-chanta-hai-sabahlatan.jpg)
 
  
 

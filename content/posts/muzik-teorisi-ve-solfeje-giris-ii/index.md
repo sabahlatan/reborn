@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Müzik Teorisi ve Solfeje Giriş II"
 date: "2017-03-03"
 categories: 

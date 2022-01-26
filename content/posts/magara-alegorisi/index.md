@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Mağara Alegorisi"
 date: "2016-08-28"
 categories: 

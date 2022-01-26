@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Dünya'nın Gerçek Oksijen Kaynakları Ağaçlar Değildir"
 date: "2015-05-22"
 categories: 

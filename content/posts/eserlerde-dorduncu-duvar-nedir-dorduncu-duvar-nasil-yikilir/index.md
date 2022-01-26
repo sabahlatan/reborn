@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Dördüncü Duvar Nedir, Nasıl Yıkılır"
 date: "2015-04-05"
 categories: 

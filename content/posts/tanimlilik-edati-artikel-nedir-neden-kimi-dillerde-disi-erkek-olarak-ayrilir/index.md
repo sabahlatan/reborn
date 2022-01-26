@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Dişisiyle, Erkeğiyle Artikel Nedir"
 date: "2015-04-05"
 categories: 

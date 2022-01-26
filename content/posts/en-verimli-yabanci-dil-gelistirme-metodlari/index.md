@@ -1,4 +1,5 @@
 ---
+type: post
 title: "En Verimli Yabancı Dil Geliştirme Metodları"
 date: "2015-10-07"
 categories: 

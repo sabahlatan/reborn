@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Kayıtlı Wi-Fi Şifresini Görüntülemek"
 date: "2016-10-23"
 categories: 

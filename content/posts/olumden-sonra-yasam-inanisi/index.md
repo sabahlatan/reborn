@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Ölümden Sonra Yaşam İnanışı"
 date: "2015-05-04"
 categories: 

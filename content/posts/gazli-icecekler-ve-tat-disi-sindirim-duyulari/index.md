@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Gazlı İçeceklerin Yapısı ve Tat Dışı Sindirim Duyuları"
 date: "2015-10-05"
 categories: 

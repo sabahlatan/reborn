@@ -1,4 +1,5 @@
 ---
+type: post
 title: "İkinci Dünya Savaşındaki İnsan Deneyleri"
 date: "2015-04-16"
 categories: 

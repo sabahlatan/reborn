@@ -1,4 +1,5 @@
 ---
+type: post
 title: "TRON Kurgusal Evreni"
 date: "2020-04-08"
 categories: 

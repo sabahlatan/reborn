@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Graham Sayısı ve Diğer Devasa Sayılar"
 date: "2018-08-14"
 categories: 

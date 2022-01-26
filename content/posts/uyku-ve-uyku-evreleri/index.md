@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Uyku ve Uyku Evreleri"
 date: "2015-05-03"
 categories: 

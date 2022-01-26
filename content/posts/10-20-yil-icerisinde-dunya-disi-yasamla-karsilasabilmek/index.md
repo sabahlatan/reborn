@@ -1,4 +1,5 @@
 ---
+type: post
 title: "10 - 20 Yıla Dünya Dışı Yaşamla Karşılaşmak"
 date: "2015-04-11"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "En Enteresan 5 Fobi"
 date: "2015-04-09"
 categories: 

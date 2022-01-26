@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Nanopor Teknolojisi ve DNA Nanotop Dizilemesi"
 date: "2018-04-07"
 categories: 

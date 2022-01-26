@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Veri Gizliliği ve Güvenliği Hakkında"
 date: "2020-08-25"
 categories: 
@@ -14,19 +15,17 @@ tags:
 thumbnail: "sabahlatan-veri-gizliligi-ve-guvenligi.png"
 ---
 
-Bu yazımda Veri Gizliliği ve Güvenliği hakkında çeşitli detay, gereksinim ve istatistiklere yüzeysel olarak değineceğim. Gerçek bir sistemde bu ikisine de ihtiyaç duyuyoruz. Veri Gizliliği, genellikle veri koruma yasaları ve düzenlemeleri ile alakalıdır. Veriyi elde etmek, işlemek, paylaşmak, arşivlemek veya silmek bu kapsama girer. Fakat Veri Güvenliği genellikle, veriyi çeşitli saldırılara karşı savunma ve güvenliğini sağlamayla alakalıdır.![Veri Gizliliği ve Güvenliği](images/sabahlatan-data-privacy-security.png)
+Bu yazımda Veri Gizliliği ve Güvenliği hakkında çeşitli detay, gereksinim ve istatistiklere yüzeysel olarak değineceğim. Gerçek bir sistemde bu ikisine de ihtiyaç duyuyoruz. Veri Gizliliği, genellikle veri koruma yasaları ve düzenlemeleri ile alakalıdır. Veriyi elde etmek, işlemek, paylaşmak, arşivlemek veya silmek bu kapsama girer. Fakat Veri Güvenliği genellikle, veriyi çeşitli saldırılara karşı savunma ve güvenliğini sağlamayla alakalıdır.
 
-## Veri Gizliliği
+![Veri Gizliliği ve Güvenliği](images/sabahlatan-data-privacy-security.png)
 
- 
+## Veri Gizliliği 
 
 Kısaca bir kişinin kendi verilerine ne olacağının kontrolünde olabilmesidir denilebilir.
 
 ### GDPR ve CCPA
 
 ![GDPR](images/sabahlatan-gdpr-300x150.png)
-
- 
 
 Veri gizliliği ile alakalı 2 ünlü düzenleme var. Bunlardan biri GDPR, öteki ise CCPA.
 
@@ -52,7 +51,9 @@ Son örnek olarak Google’dan bahsedeceğim. 2019 yılında Fransız Veri Korum
 
 ![Google Case](images/sabahlatan-google-case.jpg)
 
-## Veri Güvenliği![Veri Güvenliği Resmi](images/sabahlatan-cloud-key-300x176.png)
+## Veri Güvenliği
+
+![Veri Güvenliği Resmi](images/sabahlatan-cloud-key-300x176.png)
 
 Veri Güvenliği, temel olarak veri tabanını, içerdiği veriyi, yönetim sistemini, fiziksel veya sanal sunucu/donanımı ve veri tabanına erişim sağlayan uygulamaları kapsayan güvenlik kontrolleri terimidir.
 
@@ -66,7 +67,9 @@ Veri Güvenliği, temel olarak veri tabanını, içerdiği veriyi, yönetim sist
 
 **Gizliliğin Kaybolması:** Eğer özel bir veri varsa, uygun haklara sahip kişilerle paylaşılmaması veya uygun haklara sahip olmayan kişilerle paylaşılıyor olmasıdır.
 
-Tehditlere karşı 4 genel çözüm vardır:![](images/sabahlatan-saver-umbrella-300x240.jpg)
+Tehditlere karşı 4 genel çözüm vardır:
+
+![](images/sabahlatan-saver-umbrella-300x240.jpg)
 
 **Erişim Kontrolü:** Veritabanı güvenlik mekanizması erişimi sınırlandırmalıdır.
 
@@ -90,29 +93,41 @@ Buna genel bir çözüm olarak çok fazla kişiye yetkili hesaplar vermemeliyiz,
 
 ![](images/sabahlatan-insider-threats-1024x342.png)
 
-#### İnsan Hataları![](images/sabahlatan-human-errors-150x150.png)
+#### İnsan Hataları
+
+![](images/sabahlatan-human-errors-150x150.png)
 
 Genellikle güçsüz şifreler, şifre paylaşma veya bunun gibi diğer bilgi eksikliği temelli hatalardır. Tüm veri sızıntılarının %49’u insan hatasıdır.
 
-#### Veritabanı Yazılımının Zayıflıklarının Ortaya Çıkması![](images/sabahlatan-update-red-300x157.jpg)
+#### Veritabanı Yazılımının Zayıflıklarının Ortaya Çıkması
+
+![](images/sabahlatan-update-red-300x157.jpg)
 
 Hacker’lar genellikle bilindik veritabanı yazılımlarını hedef alır bu yazılımların halihazırda ortaya çıkarılmış açıklarından faydalanırlar. Bu durumda her zaman veritabanı yazılımımızın güncel olması gerektiğini söyleyebiliriz.
 
-#### SQL/NoSQL İnjeksiyon Saldırıları![](images/sabahlatan-injection-attack-300x208.jpg)
+#### SQL/NoSQL İnjeksiyon Saldırıları
+
+![](images/sabahlatan-injection-attack-300x208.jpg)
 
 Veritabanı özelinde SQL veya NoSQL saldırı komutlarını web uygulamaları veya HTTP bağlantıları tarafından çalıştırılan veritabanı sorguları arasına yerleştirme işlemidir. Güvenli uygulama programlama yöntemlerini takip etmemek ve düzenli zafiyet testleri uygulamamak sisteminizi bu tarz saldırılara açık hale getirebilir.
 
-#### Buffer Overflow Zafiyeti![](images/sabahlatan-buffer-overflow-attack-300x158.png)
+#### Buffer Overflow Zafiyeti
+
+![](images/sabahlatan-buffer-overflow-attack-300x158.png)
 
 Bir işlem belirli boyutlu bir hafıza blokuna fazlaca veri yazmaya kalkıştığında karşılaşılan açıktır. Saldırganlar bu açıktan faydalanarak kendi kodlarını sunucuda çalıştırabilmektedir.
 
  
 
-#### Hizmet Reddi (DOS/DDOS) Saldırıları![](images/sabahlatan-ddos-attack-300x209.png)
+#### Hizmet Reddi (DOS/DDOS) Saldırıları
+
+![](images/sabahlatan-ddos-attack-300x209.png)
 
 Saldırganlar, fazlaca taleple hedef sunucuyu bombalarlar, bu durumda sunucu, çok fazla talep aldığı için gerçek kullanıcıların taleplerini karşılayamayacak hale gelir. Bu tarz durumlar için ara broker yazılımları kullanabilirsiniz.
 
-#### Malware![](images/sabahlatan-malware-attack-150x150.png)
+#### Malware
+
+![](images/sabahlatan-malware-attack-150x150.png)
 
 Malware’ler hedef sunucuların açıklarını ortaya çıkarma veya direkt zarar verme amacıyla programlanmış yazılımlardır. Malware sunucu ağına doğrudan bağlı bir uç cihazdan bulaşabilir.
 

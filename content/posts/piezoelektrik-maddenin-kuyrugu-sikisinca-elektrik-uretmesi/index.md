@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Piezoelektrik: Maddenin Kuyruğu Sıkışınca Elektrik Üretmesi"
 date: "2017-07-02"
 categories: 

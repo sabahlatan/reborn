@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Bir Yıldız Sisteminde Canlılığın Oluşması İçin Gereken Etmenler"
 date: "2015-10-24"
 categories: 

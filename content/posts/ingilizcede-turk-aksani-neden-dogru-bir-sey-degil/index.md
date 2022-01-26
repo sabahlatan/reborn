@@ -1,4 +1,5 @@
 ---
+type: post
 title: "İngilizcede \"Türk Aksanı\" Problemi"
 date: "2017-08-24"
 categories: 

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Mikrodalga Fırın Nasıl Çalışır"
 date: "2016-09-18"
 categories: 

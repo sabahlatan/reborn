@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Podcast Nedir, Ne Değildir"
 date: "2018-08-12"
 categories: 

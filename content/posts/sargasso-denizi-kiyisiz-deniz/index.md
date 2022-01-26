@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Sargasso Denizi: Kıyısı Olmayan Tek Deniz"
 date: "2018-08-13"
 categories: 

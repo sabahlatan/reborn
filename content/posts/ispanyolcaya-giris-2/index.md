@@ -1,4 +1,5 @@
 ---
+type: post
 title: "İspanyolcaya Giriş 2"
 date: "2016-05-12"
 categories: 

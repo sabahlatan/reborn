@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Kısaca Nanoteknoloji"
 date: "2017-05-02"
 categories: 

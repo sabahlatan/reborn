@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Ozon ve Ozon Tabakası Hakkında Az Bilinenler"
 date: "2018-08-18"
 categories: 

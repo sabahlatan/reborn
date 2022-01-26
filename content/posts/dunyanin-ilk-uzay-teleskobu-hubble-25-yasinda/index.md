@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Dünyanın İlk Uzay Teleskobu Hubble 25 Yaşında"
 date: "2015-04-25"
 categories: 

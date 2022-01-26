@@ -1,4 +1,5 @@
 ---
+type: post
 title: "İspanyolcaya Giriş 1"
 date: "2015-11-24"
 categories: 

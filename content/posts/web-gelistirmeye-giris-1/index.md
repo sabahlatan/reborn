@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Web Geliştirmeye Giriş 1"
 date: "2015-11-25"
 categories: 

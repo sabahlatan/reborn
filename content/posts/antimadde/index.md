@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Antimadde Nedir"
 date: "2016-10-28"
 categories: 

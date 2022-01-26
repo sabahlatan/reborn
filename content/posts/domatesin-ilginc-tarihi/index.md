@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Domatesin İlginç Tarihi"
 date: "2018-09-03"
 categories: 

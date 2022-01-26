@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Greyfurt ile İlaç Tüketilir mi?"
 date: "2019-03-06"
 categories: 

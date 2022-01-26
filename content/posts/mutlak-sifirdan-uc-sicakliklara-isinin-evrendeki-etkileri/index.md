@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Mutlak Sıfırdan Uç Sıcaklıklara Isının Evrendeki Etkileri"
 date: "2015-10-18"
 categories: 

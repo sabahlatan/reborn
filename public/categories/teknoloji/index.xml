@@ -13,8 +13,8 @@
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://reborn.sabahlatan.com/blog/veri-gizliligi-ve-guvenligi-hakkinda/</guid>
-      <description>Bu yazımda Veri Gizliliği ve Güvenliği hakkında çeşitli detay, gereksinim ve istatistiklere yüzeysel olarak değineceğim. Gerçek bir sistemde bu ikisine de ihtiyaç duyuyoruz. Veri Gizliliği, genellikle veri koruma yasaları ve düzenlemeleri ile alakalıdır. Veriyi elde etmek, işlemek, paylaşmak, arşivlemek veya silmek bu kapsama girer. Fakat Veri Güvenliği genellikle, veriyi çeşitli saldırılara karşı savunma ve güvenliğini sağlamayla alakalıdır.Veri Gizliliği  Kısaca bir kişinin kendi verilerine ne olacağının kontrolünde olabilmesidir denilebilir.
-GDPR ve CCPA  Veri gizliliği ile alakalı 2 ünlü düzenleme var.</description>
+      <description>Bu yazımda Veri Gizliliği ve Güvenliği hakkında çeşitli detay, gereksinim ve istatistiklere yüzeysel olarak değineceğim. Gerçek bir sistemde bu ikisine de ihtiyaç duyuyoruz. Veri Gizliliği, genellikle veri koruma yasaları ve düzenlemeleri ile alakalıdır. Veriyi elde etmek, işlemek, paylaşmak, arşivlemek veya silmek bu kapsama girer. Fakat Veri Güvenliği genellikle, veriyi çeşitli saldırılara karşı savunma ve güvenliğini sağlamayla alakalıdır.Veri Gizliliği  Kısaca bir kişinin kendi verilerine ne olacağının kontrolünde olabilmesidir denilebilir.
+GDPR ve CCPA  Veri gizliliği ile alakalı 2 ünlü düzenleme var.</description>
     </item>
     
     <item>
@@ -90,7 +90,7 @@ Retro oyunlardan bahsetmek istiyorum. Retro bakımından günümüzde tasarım o
       <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://reborn.sabahlatan.com/blog/nokianin-bilinmeyenleri/</guid>
-      <description>Bu yazı uzun süre önce aklımdaydı, fakat şu günler Nokia 3310 adı altında yeni bir telefonun piyasaya sürülmesi bunu şu an daha anlamlı kılacaktır. Bunun nedeni bu yazının içeriğinin Microsoft tarafından satın alınmadan önceki Nokia hakkında olması.
+      <description>Bu yazı uzun süre önce aklımdaydı, fakat şu günler Nokia 3310 adı altında yeni bir telefonun piyasaya sürülmesi bunu şu an daha anlamlı kılacaktır. Bunun nedeni bu yazının içeriğinin Microsoft tarafından satın alınmadan önceki Nokia hakkında olması.
 Hepsinden önce Nokia hakkındaki son gelişmelere bir göz atalım. Yeni tanıtılan telefonun Nokia 3310&amp;rsquo;la hiçbir alakası veya cezbedici hiçbir yanı yok, bunu fark etmişsinizdir. Aynı boyuttaki eski tuşlu telefon modelleri arasında, çeşitli markaların aynen bu şekilde cihazları mevcuttu.</description>
     </item>
     
@@ -100,8 +100,8 @@ Hepsinden önce Nokia hakkındaki son gelişmelere bir göz atalım. Yeni tanıt
       <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://reborn.sabahlatan.com/blog/cesitli-platformlarda-kayitli-wi-fi-sifresini-goruntulemek/</guid>
-      <description>Teknolojinin ulaştığı noktanın etkisiyle kablosuz ağlara bağlanan cihazlar artık her evin dört bir köşesinde yer alıyor. İnsanlar artık kablosuz bağlantılar olmadan yaşayamaz halde. Tabii bu bağlanılan ağlar güvenlik anahtarı, yani ağa bağlanma şifresi kullandığında zaman içinde başka bir cihazı bu ağa bağlamak gerektiğinde unutulabiliyor.
-Mevcut ağ ev tipi bir modem bağlantısı olduğunda ve ağ sahibi iken web tarayıcısı olan bir cihazla 192.168.1.1 şeklindeki adrese girerek modem arayüzüne bağlandıktan sonra şifreyi görmek ve değiştirmek mümkün.</description>
+      <description>Teknolojinin ulaştığı noktanın etkisiyle kablosuz ağlara bağlanan cihazlar artık her evin dört bir köşesinde yer alıyor. İnsanlar artık kablosuz bağlantılar olmadan yaşayamaz halde. Tabii bu bağlanılan ağlar güvenlik anahtarı, yani ağa bağlanma şifresi kullandığında zaman içinde başka bir cihazı bu ağa bağlamak gerektiğinde unutulabiliyor.
+Mevcut ağ ev tipi bir modem bağlantısı olduğunda ve ağ sahibi iken web tarayıcısı olan bir cihazla 192.168.1.1 şeklindeki adrese girerek modem arayüzüne bağlandıktan sonra şifreyi görmek ve değiştirmek mümkün.</description>
     </item>
     
     <item>
@@ -119,8 +119,8 @@ Mevcut ağ ev tipi bir modem bağlantısı olduğunda ve ağ sahibi iken web ta
       <pubDate>Sun, 24 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://reborn.sabahlatan.com/blog/kuantum-bilgisayari-ve-qbit/</guid>
-      <description>Teknoloji hızla ilerliyor, fakat ne kadar ilerlerse ilerlesin bu gelişmeler genellikle tekdüze bir doğrultuda devam ediyor. Bilgisayar bilimlerinde Moore Yasası denen basit bir öngörü vardır. Buna göre her iki yılda bir bilgisayar işlemci kapasiteleri iki katına çıkarak artmaya devam eder. 20. yüzyılın ortalarından bu yana hemen hemen her zaman doğru çıkan bu öngörü son yıllarda işlememeye başlamıştır. İnsanoğlu şu an teknolojik bir duraklama evresindedir.
-Bunun nedeni bilgisayarın tarihinde gizli. En başta analog sistemler şekilde doğan bilgisayarlar, vakum tüplerinin icadıyla dijital hale geldi ve bugüne kadar başta bilgisayarlar olmak üzere tüm elektronik aletler yavaş yavaş dijitalleşmeye başladı.</description>
+      <description>Teknoloji hızla ilerliyor, fakat ne kadar ilerlerse ilerlesin bu gelişmeler genellikle tekdüze bir doğrultuda devam ediyor. Bilgisayar bilimlerinde Moore Yasası denen basit bir öngörü vardır. Buna göre her iki yılda bir bilgisayar işlemci kapasiteleri iki katına çıkarak artmaya devam eder. 20. yüzyılın ortalarından bu yana hemen hemen her zaman doğru çıkan bu öngörü son yıllarda işlememeye başlamıştır. İnsanoğlu şu an teknolojik bir duraklama evresindedir.
+Bunun nedeni bilgisayarın tarihinde gizli. En başta analog sistemler şekilde doğan bilgisayarlar, vakum tüplerinin icadıyla dijital hale geldi ve bugüne kadar başta bilgisayarlar olmak üzere tüm elektronik aletler yavaş yavaş dijitalleşmeye başladı.</description>
     </item>
     
     <item>
@@ -129,8 +129,8 @@ Bunun nedeni bilgisayarın tarihinde gizli. En başta analog sistemler şekilde
       <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>https://reborn.sabahlatan.com/blog/web-gelistirmeye-giris-1/</guid>
-      <description>Bir web sitesi oluşturmanın sayısız yolu vardır. Bunların hepsi temelde aynı olsa da, seviyelerine ve web sitesini farklı bakış açılarıyla oluşturmayı sağlamalarına göre birbirinden ayrılır. Şimdi soyut bir şekilde açıklamak yerine web geliştirmeyle uğraşmak isteyen bir kişinin bilmesi gereken kavramları teker teker açıklayalım.
-Web geliştirme iki ayrı alana ayrılır; web tasarım ve web programlama. Web tasarım bir site üzerinde göze hitap eden kısımların oluşturulmasıdır. Tema çizimi, temaların HTML kodlarına dökülerek tarayıcı üzerinde çalışmasının sağlanması ve diğer grafik işleri web tasarım dahilindedir.</description>
+      <description>Bir web sitesi oluşturmanın sayısız yolu vardır. Bunların hepsi temelde aynı olsa da, seviyelerine ve web sitesini farklı bakış açılarıyla oluşturmayı sağlamalarına göre birbirinden ayrılır. Şimdi soyut bir şekilde açıklamak yerine web geliştirmeyle uğraşmak isteyen bir kişinin bilmesi gereken kavramları teker teker açıklayalım.
+Web geliştirme iki ayrı alana ayrılır; web tasarım ve web programlama. Web tasarım bir site üzerinde göze hitap eden kısımların oluşturulmasıdır. Tema çizimi, temaların HTML kodlarına dökülerek tarayıcı üzerinde çalışmasının sağlanması ve diğer grafik işleri web tasarım dahilindedir.</description>
     </item>
     
     <item>
@@ -139,7 +139,7 @@ Web geliştirme iki ayrı alana ayrılır; web tasarım ve web programlama. Web
       <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>https://reborn.sabahlatan.com/blog/kendi-kendine-link-yollayan-takip-eden-sosyal-ag-hesaplarini-temizlemek/</guid>
-      <description>Hiçbir sosyal ağ hesabı kendi kendine diğer kullanıcılara mesaj göndermez veya &amp;ldquo;hesabım saçma sapan hesapları takip ediyor&amp;rdquo; cümlesinde bahsettiğiniz eylemi gerçekleştirmez. Yapay zeka henüz bu kadar gelişmedi. Bunlar tamamen zamanında bir boklar yemiş olmanızdan kaynaklanıyor.
+      <description>Hiçbir sosyal ağ hesabı kendi kendine diğer kullanıcılara mesaj göndermez veya &amp;ldquo;hesabım saçma sapan hesapları takip ediyor&amp;rdquo; cümlesinde bahsettiğiniz eylemi gerçekleştirmez. Yapay zeka henüz bu kadar gelişmedi. Bunlar tamamen zamanında bir boklar yemiş olmanızdan kaynaklanıyor.
 Tüm sosyal ağlarda bu konuda mantık aynıdır. Bir profil onu kullanan kişinin isteği dışında hareketler sergiliyorsa bu ya başka birinin şifreyi biliyor olmasından, ya da kullanıcının profilinde cirit atmasına izin verdiği uygulamalardan kaynaklanır. Birinci seçenekle sıklıkla karşılaşılmaz.</description>
     </item>
     
@@ -149,7 +149,7 @@ Tüm sosyal ağlarda bu konuda mantık aynıdır. Bir profil onu kullanan kişin
       <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://reborn.sabahlatan.com/blog/agar-io-kavramlarinin-bilimsel-kokeni/</guid>
-      <description>Agar.io çıktığı ilk günden bu yana popülaritesine devam ediyor. Bu yazıda incelenecek olan Agar.io oyununda yer alan objelerin bilimsel anlamda temsil ettiği gerçekler olacak. Agar.io&amp;rsquo;da yer alan kavramlar yalnızca bu oyun için uydurulmuş değil, mikro evrende var olan nesnelerin birer kopyası. Oyunda içinde bulunulan mekan, besinler, engeller ve düşmanlar tamamen birer gerçek örneği temsil ediyor.
+      <description>Agar.io çıktığı ilk günden bu yana popülaritesine devam ediyor. Bu yazıda incelenecek olan Agar.io oyununda yer alan objelerin bilimsel anlamda temsil ettiği gerçekler olacak. Agar.io&amp;rsquo;da yer alan kavramlar yalnızca bu oyun için uydurulmuş değil, mikro evrende var olan nesnelerin birer kopyası. Oyunda içinde bulunulan mekan, besinler, engeller ve düşmanlar tamamen birer gerçek örneği temsil ediyor.
 Oyunda yer alan oyuncuların yönlendirdiği objelerin isminin hücre (cell) olduğu bu oyunla ilgili en çok bilinen gerçeklerden biridir.</description>
     </item>
     
@@ -188,7 +188,7 @@ Kensington Kilidi Nasıl Kullanılır? Metal olan güvenlik kablosunun bir ucund
       <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>https://reborn.sabahlatan.com/blog/hayati-kolaylastiran-5-android-uygulamasi/</guid>
-      <description>Artık insanlar için hayatın akıllı telefonları ve internet olmadan akmadığı su götürmez bir gerçek. Yanlarından ayırmadıkları akıllı telefonlarıyla canları sıkıldığı zaman oyun oynamak olsun, istediklerinde bir şeyler izlemek veya okumak gibi eylemler olsun kolaylıkla ve hızlı bir şekilde gerçekleştirebiliyorlar. Hayatı bu kadar hızlandıran bir icattan kimse mahrum kalmak istemez. Elbette içerisinde çeşitli uygulamalar olmadıkça bir akıllı telefon büyük oranda boş bir kutu. Bu uygulamalar olmadıktan sonra akıllı telefonlar yalnızca rahatça internete girmek, müzik dinlemek, takvim ve ses kaydı gibi temel işlevler için kullanılabilir.</description>
+      <description>Artık insanlar için hayatın akıllı telefonları ve internet olmadan akmadığı su götürmez bir gerçek. Yanlarından ayırmadıkları akıllı telefonlarıyla canları sıkıldığı zaman oyun oynamak olsun, istediklerinde bir şeyler izlemek veya okumak gibi eylemler olsun kolaylıkla ve hızlı bir şekilde gerçekleştirebiliyorlar. Hayatı bu kadar hızlandıran bir icattan kimse mahrum kalmak istemez. Elbette içerisinde çeşitli uygulamalar olmadıkça bir akıllı telefon büyük oranda boş bir kutu. Bu uygulamalar olmadıktan sonra akıllı telefonlar yalnızca rahatça internete girmek, müzik dinlemek, takvim ve ses kaydı gibi temel işlevler için kullanılabilir.</description>
     </item>
     
     <item>
@@ -208,7 +208,7 @@ Bütün bu gelişim hızının arkasında yarı iletkenlerin keşfedilmesi yatı
       
       <guid>https://reborn.sabahlatan.com/blog/bilgisayarinizi-arindirmak-ve-rahatlatmak-adina-en-hafif-cozum-combofix/</guid>
       <description>Her geçen gün bilgisayarların donanımsal kapasiteleri gittikçe artsa da gereksiz yere şişirilen yazılımlar son kullanıcıyı deliye döndürebiliyor. Yerine getirmesi gereken görev çok basit olsa da; yanında getirdiği bir ton boş özellikle bilgisayarda lüzumsuz yer kaplayan, bilgisayarı yoran bu yazılımlar için bloatware terimi kullanılıyor. Bu konuda en güzel örnekler Adobe Acrobat Reader ve Nero denen zırvalar.
-Bunların dışında bir bilgisayarı genel olarak en çok yoran uygulamaların başında her zaman çalışan antivirüs programları geliyor.</description>
+Bunların dışında bir bilgisayarı genel olarak en çok yoran uygulamaların başında her zaman çalışan antivirüs programları geliyor.</description>
     </item>
     
   </channel>

@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Bir yıldız nasıl doğar?"
 date: "2020-08-31"
 categories: 

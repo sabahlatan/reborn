@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Okyanuslardaki Dev Çöp Adaları ve Onları Ülke Yapma Çabası"
 date: "2018-08-22"
 categories: 

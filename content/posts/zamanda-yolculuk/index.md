@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Zamanda Yolculuk: Bilim Kurgunun En Önemli Kavramı"
 date: "2016-10-22"
 categories: 

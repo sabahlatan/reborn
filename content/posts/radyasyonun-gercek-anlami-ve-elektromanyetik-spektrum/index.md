@@ -1,4 +1,5 @@
 ---
+type: post
 title: "Radyasyon ve Elektromanyetik Spektrum"
 date: "2015-04-28"
 categories: 
