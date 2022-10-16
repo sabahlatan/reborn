@@ -1183,7 +1183,7 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 }
 
 
-.disqus_thread {
+#disqus_thread {
 	width: 100%;
 }/* Print */
 @media print {
